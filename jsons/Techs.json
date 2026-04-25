@@ -104,19 +104,19 @@
 			{
 				"name": "Currency",
 				"row": 6,
-				"prerequisites": ["Agriculture","Bronze Working"],
+				"prerequisites": ["Agriculture","Mining"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Construction",
 				"row": 8,
-				"prerequisites": ["Bronze Working"],
+				"prerequisites": ["Mining"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
 				"name": "Standing Army",
 				"row": 10,
-				"prerequisites": ["Bronze Working","Archery"],
+				"prerequisites": ["Mining","Archery"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
@@ -161,7 +161,7 @@
 			{
 				"name": "Fortifications",
 				"row": 13,
-				"prerequisites": ["Standing Army","Mining"],
+				"prerequisites": ["Standing Army","Bronze Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 		]
