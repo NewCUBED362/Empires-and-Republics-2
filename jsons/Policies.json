@@ -1,7 +1,7 @@
 [
   {
     "name": "Cheifdom",
-    "era": "Neolithic era",
+    "era": "Ancient era",
     "uniques": ["[+1 Happiness]","Unavailable <starting from the [Ancient era]>","Get the leader title of [Chief [leaderName]]"]
     "policies": [
       {
@@ -94,7 +94,7 @@
   },
   {
     "name": "Monarchy",
-    "era": "High Middle Ages",
+    "era": "Medieval era",
     "uniques": ["[+2 Culture] from all [Walls] buildings","Get the leader title of [Monarch [leaderName]]","Only available <before adopting [Maritime Republic]>","Only available <before adopting [Theocracy]>"]
     "policies": [
       {
@@ -125,7 +125,7 @@
   },
   {
     "name": "Maritime Republic",
-    "era": "High Middle Ages",
+    "era": "Medieval era",
     "uniques": ["[+1 Gold] <in [in all cities] cities> <in [Coastal] tiles>","Get the leader title of [Doge [leaderName]]","Only available <before adopting [Monarchy]>","Only available <before adopting [Theocracy]>"]
     "policies": [
       {
@@ -156,7 +156,7 @@
   },
   {
     "name": "Theocracy",
-    "era": "High Middle Ages",
+    "era": "Medieval era",
     "uniques": ["[+1 Faith] [in all cities connected to capital]","Only available <before adopting [Monarchy]>","Only available <before adopting [Maritime Republic]>"]
     "policies": [
       {
