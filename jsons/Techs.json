@@ -128,5 +128,28 @@
       {
         "name": "Literacy",
         "row": 1,
+        "cost": 120,
+      },
+      {
+        "name": "Trade",
+        "row": 3,
+        "cost": 120,
+      },
+      {
+        "name": "Astronomy",
+        "row": 5,
+        "cost": 120,
+      },
+      {
+        "name": "Seafaring",
+        "row": 7,
+        "cost": 120,
+      },
+      {
+        "name": "Construction",
+        "row": 9,
+        "cost": 120,
       }
+    ]
+  }
 ]
