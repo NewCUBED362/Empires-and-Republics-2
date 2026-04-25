@@ -206,7 +206,6 @@
       "row": 3,
       "cost": 390,
       "prerequisites": ["Trade","Philosophy"],
-      
     },
     {
       "name": "University",
