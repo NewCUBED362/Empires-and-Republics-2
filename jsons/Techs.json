@@ -7,7 +7,7 @@
     "techs": [
     {
       "name": "Agriculture",
-      "row": 0,
+      "row": 1,
       "cost": 15,
       "uniques": ["Starting tech"],
     },
