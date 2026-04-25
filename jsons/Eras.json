@@ -6,5 +6,9 @@
   {
     "name": "Classical era",
     "citySound": "cityClassical",
+  },
+  {
+    "name": "Medieval era",
+    "citySound": "cityMedieval",
   }
 ]
