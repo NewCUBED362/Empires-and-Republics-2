@@ -297,7 +297,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Heavy Machine Gun",
+		"name": "Machine Gun",
 		"unitType": "Ranged Gunpowder",
 		"movement": 2,
 		"strength": 23,
