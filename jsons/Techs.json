@@ -67,46 +67,55 @@
       "name": "Writing",
       "row": 2,
       "cost": 50,
+      "prerequisites": ["Ceremonial Burial"],
     },
     {
       "name": "Code of Laws",
       "row": 4,
       "cost": 50,
+      "prerequisites": ["Ceremonial Burial"],
     },
     {
       "name": "Mysticism",
       "row": 6,
       "cost": 50,
+      "prerequisites": ["Ceremonial Burial"],
     },
     {
       "name": "Mathematics",
       "row": 8,
       "cost": 50,
+      "prerequisites": ["Ceremonial Burial","Masonry"],
     }
     {
       "name": "Map Making",
       "row": 10,
       "cost": 50,
+      "prerequisites": ["Ceremonial Burial"],
     }
     {
       "name": "Polytheism",
       "row": 12,
       "cost": 25,
+      "prerequisites": ["Ceremonial Burial","Horseback Riding"],
     },
     {
       "name": "Wheel",
       "row": 14,
       "cost": 50,
+      "prerequisites": ["Horseback Riding"],
     },
     {
       "name": "Currency",
       "row": 16,
       "cost": 50,
+      "prerequisites": ["Bronze Working"],
     },
     {
       "name": "Iron Working",
       "row": 18,
       "cost": 50,
+      "prerequisites": ["Bronze Working","Warrior Code"],
     }
     ]
   }
