@@ -272,7 +272,7 @@
 		"cost": 330,
 		"requiredTech": "Military Science",
 		"obsoleteTech": "Trench Warfare",
-		"upgradesTo": "Heavy Machine Gun",
+		"upgradesTo": "Machine Gun",
 	},
 	{
 		"name": "Frigate",
