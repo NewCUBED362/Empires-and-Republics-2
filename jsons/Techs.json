@@ -154,6 +154,34 @@
         "row": 9,
         "cost": 120,
         "prerequisites": ["Masonry","Currency"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 4,
+    "era": "Medieval era",
+    "buildingCost": 60,
+    "wonderCost": 100,
+    "techs": [
+      {
+        "name": "Philosophy",
+        "row": 2,
+        "cost": 200,
+      },
+      {
+        "name": "Navigation",
+        "row": 6,
+        "cost": 200,
+      },
+      {
+        "name": "Engineering",
+        "row": 8,
+        "cost": 200,
+      },
+      {
+        "name": "Feudalism",
+        "row": 10,
+        "cost": 200,
       }
     ]
   }
