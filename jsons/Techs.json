@@ -198,5 +198,36 @@
       "name": "Banking",
       "row": 1,
       "cost": 390,
-  }
+    },
+    {
+      "name": "Medicine",
+      "row": 3,
+      "cost": 390,
+    },
+    {
+      "name": "University",
+      "row": 5,
+      "cost": 390,
+    },
+    {
+      "name": "Physics",
+      "row": 7,
+      "cost": 390,
+    },
+    {
+      "name": "Monotheism",
+      "row": 9,
+      "cost": 390,
+    },
+    {
+      "name": "Invention",
+      "row": 11,
+      "cost": 390,
+    },
+    {
+      "name": "Chivalry",
+      "row": 13,
+    }
+  ]
+}
 ]
