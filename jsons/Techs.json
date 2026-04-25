@@ -129,26 +129,31 @@
         "name": "Literacy",
         "row": 1,
         "cost": 120,
+        "prerequisites": ["Writing","Code of Laws"],
       },
       {
         "name": "Trade",
         "row": 3,
         "cost": 120,
+        "prerequisites": ["Code of Laws","Currency"],
       },
       {
         "name": "Astronomy",
         "row": 5,
         "cost": 120,
+        "prerequisites": ["Mysticism","Mathematics"],
       },
       {
         "name": "Seafaring",
         "row": 7,
         "cost": 120,
+        "prerequisites": ["Pottery","Map Making"],
       },
       {
         "name": "Construction",
         "row": 9,
         "cost": 120,
+        "prerequisites": ["Masonry","Currency"],
       }
     ]
   }
