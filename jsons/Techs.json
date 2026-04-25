@@ -165,23 +165,27 @@
     "techs": [
       {
         "name": "Philosophy",
-        "row": 2,
+        "row": 6,
         "cost": 200,
+        "prerequisites": ["Mysticism","Literacy"],
       },
       {
         "name": "Navigation",
-        "row": 6,
+        "row": 7,
         "cost": 200,
+        "prerequisites": ["Astronomy","Seafaring"],
       },
       {
         "name": "Engineering",
-        "row": 8,
+        "row": 14,
         "cost": 200,
+        "prerequisites": ["Wheel","Construction"],
       },
       {
         "name": "Feudalism",
-        "row": 10,
+        "row": 18,
         "cost": 200,
+        "prerequisites": ["Iron Working","Construction"],
       }
     ]
   }
