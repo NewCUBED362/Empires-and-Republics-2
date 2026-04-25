@@ -6,7 +6,7 @@
     "wonderCost": 100,
     "techs": [
     {
-      "name": "Agriculture",
+      "name": "Alphabet",
       "row": 1,
       "cost": 0,
       "uniques": ["Starting tech"],
@@ -48,6 +48,59 @@
       "name": "Warrior Code",
       "row": 11,
       "cost": 25,
+    },
+    ],
+  },
+  {
+    "columnNumber": 2,
+    "era": "Classical era",
+    "buildingCost": 20,
+    "wonderCost": 100,
+    "techs": [
+    {
+      "name": "Writing",
+      "row": 2,
+      "cost": 50,
+    },
+    {
+      "name": "Code of Laws",
+      "row": 4,
+      "cost": 50,
+    },
+    {
+      "name": "Mysticism",
+      "row": 6,
+      "cost": 50,
+    },
+    {
+      "name": "Mathematics",
+      "row": 8,
+      "cost": 50,
+    }
+    {
+      "name": "Map Making",
+      "row": 10,
+      "cost": 50,
+    }
+    {
+      "name": "Polytheism",
+      "row": 12,
+      "cost": 25,
+    },
+    {
+      "name": "Wheel",
+      "row": 14,
+      "cost": 50,
+    },
+    {
+      "name": "Currency",
+      "row": 16,
+      "cost": 50,
+    },
+    {
+      "name": "Iron Working",
+      "row": 18,
+      "cost": 50,
     }
     ]
   }
