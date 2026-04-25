@@ -67,7 +67,7 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Bronze Working",
+				"name": "Mining",
 				"row": 8,
 				"prerequisites": ["Stone Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
@@ -120,7 +120,7 @@
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
 			},
 			{
-				"name": "Mining",
+				"name": "Bronze Working",
 				"row": 12,
 				"prerequisites": ["Bronze Working"],
 				"quote": "'He who commands the sea has command of everything.' - Themistocles",
