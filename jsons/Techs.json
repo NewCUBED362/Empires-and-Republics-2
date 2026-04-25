@@ -4,11 +4,13 @@
     "era": "Ancient era",
     "buildingCost": 20,
     "wonderCost": 100,
-    "techs": {
+    "techs": [
+    {
       "name": "Agriculture",
       "row": 0,
       "cost": 15,
       "uniques": ["Starting tech"],
     },
+    ],
   },
 ]
