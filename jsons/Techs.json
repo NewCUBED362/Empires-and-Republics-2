@@ -199,35 +199,44 @@
       "name": "Banking",
       "row": 1,
       "cost": 390,
+      "prerequisites": ["Literacy","Trade"],
     },
     {
       "name": "Medicine",
       "row": 3,
       "cost": 390,
+      "prerequisites": ["Trade","Philosophy"],
+      
     },
     {
       "name": "University",
       "row": 5,
       "cost": 390,
+      "prerequisites": ["Philosophy"],
     },
     {
       "name": "Physics",
       "row": 7,
       "cost": 390,
+      "prerequisites": ["Literacy","Navigation"],
     },
     {
       "name": "Monotheism",
       "row": 9,
       "cost": 390,
+      "prerequisites": ["Philosophy"],
     },
     {
       "name": "Invention",
       "row": 11,
       "cost": 390,
+      "prerequisites": ["Literacy","Engineering"],
     },
     {
       "name": "Chivalry",
       "row": 13,
+      "cost": 390,
+      "prerequisites": ["Engineering","Feudalism"],
     }
   ]
 }
