@@ -194,6 +194,7 @@
     "era": "Medieval era",
     "buildingCost": 100,
     "wonderCost": 200,
+    "techs": [
     {
       "name": "Banking",
       "row": 1,
