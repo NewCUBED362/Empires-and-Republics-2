@@ -1,0 +1,732 @@
+[
+	{
+		"columnNumber": 0,
+		"era": "Neolithic era",
+		"techCost": 80,
+		"buildingCost": 40,
+		"wonderCost": 185,
+		"techs": [
+			{
+				"name": "The Beginning",
+				"row": 5,
+				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
+				"uniques": ["Starting tech"]
+			},
+		]
+	},
+	{
+		"columnNumber": 1,
+		"era": "Neolithic era",
+		"techCost": 80,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Hunting",
+				"row": 1,
+				"prerequisites": ["The Beginning"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Stone Working",
+				"row": 5,
+				"prerequisites": ["The Beginning"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Fire",
+				"row": 8,
+				"prerequisites": ["The Beginning"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 2,
+		"era": "Neolithic era",
+		"techCost": 70,
+		"buildingCost": 40,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Fishing",
+				"row": 1,
+				"prerequisites": ["Hunting"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Agriculture",
+				"row": 3,
+				"prerequisites": ["Fire","Hunting"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Trapping",
+				"row": 4,
+				"prerequisites": ["Hunting"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Bronze Working",
+				"row": 8,
+				"prerequisites": ["Stone Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Archery",
+				"row": 10,
+				"prerequisites": ["Stone Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 3,
+		"era": "Ancient era",
+		"techCost": 120,
+		"buildingCost": 80,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Ship Building",
+				"row": 2,
+				"prerequisites": ["Fishing"],
+				"uniques": ["Enables embarkation for land units"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Writing",
+				"row": 4,
+				"prerequisites": ["Trapping","Agriculture"],
+				"uniques": ["Enables Open Borders agreements"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Currency",
+				"row": 6,
+				"prerequisites": ["Agriculture","Bronze Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Construction",
+				"row": 8,
+				"prerequisites": ["Bronze Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Standing Army",
+				"row": 10,
+				"prerequisites": ["Bronze Working","Archery"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Mining",
+				"row": 12,
+				"prerequisites": ["Bronze Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 4,
+		"era": "Ancient era",
+		"techCost": 120,
+		"buildingCost": 80,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Baking",
+				"row": 4,
+				"prerequisites": ["Currency","Writing"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Hydrology",
+				"row": 8,
+				"prerequisites": ["Construction","Ship Building"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Organised Warfare",
+				"row": 10,
+				"prerequisites": ["Standing Army"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Horse Riding",
+				"row": 11,
+				"prerequisites": ["Standing Army"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Fortifications",
+				"row": 13,
+				"prerequisites": ["Standing Army","Mining"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 5,
+		"era": "Ancient era",
+		"techCost": 120,
+		"buildingCost": 80,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Philosophy",
+				"row": 4,
+				"prerequisites": ["Baking"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Rhetoric",
+				"row": 5,
+				"prerequisites": ["Hydrology"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Siege Tactics",
+				"row": 11,
+				"prerequisites": ["Organised Warfare","Fortifications"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Iron Working",
+				"row": 10,
+				"prerequisites": ["Organised Warfare","Horse Riding"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 6,
+		"era": "High Middle Ages",
+		"techCost": 390,
+		"buildingCost": 120,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Alchemy",
+				"row": 4,
+				"prerequisites": ["Rhetoric","Philosophy"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Furnace Steel",
+				"row": 8,
+				"prerequisites": ["Rhetoric","Iron Working"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Military Tactics",
+				"row": 10,
+				"prerequisites": ["Iron Working","Siege Tactics"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 7,
+		"era": "High Middle Ages",
+		"techCost": 390,
+		"buildingCost": 120,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Compass",
+				"row": 2,
+				"prerequisites": ["Alchemy"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Theology",
+				"row": 5,
+				"prerequisites": ["Alchemy"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Guilds",
+				"row": 6,
+				"prerequisites": ["Furnace Steel"],
+				"uniques": ["Enables conversion of city production to [Gold]"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Machinery",
+				"row": 10,
+				"prerequisites": ["Military Tactics"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Chivalry",
+				"row": 11,
+				"prerequisites": ["Military Tactics"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 8,
+		"era": "High Middle Ages",
+		"techCost": 390,
+		"buildingCost": 120,
+		"wonderCost": 100,
+		"techs": [
+	        {
+				"name": "Seafaring Mastery",
+				"row": 2,
+				"prerequisites": ["Compass"],
+				"uniques": ["[+1] Movement <for [Water] units>","[+25]% Strength <for [{Water} {Military}] units>"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Education",
+				"row": 4,
+				"prerequisites": ["Guilds","Theology"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Heavy Infantry",
+				"row": 11,
+				"prerequisites": ["Machinery","Chivalry"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+			{
+				"name": "Military Architecture",
+				"row": 12,
+				"prerequisites": ["Chivalry"],
+				"quote": "'He who commands the sea has command of everything.' - Themistocles",
+			},
+		]
+	},
+	{
+		"columnNumber": 9,
+		"era": "Age of Discovery",
+		"techCost": 600,
+		"buildingCost": 160,
+		"wonderCost": 100,
+		"techs": [
+            {
+				"name": "Astronomy",
+				"row": 2,
+				"prerequisites": ["Seafaring Mastery"],
+				"uniques": ["Enables [Embarked] units to enter ocean tiles"],
+				"quote": "We are no longer bound to our old world. It's now time to go forth to virgin land!",
+			},
+			{
+				"name": "Banking",
+				"row": 6,
+				"prerequisites": ["Seafaring Mastery","Education"],
+				"quote": "'I saw a bank that said ’24-Hour Banking,’ but I didn’t have that much time.' - Steven Wright",
+			},
+			{
+				"name": "Centralised Power",
+				"row": 9,
+				"prerequisites": ["Heavy Infantry"],
+				"quote": "'To better manage the evolution of complex empires—including wily lords with grand ambitions—a centralised system to collect and disburse taxes is necessary.' - Humankind",
+			},
+			{
+				"name": "Gunpowder",
+				"row": 10,
+				"prerequisites": ["Heavy Infantry","Military Architecture"],
+				"quote": "'To better manage the evolution of complex empires—including wily lords with grand ambitions—a centralised system to collect and disburse taxes is necessary.' - Humankind",
+			},
+		]
+	},
+	{
+		"columnNumber": 10,
+		"era": "Age of Discovery",
+		"techCost": 600,
+		"buildingCost": 160,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Movable Typeface",
+				"row": 1,
+				"prerequisites": ["Astronomy"],
+				"quote": "'Advancements in metallurgy and metalworking allow the creation of rapidly replaceable typefaces, revolutionizing printing.' - Humankind",
+			},
+			{
+				"name": "Humanism",
+				"row": 4,
+				"prerequisites": ["Banking"],
+				"quote": "'As wealthy empires grow, merchants and nobles express their power by funding artistic endeavors and scientific research.' - Humankind",
+			},
+			{
+				"name": "Chartered Companies",
+				"row": 6,
+				"prerequisites": ["Banking","Astronomy"],
+				"quote": "'The creation of charters and shares allows companies to manage and take greater risks, in the hopes of greater profits.' - Humankind",
+			},
+			{
+				"name": "Colonialism",
+				"row": 7,
+				"prerequisites": ["Centralised Power"],
+				"uniques": ["[+50]% Production when constructing [Settler] units [in all cities]"],
+				"quote": "'Colonialism. The enforced spread of the rule of reason. But who is going to spread it among the colonisers?' - Anthony Burgess",
+			},
+			{
+				"name": "Navigation",
+				"row": 12,
+				"prerequisites": ["Gunpowder","Astronomy"],
+				"uniques": ["[+1] Movement <for [Embarked] units>"],
+				"quote": "'It’s not the towering sails, but the unseen wind that moves a ship.' - English Proverb",
+			},
+		]
+	},
+	{
+		"columnNumber": 11,
+		"era": "Age of Discovery",
+		"techCost": 600,
+		"buildingCost": 160,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Enlightenment",
+				"row": 1,
+				"prerequisites": ["Movable Typeface","Humanism"],
+				"quote": "'New opinions are always suspected, and usually opposed, without any other reason but because they are not already common.' - John Locke",
+			},
+			{
+				"name": "Mercantilism",
+				"row": 5,
+				"prerequisites": ["Chartered Companies","Humanism"],
+				"quote": "'A zero-sum trade system, this maximizes a nation's exports at the expense of other nations—and one's colonies.' - Humankind",
+			},
+			{
+				"name": "Mass Production",
+				"row": 8,
+				"prerequisites": ["Colonialism"],
+				"quote": "'What can be labeled, packaged, mass produced is neither truth nor art.' - Marty Rubin",
+			},
+			{
+				"name": "Siege Cannons",
+				"row": 11,
+				"prerequisites": ["Navigation"],
+				"quote": "'Packed with frightening explosive power, in a few hours these new weapons can crumble city walls that have stood for millenia.' - Humankind",
+			},
+		]
+	},
+	{
+		"columnNumber": 12,
+		"era": "Age of Imperialism",
+		"techCost": 930,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Encyclopedia",
+				"row": 1,
+				"prerequisites": ["Mercantilism","Enlightenment"],
+				"quote": "'The tome encompassing the sum of human knowledge is sought by the tyrant and the benevolent alike.' - Humankind",
+			},
+			{
+				"name": "Steam Power",
+				"row": 7,
+				"prerequisites": ["Mercantilism","Mass Production"],
+				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
+			},
+			{
+				"name": "Military Science",
+				"row": 10,
+				"prerequisites": ["Siege Cannons"],
+				"quote": "'Never interrupt your enemy when he is making a mistake.' - Napoleon Bonaparte",
+			},
+			{
+				"name": "Rifling",
+				"row": 11,
+				"prerequisites": ["Siege Cannons"],
+				"quote": "'Never criticize a rifleman until you have walked a mile in his shoes. That way, he’ll be barefoot and you’ll be out of range.' - The 2nd Target Company",
+			},
+		]
+	},
+	{
+		"columnNumber": 13,
+		"era": "Age of Imperialism",
+		"techCost": 930,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+            {
+				"name": "Sanitation",
+				"row": 2,
+				"prerequisites": ["Encyclopedia"],
+				"quote": "'No innovation in the past 200 years has done more to save lives and improve health than the sanitation revolution triggered by the invention of the toilet.' - Sylvia Burwell",
+			},
+            {
+				"name": "Archaeology",
+				"row": 3,
+				"prerequisites": ["Encyclopedia"],
+				"quote": "'Had I been present at the Creation, I would have given some useful hints for the better ordering of the universe.' - Nelson Algren",
+			},
+			{
+				"name": "Economics",
+				"row": 6,
+				"prerequisites": ["Steam Power","Military Science"],
+				"quote": "'You and I come by road or rail, but economists travel on infrastructure.' - Margaret Thatcher",
+			},
+			{
+				"name": "Industrialization",
+				"row": 8,
+				"prerequisites": ["Steam Power","Encyclopedia","Rifling"],
+				"quote": "'Stronger, faster, more productive! Mechanization is the dream of tomorrow, today!' - Humankind",
+			},
+		]
+	},
+	{
+		"columnNumber": 14,
+		"era": "Age of Imperialism",
+		"techCost": 930,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Scientific Method",
+				"row": 1,
+				"prerequisites": ["Sanitation","Archaeology"],
+				"quote": "'This distills thousands of years of speculation on how to discover natural truths into an instrument of razor-sharp precision.' - Humankind",
+			},
+			{
+				"name": "Ideology",
+				"row": 5,
+				"prerequisites": ["Economics","Archaeology"],
+				"quote": "'You and I come by road or rail, but economists travel on infrastructure.' - Margaret Thatcher",
+			},
+			{
+				"name": "Electricity",
+				"row": 7,
+				"prerequisites": ["Economics","Industrialization"],
+				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
+			},
+		]
+	},
+	{
+		"columnNumber": 15,
+		"era": "Machine Age",
+		"techCost": 1370,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Refrigeration",
+				"row": 1,
+				"prerequisites": ["Scientific Method"],
+				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth",
+			},
+			{
+				"name": "Radio and Film",
+				"row": 4,
+				"prerequisites": ["Ideology","Scientific Method"],
+				"quote": "'Drama, spectacle, celebrity—these are the essential ingredients to ensnare another generation, whether on the small or silver screen.' - Humankind",
+			},
+			{
+				"name": "Nationalism",
+				"row": 5,
+				"prerequisites": ["Ideology","Scientific Method"],
+				"quote": "'Patriotism is when love of your own people comes first; nationalism, when hate for people other than your own comes first.' - Charles de Gaulle",
+			},
+			{
+				"name": "Combustion Engine",
+				"row": 7,
+				"prerequisites": ["Electricity"],
+				"quote": "'It is arguable whether the human race have been gainers by the march of science beyond the steam engine.' - Winston Churchill",
+			},
+			{
+				"name": "Trench Warfare",
+				"row": 10,
+				"prerequisites": ["Ideology","Electricity"],
+				"quote": "'War is not an adventure. It is a disease. It is like typhus.' - Antoine de Saint-Exupery",
+			},
+		]
+	},
+	{
+		"columnNumber": 16,
+		"era": "Machine Age",
+		"techCost": 1370,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Chemistry",
+				"row": 1,
+				"prerequisites": ["Refrigeration"],
+				"quote": "'Chemists do not usually stutter. It would be very awkward if they did, seeing that they have at times to get out such words as methylethylamylophenylium.' - Sir William Crookes",
+			},
+			{
+				"name": "Mass Media",
+				"row": 4,
+				"prerequisites": ["Radio and Film","Nationalism"],
+				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
+			},
+			{
+				"name": "Continuous Track",
+				"row": 10,
+				"prerequisites": ["Combustion Engine","Trench Warfare"],
+				"quote": "'Ploughed fields, mountainsides, trench lands—few places are out of bounds for a tracked vehicle.' - Humankind",
+			},
+			{
+				"name": "Flight",
+				"row": 11,
+				"prerequisites": ["Combustion Engine","Trench Warfare"],
+				"quote": "'Humans have always dreamed of flight. Now, with new physics, robust materials, and brave pioneers, these fantasies can come true.' - Humankind",
+			},
+		]
+	},
+	{
+		"columnNumber": 17,
+		"era": "Machine Age",
+		"techCost": 1370,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "War Memorial",
+				"row": 5,
+				"prerequisites": ["Mass Media"],
+				"quote": "'War is not an adventure. It is a disease. It is like typhus.' - Antoine de Saint-Exupery",
+			},
+			{
+				"name": "Hydroelectricity",
+				"row": 2,
+				"prerequisites": ["Chemistry","Continuous Track"],
+				"quote": "'Born in the minds of visionaries who tinkered with strange metals, even they couldn't have foreseen electricity's reach.' - Humankind",
+			},
+			{
+				"name": "Nuclear Fission",
+				"row": 9,
+				"prerequisites": ["Continuous Track","Flight"],
+				"quote": "'If you go on with this nuclear arms race, all you are going to do is make the rubble bounce.' - Winston Churchill",
+			},
+			{
+				"name": "Combined Arms",
+				"row": 13,
+				"prerequisites": ["Continuous Track","Flight"],
+				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
+			},
+		]
+	},
+	{
+		"columnNumber": 18,
+		"era": "Contemporary Age",
+		"techCost": 1660,
+		"buildingCost": 240,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Pharmaceuticals",
+				"row": 2,
+				"prerequisites": ["Hydroelectricity"],
+				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero",
+			},
+			{
+				"name": "Leisure",
+				"row": 4,
+				"prerequisites": ["War Memorial"],
+				"quote": "'If you don't read the newspaper, you're uninformed. If you read the newspaper, you're mis-informed.' - Mark Twain",
+			},
+			{
+				"name": "Rocketry",
+				"row": 7,
+				"prerequisites": ["Combined Arms"],
+				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
+			},
+			{
+				"name": "Automatic Weapons",
+				"row": 10,
+				"prerequisites": ["Combined Arms"],
+				"quote": "'Many of us take better care of our automobiles than we do of our own bodies; yet the auto has replaceable parts.' - B.J. Palmer",
+			},
+			{
+				"name": "Advanced Flight",
+				"row": 11,
+				"prerequisites": ["Combined Arms"],
+				"quote": "'Sure, jets are fast and economical, but, oh my, what fun we’ve lost and what leisure we’ve sacrificed in the race for efficiency.' - Ginger Rogers",
+			},
+		]
+	},
+	{
+		"columnNumber": 19,
+		"era": "Contemporary Age",
+		"techCost": 1660,
+		"buildingCost": 380,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Computing",
+				"row": 2,
+				"prerequisites": ["Pharmaceuticals"],
+				"quote": "'Who knows where this invention is going to lead? It's amazing what you can do with silicon, an algorithm, and some ones and zeroes...' - Humankind",
+			},
+			{
+				"name": "Plastics",
+				"row": 3,
+				"prerequisites": ["Pharmaceuticals"],
+				"quote": "'In nothing do men more nearly approach the gods than in giving health to men.' - Cicero",
+			},
+			{
+				"name": "Satellites",
+				"row": 8,
+				"prerequisites": ["Rocketry"],
+				"quote": "'Right now there are thirty-one satellites zipping around the world with nothing better to do than help you find your way to the grocery store.' - Ed Burnette",
+			},
+			{
+				"name": "Advanced Ballistics",
+				"row": 11,
+				"prerequisites": ["Advanced Flight"],
+				"quote": "'Better to fight for something than live for nothing.' - George S. Patton",
+			},
+		]
+	},
+	{
+		"columnNumber": 20,
+		"era": "Contemporary Age",
+		"techCost": 2155,
+		"buildingCost": 300,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Mass Entertainment",
+				"row": 4,
+				"prerequisites": ["Leisure","Computing"],
+				"uniques": ["[+2 Happiness] [in all cities]"],
+				"quote": "'Drama, spectacle, celebrity—these are the essential ingredients to ensnare another generation, whether on the small or silver screen.' - Humankind",
+			},
+			{
+				"name": "Mechanized Harvesting",
+				"row": 6,
+				"prerequisites": ["Plastics","Leisure"],
+				"quote": "'Expanding the domain of automated processes into the sphere of farming is both brutal and efficient.' - Humankind",
+			},
+			{
+				"name": "Nanotechnology",
+				"row": 8,
+				"prerequisites": ["Satellites"],
+				"quote": "'If technology is the engine of change, then nanotechnology is the fuel for humanity’s future.' - Natasha Vita-More",
+			},
+			{
+				"name": "Composite Armor",
+				"row": 10,
+				"prerequisites": ["Automatic Weapons","Advanced Ballistics"],
+				"quote": "'All material things seem to have been composed of the hard and solid particles; variously associated with the first Creation by the counsel of an Intelligent Agent.' - Isaac Newton",
+			},
+		]
+	},
+	{
+		"columnNumber": 21,
+		"era": "Age of Tomorrow",
+		"techCost": 3000,
+		"buildingCost": 500,
+		"wonderCost": 100,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 6,
+				"prerequisites": ["Mass Entertainment","Mechanized Harvesting","Nanotechnology","Composite Armor"],
+				"uniques": ["Can be continually researched"],
+				"quote": "Who knows what the future holds..?",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+			}
+		]
+	}
+]

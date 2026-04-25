@@ -1,0 +1,38 @@
+[
+{
+  "name": "Food",
+  "friendBonusUniques": ["[+2 Food] <in [in all cities] cities>"]
+  "allyBonusUniques": ["[+4 Food] <in [in all cities] cities>"]
+  "color": [59, 237, 14],
+},
+{
+  "name": "Production",
+  "friendBonusUniques": ["[+2 Production] <in [in all cities] cities>"]
+  "allyBonusUniques": ["[+4 Production] <in [in all cities] cities>"]
+  "color": [222, 144, 18],
+},
+{
+  "name": "Culture",
+  "friendBonusUniques": ["[+2 Culture] <in [in all cities] cities>"]
+  "allyBonusUniques": ["[+4 Culture] <in [in all cities] cities>"]
+  "color": [158, 17, 209],
+},
+{
+  "name": "Gold",
+  "friendBonusUniques": ["[+2 Gold] <in [in all cities] cities>"]
+  "allyBonusUniques": ["[+4 Gold] <in [in all cities] cities>"]
+  "color": [240, 236, 10],
+},
+{
+  "name": "Religion",
+  "friendBonusUniques": ["[+2 Faith] <in [in all cities] cities>"]
+  "allyBonusUniques": ["[+4 Faith] <in [in all cities] cities>"]
+  "color": [255, 255, 255],
+},
+{
+  "name": "Military",
+  "friendBonusUniques": ["[+1 Gold] <in [in all cities] cities>"]
+  "allyBonusUniques": ["Provides military units every ≈[17] turns"]
+  "color": [240, 10, 10],
+}
+]

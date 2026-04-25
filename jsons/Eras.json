@@ -1,0 +1,124 @@
+[
+    // Source: the fandom, so take these with a grain of salt
+    // I also did some testing in the official version, but by far not all
+
+    {
+        "name": "Neolithic era",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Warrior",
+        "settlerPopulation": 1,
+        "baseUnitBuyCost": 180,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityAncient",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Ancient era",
+        "researchAgreementCost": 150,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Warrior",
+        "settlerPopulation": 1,
+        "settlerBuildings": ["Shrine","Campfire"],
+        "baseUnitBuyCost": 200,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityClassical",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "High Middle Ages",
+        "researchAgreementCost": 220,
+        "startingSettlerCount": 1, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 0,
+        "startingMilitaryUnitCount": 1,
+        "startingMilitaryUnit": "Spearman",
+        "settlerPopulation": 2,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library"],
+        "baseUnitBuyCost": 250,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityMedieval",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Age of Discovery",
+        "researchAgreementCost": 280,
+        "startingSettlerCount": 2, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 2,
+        "startingMilitaryUnit": "Footman",
+        "settlerPopulation": 4,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library"],
+        "baseUnitBuyCost": 350,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityRenaissance",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Age of Imperialism",
+        "researchAgreementCost": 380,
+        "startingSettlerCount": 2, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 2,
+        "startingMilitaryUnit": "Pikeman",
+        "settlerPopulation": 4,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 450,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityIndustrial",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Machine Age",
+        "researchAgreementCost": 480,
+        "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 1,
+        "startingMilitaryUnitCount": 3,
+        "startingMilitaryUnit": "Line Infantry",
+        "settlerPopulation": 6,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 550,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityModern",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Contemporary Age",
+        "researchAgreementCost": 900,
+        "startingSettlerCount": 3, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 2,
+        "startingMilitaryUnitCount": 4,
+        "startingMilitaryUnit": "Great War Infantry",
+        "settlerPopulation": 8,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 650,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityInformation",
+        "iconRGB": [255, 87, 35]
+    },
+    {
+        "name": "Age of Tomorrow",
+        "researchAgreementCost": 1300,
+        "startingSettlerCount": 5, // These values should not include the values given in Difficulties.json
+        "startingWorkerCount": 3,
+        "startingMilitaryUnitCount": 6,
+        "startingMilitaryUnit": "Infantry",
+        "settlerPopulation": 9,
+        "settlerBuildings": ["Shrine","Campfire","Well","Furnace","Granary","Library","School","Market","Tannery","Logging Camp","Mint","Mill","Bakery","Walls"],
+        "baseUnitBuyCost": 950,
+        "embarkDefense": 3,
+        "startPercent": 0,
+        "citySound": "cityInformation",
+        "iconRGB": [255, 87, 35]
+    },
+]

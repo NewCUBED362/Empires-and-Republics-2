@@ -1,0 +1,6 @@
+{
+    "name": "Global Uniques",
+    "uniques": ["[-60]% growth [in all cities]","[-75]% growth [in all cities] <when between [-10] and [-1] [Happiness]>","Nullifies Growth [in all cities] <when below [-10] [Happiness]>",
+                "[-50]% [Production] [in all cities] <when below [-8] [Happiness]>","Cannot build [Settler] units <when below [-10] [Happiness]>",
+                "Rebel units may spawn <when below [-10] [Happiness]>"],
+}
