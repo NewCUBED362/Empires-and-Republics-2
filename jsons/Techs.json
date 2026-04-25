@@ -116,7 +116,17 @@
       "row": 18,
       "cost": 50,
       "prerequisites": ["Bronze Working","Warrior Code"],
-    }
-    ]
-  }
+    },
+    ],
+  },
+  {
+    "columnNumber": 3,
+    "era": "Classical era",
+    "buildingCost": 40,
+    "wonderCost": 100,
+    "techs": [
+      {
+        "name": "Literacy",
+        "row": 1,
+      }
 ]
