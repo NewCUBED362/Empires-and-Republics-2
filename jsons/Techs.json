@@ -335,18 +335,22 @@
     "techs": [
       {
         "name": "Industrialization",
-        "row": 5,
+        "row": 1,
         "cost": 1070,
+        "prerequisites": ["Economics","Railroad"],
+        
       },
       {
         "name": "Electricity",
         "row": 16,
         "cost": 1069,
+        "prerequisites": ["Magnetism","Metallurgy"],
       },
       {
         "name": "Conscription",
         "row": 17,
         "cost": 1070,
+        "prerequisites": ["Metallurgy"],
       }
     ]
   }
