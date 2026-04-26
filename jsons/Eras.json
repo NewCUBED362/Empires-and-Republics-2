@@ -10,5 +10,9 @@
   {
     "name": "Medieval era",
     "citySound": "cityMedieval",
+  },
+  {
+    "name": "Renaissance era",
+    "citySound": "cityMedieval",
   }
 ]
