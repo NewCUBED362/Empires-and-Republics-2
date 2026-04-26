@@ -236,7 +236,18 @@
       "row": 13,
       "cost": 390,
       "prerequisites": ["Engineering","Feudalism"],
-    }
-  ]
-}
+    },
+  ],
+},
+  {
+    "columnNumber": 6,
+    "era": "Renaissance era",
+    "buildingCost": 60,
+    "wonderCost": 100,
+    "techs": [
+      {
+        "name": "Economics",
+        "row": 1,
+        "cost": 390,
+      }
 ]
