@@ -248,6 +248,43 @@
       {
         "name": "Economics",
         "row": 1,
-        "cost": 390,
+        "cost": 730,
+      },
+      {
+        "name": "Chemistry",
+        "row": 4,
+        "cost": 730,
+      },
+      {
+        "name": "Theory of Gravity",
+        "row": 6,
+        "cost": 730,
+      },
+      {
+        "name": "Steam Engine",
+        "row": 8,
+        "cost": 730,
+      },
+      {
+        "name": "Sanitation",
+        "row": 10,
+        "cost": 730,
+      },
+      {
+        "name": "Magnetism",
+        "row": 12,
+        "cost": 730,
+      },
+      {
+        "name": "Theology",
+        "row": 14,
+        "cost": 730,
+      },
+      {
+        "name": "Gunpowder",
+        "row": 16,
+        "cost": 730,
       }
+    ]
+  }
 ]
