@@ -292,6 +292,19 @@
         "row": 19,
         "cost": 730,
         "prerequisites": ["Invention","Chivalry"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 7,
+    "era": "Industrial era",
+    "buildingCost": 100,
+    "wonderCost": 300,
+    "techs": [
+      {
+        "name": "Explosives",
+        "row": 4,
+        "cost": ,
       }
     ]
   }
