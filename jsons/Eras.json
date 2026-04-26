@@ -14,5 +14,9 @@
   {
     "name": "Renaissance era",
     "citySound": "cityMedieval",
+  },
+  {
+    "name": "Industrial era",
+    "citySound": "cityIndustrial",
   }
 ]
