@@ -324,6 +324,29 @@
         "row": 19,
         "cost": 930,
         "prerequisites": ["Theology","Gunpowder"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 8,
+    "era": "Industrial era",
+    "buildingCost": 120,
+    "wonderCost": 400,
+    "techs": [
+      {
+        "name": "Industrialization",
+        "row": 5,
+        "cost": 1070,
+      },
+      {
+        "name": "Electricity",
+        "row": 16,
+        "cost": 1069,
+      },
+      {
+        "name": "Conscription",
+        "row": 17,
+        "cost": 1070,
       }
     ]
   }
