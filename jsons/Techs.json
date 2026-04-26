@@ -279,16 +279,19 @@
         "name": "Magnetism",
         "row": 16,
         "cost": 730,
+        "prerequisites": ["Physics","Chivalry"], 
       },
       {
         "name": "Theology",
-        "row": 17,
+        "row": 18,
         "cost": 730,
+        "prerequisites": ["Feudalism","Monotheism"],
       },
       {
         "name": "Gunpowder",
-        "row": 18,
+        "row": 19,
         "cost": 730,
+        "prerequisites": ["Invention","Chivalry"],
       }
     ]
   }
