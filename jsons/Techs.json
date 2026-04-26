@@ -305,21 +305,25 @@
         "name": "Explosives",
         "row": 4,
         "cost": 930,
+        "prerequisites": ["Chemistry","Gunpowder"],
       },
       {
         "name": "Railroad",
         "row": 8,
         "cost": 930,
+        "prerequisites": ["Steam Engine","Sanitation"],
       },
       {
         "name": "Metallurgy",
-        "row": 16,
+        "row": 17,
         "cost": 930,
+        "prerequisites": ["Theory of Gravity","Gunpowder"],
       },
       {
         "name": "Leadership",
         "row": 19,
         "cost": 930,
+        "prerequisites": ["Theology","Gunpowder"],
       }
     ]
   }
