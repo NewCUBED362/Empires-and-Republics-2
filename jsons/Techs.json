@@ -304,7 +304,22 @@
       {
         "name": "Explosives",
         "row": 4,
-        "cost": ,
+        "cost": 930,
+      },
+      {
+        "name": "Railroad",
+        "row": 8,
+        "cost": 930,
+      },
+      {
+        "name": "Metallurgy",
+        "row": 16,
+        "cost": 930,
+      },
+      {
+        "name": "Leadership",
+        "row": 19,
+        "cost": 930,
       }
     ]
   }
