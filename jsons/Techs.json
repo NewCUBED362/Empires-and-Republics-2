@@ -249,40 +249,45 @@
         "name": "Economics",
         "row": 1,
         "cost": 730,
+        "prerequisites": ["Banking","University"],
       },
       {
         "name": "Chemistry",
         "row": 4,
         "cost": 730,
+        "prerequisites": ["Medicine","University"],
       },
       {
         "name": "Theory of Gravity",
         "row": 6,
         "cost": 730,
+        "prerequisites": ["University","Physics"],
       },
       {
         "name": "Steam Engine",
         "row": 8,
         "cost": 730,
+        "prerequisites": ["Physics","Invention"],
       },
       {
         "name": "Sanitation",
-        "row": 10,
+        "row": 14,
         "cost": 730,
+        "prerequisites": ["Medicine","Engineering"],
       },
       {
         "name": "Magnetism",
-        "row": 12,
+        "row": 16,
         "cost": 730,
       },
       {
         "name": "Theology",
-        "row": 14,
+        "row": 17,
         "cost": 730,
       },
       {
         "name": "Gunpowder",
-        "row": 16,
+        "row": 18,
         "cost": 730,
       }
     ]
