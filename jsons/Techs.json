@@ -364,21 +364,25 @@
         "name": "Corporation",
         "row": 2,
         "cost": 1250,
+        "prerequisites": ["Economics","Industrialization"],
       },
       {
         "name": "Steel",
-        "row": 8,
+        "row": 7,
         "cost": 1250,
+        "prerequisites": ["Industrialization","Electricity"],
       },
       {
         "name": "Refrigeration",
         "row": 10,
         "cost": 1250,
+        "prerequisites": ["Railroad","Electricity"],
       },
       {
         "name": "Tactics",
         "row": 17,
         "cost": 1250,
+        "prerequisites": ["Leadership","Conscription"],
       }
     ]
   }
