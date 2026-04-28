@@ -80,8 +80,8 @@
 		"outerColor": [9, 112, 84],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Art of War",
-	    "uniques": ["Enables conversion of city production to [Gold]","[+10]% [Gold] [in all cities]","[Great General] is earned [50]% faster"]
-		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
+	    "uniques": ["May buy [Worker] units with [Faith] [in all cities]","When conquering an encampment, earn [30] Gold and recruit a Barbarian unit","[Great General] is earned [50]% faster"]
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xi'an","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
 },
 {
