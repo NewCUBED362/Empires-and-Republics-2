@@ -473,6 +473,29 @@
         "row": 8,
         "cost": 1540,
         "prerequisites": ["Electronics","Combustion"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 13,
+    "era": "Atomic era",
+    "buildingCost": 400,
+    "wonderCost": 1200,
+    "techs": [
+      {
+        "name": "Mass Production",
+        "row": 7,
+        "cost": 1850,
+      },
+      {
+        "name": "Mobile Warfare",
+        "row": 12,
+        "cost": 1850,
+      },
+      {
+        "name": "Radio",
+        "row": 13,
+        "cost": 1850,
       }
     ]
   }
