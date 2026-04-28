@@ -466,11 +466,13 @@
         "name": "Automobile",
         "row": 7,
         "cost": 1540,
+        "prerequisites": ["Steel","Combustion"],
       },
       {
         "name": "Flight",
         "row": 8,
         "cost": 1540,
+        "prerequisites": ["Electronics","Combustion"],
       }
     ]
   }
