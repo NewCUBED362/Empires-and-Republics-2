@@ -362,8 +362,23 @@
     "techs": [
       {
         "name": "Corporation",
-        "row": 1,
-        "cost": 1070,
+        "row": 2,
+        "cost": 1250,
+      },
+      {
+        "name": "Steel",
+        "row": 8,
+        "cost": 1250,
+      },
+      {
+        "name": "Refrigeration",
+        "row": 10,
+        "cost": 1250,
+      },
+      {
+        "name": "Tactics",
+        "row": 17,
+        "cost": 1250,
       }
     ]
   }
