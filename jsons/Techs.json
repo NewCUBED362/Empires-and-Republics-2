@@ -453,7 +453,25 @@
         "row": 12,
         "cost": 1500,
         "prerequisites": ["Electronics","Machine Tools"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 12,
+    "era": "Modern era",
+    "buildingCost": 300,
+    "wonderCost": 1000,
+    "techs": [
+      {
+        "name": "Automobile",
+        "row": 7,
+        "cost": 1540,
+      },
+      {
+        "name": "Flight",
+        "row": 8,
+        "cost": 1540,
       }
     ]
-  }       
+  }
 ]
