@@ -490,15 +490,48 @@
       },
       {
         "name": "Mobile Warfare",
-        "row": 12,
+        "row": 13,
         "cost": 1850,
         "prerequisites": ["Automobile","Flight"],
       },
       {
         "name": "Radio",
-        "row": 13,
+        "row": 14,
         "cost": 1850,
         "prerequisites": ["Flight","Machine Tools"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 14,
+    "era": "Atomic era",
+    "buildingCost": 600,
+    "wonderCost": 1300,
+    "techs": [
+      {
+        "name": "Recycling",
+        "row": 2,
+        "cost": 1900,
+      },
+      {
+        "name": "Nuclear Fission",
+        "row": 3,
+        "cost": 1900,
+      },
+      {
+        "name": "Labor Union",
+        "row": 10,
+        "cost": 1900,
+      },
+      {
+        "name": "Computers",
+        "row": 12,
+        "cost": 1900,
+      },
+      {
+        "name": "Advanced Flight",
+        "row": 14,
+        "cost": 1900,
       }
     ]
   }
