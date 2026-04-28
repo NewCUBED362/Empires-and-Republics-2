@@ -396,36 +396,43 @@
         "name": "Genetic Engineering",
         "row": 1,
         "cost": 1480,
+        "prerequisites": ["Corporation"],
       },
       {
         "name": "Refining",
         "row": 2,
         "cost": 1480,
+        "prerequisites": ["Corporation","Steel"],
       },
       {
         "name": "Espionage",
         "row": 5,
         "cost": 1480,
+        "prerequisites": ["Corporation","Steel"],
       },
       {
         "name": "Electronics",
         "row": 8,
         "cost": 1480,
+        "prerequisites": ["Steel","Refrigeration"],
       },
       {
         "name": "Guerrilla Warfare",
         "row": 10,
         "cost": 1480,
+        "prerequisites": ["Tactics"],
       },
       {
         "name": "Machine Tools",
         "row": 11,
         "cost": 1480,
+        "prerequisites": ["Tactics","Steel"],
       },
       {
         "name": "Amphibious Wafare",
         "row": 13,
         "cost": 1480,
+        "prerequisites": ["Tactics","Refrigeration"],
       }
     ]
   }
