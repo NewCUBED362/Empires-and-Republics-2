@@ -61,15 +61,15 @@
 },
 {
 		"name": "The Chinese",
-		"leaderName": "Yongle",
+		"leaderName": "Qin Shi Huang",
 		"startBias": ["Grassland"],
         "favoredReligion": "Confucianism",
 
-		"declaringWar": "It is not my wish to conquer your realm by force, but there is no other way..!",
+		"declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
 		"attacked": "You might as well conquer the heaven itself, Hahaha! Now I see whom had you targeted when you were still controlling your bowstrings earlier.",
-		"defeated": "The road ahead is dark, the surrounding pines are dense like walls, the sky and earth are full dark as lacquer.",
+		"defeated": "I never would have thought... not like this.",
         "denounced": "The barking of dogs..."
-		"introduction": "I'm the Yongle Emperor, those who come in merchant ships are my friends. Is there any future for those who oppose my will?",
+		"introduction": "You've come today. Is it possible that you want to view the scenery of the mountains and rivers in the State of Qin? I am the ruler of Qin.",
 
 		"neutralHello": "How are you today?",
 		"hateHello": "Oh. It's you?",
@@ -79,7 +79,7 @@
 
 		"outerColor": [9, 112, 84],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Lijia",
+		"uniqueName": "Art of War",
 	    "uniques": ["Enables conversion of city production to [Gold]","[+10]% [Gold] [in all cities]","[Great General] is earned [50]% faster"]
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
