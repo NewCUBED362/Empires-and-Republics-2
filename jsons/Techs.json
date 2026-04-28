@@ -351,6 +351,19 @@
         "row": 17,
         "cost": 1070,
         "prerequisites": ["Metallurgy"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 9,
+    "era": "Industrial era",
+    "buildingCost": 160,
+    "wonderCost": 500,
+    "techs": [
+      {
+        "name": "Corporation",
+        "row": 1,
+        "cost": 1070,
       }
     ]
   }
