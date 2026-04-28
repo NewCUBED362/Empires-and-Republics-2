@@ -160,35 +160,35 @@ BuildingIcons/Taxation Office
   index: -1
 BuildingIcons/Tram Station
   rotate: false
-  xy: 820, 348
+  xy: 956, 484
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/War Memorial
   rotate: false
-  xy: 1228, 756
+  xy: 1364, 892
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Weaver
   rotate: false
-  xy: 684, 76
+  xy: 820, 212
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Well
   rotate: false
-  xy: 820, 212
+  xy: 956, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Worship House
   rotate: false
-  xy: 956, 348
+  xy: 1092, 484
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -216,21 +216,21 @@ CityStateIcons/Gold
   index: -1
 CityStateIcons/Military
   rotate: false
-  xy: 292, 4
+  xy: 364, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Production
   rotate: false
-  xy: 364, 4
+  xy: 436, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Religion
   rotate: false
-  xy: 436, 4
+  xy: 508, 4
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -286,7 +286,7 @@ NationIcons/The French
   index: -1
 NationIcons/The Germans
   rotate: false
-  xy: 1092, 512
+  xy: 1228, 648
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -314,49 +314,49 @@ NationIcons/The Japanese
   index: -1
 NationIcons/The Mongols
   rotate: false
-  xy: 1228, 648
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-NationIcons/The Romans
-  rotate: false
   xy: 820, 484
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Russians
+NationIcons/The Romans
   rotate: false
   xy: 956, 620
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Spanish
+NationIcons/The Russians
   rotate: false
   xy: 1092, 756
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Sumerians
+NationIcons/The Spanish
   rotate: false
   xy: 1228, 892
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Turkish
+NationIcons/The Sumerians
   rotate: false
   xy: 548, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Zulu
+NationIcons/The Turkish
   rotate: false
   xy: 684, 212
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Zulu
+  rotate: false
+  xy: 820, 348
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -412,21 +412,21 @@ ResourceIcons/Niter
   index: -1
 ResourceIcons/Tunics
   rotate: false
-  xy: 956, 484
+  xy: 1092, 620
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Turtle
   rotate: false
-  xy: 1092, 620
+  xy: 1228, 756
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Watermelon
   rotate: false
-  xy: 1364, 892
+  xy: 684, 76
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -480,23 +480,30 @@ TileSets/FantasyHex/Units/Footman
   orig: 32, 28
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Units/Halberdier
+  rotate: false
+  xy: 1164, 448
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Line Infantry
   rotate: false
-  xy: 1092, 348
+  xy: 1644, 992
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Main Battle Tank
   rotate: false
-  xy: 1716, 992
+  xy: 1228, 484
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 508, 40
+  xy: 580, 40
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -538,28 +545,42 @@ TileSets/HexaRealm/Tiles/City center-Neolithic era
   index: -1
 TileSets/HexaRealm/Units/Fieldgun
   rotate: false
-  xy: 1092, 448
+  xy: 1092, 420
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Footman
   rotate: false
-  xy: 1572, 964
+  xy: 1228, 584
+  size: 64, 56
+  orig: 64, 56
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Halberdier
+  rotate: false
+  xy: 1572, 960
+  size: 64, 60
+  orig: 64, 60
+  offset: 0, 0
+  index: -1
+TileSets/HexaRealm/Units/Line Infantry
+  rotate: false
+  xy: 1092, 356
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Main Battle Tank
   rotate: false
-  xy: 1092, 384
+  xy: 1228, 520
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Man-at-Arms
   rotate: false
-  xy: 1644, 964
+  xy: 292, 12
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
