@@ -433,7 +433,25 @@
         "row": 13,
         "cost": 1480,
         "prerequisites": ["Tactics","Refrigeration"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 11,
+    "era": "Modern era",
+    "buildingCost": 250,
+    "wonderCost": 800,
+    "techs": [
+      {
+        "name": "Combustion",
+        "row": 5,
+        "cost": 1500,
+      },
+      {
+        "name": "Miniaturization",
+        "row": 12,
+        "cost": 1500,
       }
     ]
-  }
+  }       
 ]
