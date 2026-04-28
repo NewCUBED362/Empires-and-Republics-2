@@ -18,5 +18,9 @@
   {
     "name": "Industrial era",
     "citySound": "cityIndustrial",
+  },
+  {
+    "name": "Modern era",
+    "citySound": "cityIndustrial",
   }
 ]
