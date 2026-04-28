@@ -486,16 +486,19 @@
         "name": "Mass Production",
         "row": 7,
         "cost": 1850,
+        "prerequisites": ["Automobile"],
       },
       {
         "name": "Mobile Warfare",
         "row": 12,
         "cost": 1850,
+        "prerequisites": ["Automobile","Flight"],
       },
       {
         "name": "Radio",
         "row": 13,
         "cost": 1850,
+        "prerequisites": ["Flight","Machine Tools"],
       }
     ]
   }
