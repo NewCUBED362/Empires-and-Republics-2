@@ -446,11 +446,13 @@
         "name": "Combustion",
         "row": 5,
         "cost": 1500,
+        "prerequisites": ["Espionage","Refining"],
       },
       {
         "name": "Miniaturization",
         "row": 12,
         "cost": 1500,
+        "prerequisites": ["Electronics","Machine Tools"],
       }
     ]
   }       
