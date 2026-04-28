@@ -362,7 +362,7 @@
     "techs": [
       {
         "name": "Corporation",
-        "row": 2,
+        "row": 3,
         "cost": 1250,
         "prerequisites": ["Economics","Industrialization"],
       },
@@ -383,6 +383,49 @@
         "row": 17,
         "cost": 1250,
         "prerequisites": ["Leadership","Conscription"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 10,
+    "era": "Industrial era",
+    "buildingCost": 200,
+    "wonderCost": 600,
+    "techs": [
+      {
+        "name": "Genetic Engineering",
+        "row": 1,
+        "cost": 1480,
+      },
+      {
+        "name": "Refining",
+        "row": 2,
+        "cost": 1480,
+      },
+      {
+        "name": "Espionage",
+        "row": 5,
+        "cost": 1480,
+      },
+      {
+        "name": "Electronics",
+        "row": 8,
+        "cost": 1480,
+      },
+      {
+        "name": "Guerrilla Warfare",
+        "row": 10,
+        "cost": 1480,
+      },
+      {
+        "name": "Machine Tools",
+        "row": 11,
+        "cost": 1480,
+      },
+      {
+        "name": "Amphibious Wafare",
+        "row": 13,
+        "cost": 1480,
       }
     ]
   }
