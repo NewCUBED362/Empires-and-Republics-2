@@ -58,7 +58,7 @@
 	{
 		"name": "Market",
 		"cost": 80,
-		"Gold": 2,
+		"gold": 2,
 		"requiredTech": "Currency",
 	},
 ]
