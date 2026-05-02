@@ -39,7 +39,7 @@
 		"cost": 90,
 		"requiredTech": "Code of Laws",
 		"requiredNearbyImprovedResources": ["Stone"],
-		"cityStrength": 8,
+		"cityStrength": 4,
 		"cityHealth": 8,
 	},
 	{
