@@ -67,6 +67,6 @@
 		"cost": 90,
 		"requiredTech": "Iron Working",
 		"requiredResource": "Iron",
-		"attackSound": "horse",
+		"attackSound": "metalhit",
 	},
 ]
