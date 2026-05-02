@@ -43,8 +43,9 @@
 		"unitType": "Sword",
 		"movement": 2,
 		"strength": 15,
-		"cost": ,
+		"cost": 65,
 		"requiredTech": "Bronze Working",
 		"attackSound": "nonmetalhit",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 	}
 ]
