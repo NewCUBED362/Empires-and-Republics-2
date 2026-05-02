@@ -20,6 +20,7 @@
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland","Tundra","Hill"],
     "production": 1,
-    "uniques": [""],
+    "uniques": ["Generated on every [18] tiles <in [Hill] tiles>",
+                "Generated on every [26] tiles <in tiles without [Hill]>"],
   }
 ]
