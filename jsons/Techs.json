@@ -629,6 +629,20 @@
         "row": 6,
         "cost": 2200,
         "prerequisites": ["Combined Arms","Plastics"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 19,
+    "era": "Future era",
+    "buildingCost": 900,
+    "wonderCost": 2000,
+    "techs": [
+      {
+        "name": "Future Tech",
+        "row": 6,
+        "cost": 3000,
+        "prerequisites": ["Fusion Power","Stealth"],
       }
     ]
   }
