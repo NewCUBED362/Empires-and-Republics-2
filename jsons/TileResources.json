@@ -29,6 +29,17 @@
     "uniques": ["Generated on every [18] tiles <in [Hill] tiles>",
                 "Generated on every [26] tiles <in tiles without [Hill]>"],
   },
+  // Luxury resources 
+  {
+    "name": "Gold ore",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Grassland","Desert","Plains","Hill"],
+    "gold": 1,
+    "improvementStats": {"gold": 2},
+    "improvedBy": ["Mine"],
+    "uniques": ["Generated with weight [17] <in [{Featureless} {Desert}] tiles>",
+                "Generated with weight [20] <in [{Featureless} {Grassland}] tiles>",
+                "Generated with weight [29] <in [{Featureless} {Plains}] tiles>"]
   // Strategic resources 
   {
     "name": "Horses",
