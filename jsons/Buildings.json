@@ -58,7 +58,7 @@
 	{
 		"name": "Market",
 		"cost": 80,
-		"gold": 2,
+		"gold": 3,
 		"requiredTech": "Currency",
 	},
 	{
@@ -67,5 +67,12 @@
 		"faith": 1,
 		"requiredTech": "Mysticism",
 		"uniques": ["Only available <when religion is enabled>"],
+	},
+	{
+		"name": "School",
+		"cost": 90,
+		"science": 2,
+		"maintenance": 1,
+		"requiredTech": "Mathematics",
 	}
 ]
