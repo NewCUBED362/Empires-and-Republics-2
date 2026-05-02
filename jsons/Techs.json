@@ -430,7 +430,7 @@
       },
       {
         "name": "Amphibious Wafare",
-        "row": 13,
+        "row": 15,
         "cost": 1480,
         "prerequisites": ["Tactics","Refrigeration"],
       },
@@ -512,26 +512,31 @@
         "name": "Recycling",
         "row": 2,
         "cost": 1900,
+        "prerequisites": ["Genetic Engineering","Mass Production"],
       },
       {
         "name": "Nuclear Fission",
         "row": 3,
         "cost": 1900,
+        "prerequisites": ["Flight","Mass Production"],
       },
       {
         "name": "Labor Union",
         "row": 10,
         "cost": 1900,
+        "prerequisites": ["Mass Production","Mobile Warfare"],
       },
       {
         "name": "Computers",
         "row": 12,
         "cost": 1900,
+        "prerequisites": ["Miniaturization","Mass Production"],
       },
       {
         "name": "Advanced Flight",
-        "row": 14,
+        "row": 15,
         "cost": 1900,
+        "prerequisites": ["Amphibious Warfare","Radio"],
       }
     ]
   }
