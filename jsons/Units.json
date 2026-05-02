@@ -32,7 +32,7 @@
 		"unitType": "Mounted",
 		"movement": 4,
 		"strength": 15,
-		"cost": 40,
+		"cost": 80,
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"attackSound": "horse",
