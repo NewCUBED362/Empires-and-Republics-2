@@ -61,4 +61,10 @@
 		"gold": 2,
 		"requiredTech": "Currency",
 	},
+	{
+		"name": "Shrine",
+		"cost": 65,
+		"faith": 1,
+		"requiredTech": "Mysticism",
+	}
 ]
