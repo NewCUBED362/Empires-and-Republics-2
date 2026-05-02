@@ -7,6 +7,14 @@
         "civilopediaText": [
 			{"text":"Marks the center of a city"},
 			{"text":"Appearance changes with the technological era of the owning civilization"}
-		]
+		],
+	},
+	{
+		"name": "Farm",
+		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
+		"food": 1,
+		"turnsToBuild": 6,
+		"shortcutKey": "F",
+		"uniques": [""],
 	}
 ]
