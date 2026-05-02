@@ -37,7 +37,7 @@
     "gold": 1,
     "improvementStats": {"gold": 2},
     "improvedBy": ["Mine"],
-    "uniques": ["Generated with weight [29] <in [{Featureless} {Desert}] tiles>",
+    "uniques": ["Generated with weight [29] <in [Desert] tiles>",
                 "Generated with weight [20] <in [{Featureless} {Grassland}] tiles>",
                 "Generated with weight [17] <in [{Featureless} {Plains}] tiles>"],
   },
