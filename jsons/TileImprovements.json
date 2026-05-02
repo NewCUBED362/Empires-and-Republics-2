@@ -14,15 +14,23 @@
 		"terrainsCanBeBuiltOn": ["Grassland","Plains","Flood plains"],
 		"food": 1,
 		"turnsToBuild": 6,
-		"shortcutKey": "F",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			        "[+1 Food] from [Fresh Water] tiles"],
+		"shortcutKey": "F",
 	},
 	{
 		"name": "Mine",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"production": 1,
-		"turnsToBuild": 6,
+		"turnsToBuild": 8,
 		"shortcutKey": "M",
+	},
+	{
+		"name": "Quarry",
+		"techRequired": "Masonry",
+		"turnsToBuild": 8,
+		"uniques": [""],
+		"shortcutKey": "Q",
 	}
+		
 ]
