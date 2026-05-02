@@ -35,7 +35,7 @@
 		"requiredTech": "Writing",
 	},
 	{
-		"name": "Wall",
+		"name": "Walls",
 		"cost": 90,
 		"requiredTech": "Code of Laws",
 		"requiredNearbyImprovedResources": ["Stone"],
