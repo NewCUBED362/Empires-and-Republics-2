@@ -23,6 +23,12 @@
 		"requiredTech": "Pottery",
 	},
 	{
+		"name": "Granary",
+		"cost": 45,
+		"food": 2,
+		"requiredTech": "Pottery",
+	},
+	{
 		"name": "Library",
 		"cost": 50,
 		"science": 2,
