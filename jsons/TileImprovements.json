@@ -29,7 +29,7 @@
 		"name": "Quarry",
 		"techRequired": "Masonry",
 		"turnsToBuild": 8,
-		"uniques": [""],
+		"uniques": ["Can only be built to improve a resource"],
 		"shortcutKey": "Q",
 	}
 		
