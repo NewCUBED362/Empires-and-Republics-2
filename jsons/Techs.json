@@ -150,7 +150,7 @@
         "name": "Seafaring",
         "row": 8,
         "cost": 120,
-        "prerequisites": ["Pottery","Map Making"],
+        "prerequisites": ["Mathematics","Map Making"],
       },
       {
         "name": "Construction",
@@ -202,7 +202,7 @@
       "name": "Banking",
       "row": 1,
       "cost": 390,
-      "prerequisites": ["Literacy","Trade"],
+      "prerequisites": ["Trade"],
     },
     {
       "name": "Medicine",
@@ -220,7 +220,7 @@
       "name": "Physics",
       "row": 7,
       "cost": 390,
-      "prerequisites": ["Literacy","Navigation"],
+      "prerequisites": ["Navigation"],
     },
     {
       "name": "Monotheism",
