@@ -49,6 +49,18 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
 	},
 	{
+		"name": "Aga-ush",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 65,
+		"requiredTech": "Bronze Working",
+		"replaces": "Spearman",
+		"uniqueTo": "The Sumerians",
+		"attackSound": "nonmetalhit",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	},
+	{
 		"name": "Archer",
 		"unitType": "Archery",
 		"movement": 2,
