@@ -112,6 +112,7 @@
       "row": 16,
       "cost": 50,
       "prerequisites": ["Bronze Working"],
+      "uniques": ["[+1 Gold] [in all cities]"],
     },
     {
       "name": "Iron Working",
