@@ -73,6 +73,6 @@
 		"cost": 90,
 		"maintenance": 1,
 		"requiredTech": "Mathematics",
-		"uniques": ["[+1 Science] per [3] population [in this city]",
+		"uniques": ["[+1 Science] per [3] population [in this city]"],
 	}
 ]
