@@ -15,6 +15,7 @@
 		"food": 1,
 		"turnsToBuild": 6,
 		"shortcutKey": "F",
-		"uniques": [""],
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+			        "[+1 Food] from [Flood plains] tiles"],
 	}
 ]
