@@ -44,13 +44,15 @@
   {
     "name": "Iron",
     "resourceType": "Strategic",
-    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Desert"],
     "techRequired": "Iron Working",
     "production": 1,
     "improvementStats": {"production": 1},
     "improvedBy": ["Mine"],
     "uniques": ["Guaranteed with Strategic Balance resource option",
-                "Generated with weight [26] <in [Hill] tiles>",
+                "Generated with weight [23] <in [Hill] tiles>",
+                "Generated with weight [26] <in [{Featureless} {Grassland}] tiles>",
+                "Generated with weight [27] <in [{Featureless} {Plains}] tiles>"],
   }
     
 ]
