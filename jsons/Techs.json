@@ -142,13 +142,13 @@
       },
       {
         "name": "Astronomy",
-        "row": 6,
+        "row": 7,
         "cost": 120,
         "prerequisites": ["Mysticism","Mathematics"],
       },
       {
         "name": "Seafaring",
-        "row": 7,
+        "row": 8,
         "cost": 120,
         "prerequisites": ["Pottery","Map Making"],
       },
