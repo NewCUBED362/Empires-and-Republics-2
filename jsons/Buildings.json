@@ -15,6 +15,11 @@
 		"cost": 35,
 		"culture": 1,
 		"requiredTech": "Ceremonial Burial",
-
+	},
+	{
+		"name": "Pottery Workshop",
+		"cost": 35,
+		"culture": 1,
+		"requiredTech": "Pottery",
 	}
 ]
