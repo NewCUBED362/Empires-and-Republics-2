@@ -71,8 +71,8 @@
 	{
 		"name": "School",
 		"cost": 90,
-		"science": 2,
 		"maintenance": 1,
 		"requiredTech": "Mathematics",
+		"uniques": ["[+1 Science] per [3] population [in this city]",
 	}
 ]
