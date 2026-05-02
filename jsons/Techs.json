@@ -569,7 +569,27 @@
         "row": 14,
         "cost": 2155,
         "prerequisites": ["Advanced Flight"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 16,
+    "era": "Information era",
+    "buildingCost": 850,
+    "wonderCost": 2000,
+    "techs": [
+      {
+        "name": "Laser",
+        "row": 3,
+        "cost": 2200,
+        "prerequisites": ["Nuclear Power"],
+      },
+      {
+        "name": "Space Flight",
+        "row": 11,
+        "cost": 2200,
+        "prerequisites": ["Rocketry","Robotics","Combined Arms"],
       }
     ]
-  }     
+  }
 ]
