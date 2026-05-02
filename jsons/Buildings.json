@@ -66,5 +66,6 @@
 		"cost": 65,
 		"faith": 1,
 		"requiredTech": "Mysticism",
+		"uniques": ["Only available <when religion is enabled>"],
 	}
 ]
