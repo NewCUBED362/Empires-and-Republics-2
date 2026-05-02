@@ -57,5 +57,6 @@
 		"range": 2,
 		"cost": 60,
 		"requiredTech": "Warrior Code",
+		"attackSound": "arrow",
 	}
 ]
