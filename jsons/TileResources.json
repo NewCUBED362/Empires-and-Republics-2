@@ -10,7 +10,7 @@
   {
     "name": "Sheep",
     "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": ["Grassland","Hill"],
+    "terrainsCanBeFoundOn": ["Grassland"],
     "food": 1,
     "uniques": ["Generated on every [18] tiles <in [Grassland] tiles>",
                 "Generated on every [23] tiles <in [{Grassland} {Hill}] tiles>"],
