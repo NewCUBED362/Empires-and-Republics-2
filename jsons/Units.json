@@ -82,4 +82,15 @@
 		"requiredResource": "Iron",
 		"attackSound": "metalhit",
 	},
+	{
+		"name": "Legion",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 28,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"replaces": "Swordsman",
+		"uniqueTo": "The Romans",
+		"attackSound": "metalhit",
+	},
 ]
