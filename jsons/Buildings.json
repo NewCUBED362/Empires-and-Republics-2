@@ -21,5 +21,11 @@
 		"cost": 35,
 		"culture": 1,
 		"requiredTech": "Pottery",
+	},
+	{
+		"name": "Library",
+		"cost": 50,
+		"science": 2,
+		"requiredTech": "Writing",
 	}
 ]
