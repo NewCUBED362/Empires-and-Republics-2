@@ -47,5 +47,15 @@
 		"requiredTech": "Bronze Working",
 		"attackSound": "nonmetalhit",
 		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	},
+	{
+		"name": "Archer",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 8,
+		"rangedStrength": 15,
+		"range": 2,
+		"cost": 60,
+		"requiredTech": "Warrior Code",
 	}
 ]
