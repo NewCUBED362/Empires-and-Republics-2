@@ -75,11 +75,10 @@
       "row": 4,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "uniques": ["[+1 Culture] [in capital]"],
     },
     {
-      "name"
-      
-      : "Mysticism",
+      "name": "Mysticism",
       "row": 6,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
