@@ -537,7 +537,18 @@
         "row": 15,
         "cost": 1900,
         "prerequisites": ["Amphibious Warfare","Radio"],
-      }
-    ]
-  }
+      },
+    ],
+  },
+  {
+    "columnNumber": 15,
+    "era": "Atomic era",
+    "buildingCost": 800,
+    "wonderCost": 1800,
+    "techs": [
+      {
+        "name": "Nuclear Power",
+        "row": 4,
+        "cost": 
+      
 ]
