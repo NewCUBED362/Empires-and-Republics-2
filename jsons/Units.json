@@ -26,5 +26,13 @@
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
 		]
+	},
+	{
+		"name": "Horseman",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 15,
+		"cost": 40,
+		"requiredTech": "Horseback Riding",
 	}
 ]
