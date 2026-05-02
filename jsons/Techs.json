@@ -429,7 +429,7 @@
         "prerequisites": ["Tactics","Steel"],
       },
       {
-        "name": "Amphibious Wafare",
+        "name": "Amphibious Warfare",
         "row": 15,
         "cost": 1480,
         "prerequisites": ["Tactics","Refrigeration"],
