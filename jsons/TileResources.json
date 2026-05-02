@@ -48,6 +48,7 @@
     "techRequired": "Iron Working",
     "production": 1,
     "improvementStats": {"production": 1},
+    "revealedBy": "Iron Working",
     "improvedBy": ["Mine"],
     "uniques": ["Guaranteed with Strategic Balance resource option",
                 "Generated with weight [23] <in [Hill] tiles>",
