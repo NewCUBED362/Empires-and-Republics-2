@@ -33,5 +33,13 @@
 		"cost": 50,
 		"science": 2,
 		"requiredTech": "Writing",
+	},
+	{
+		"name": "Wall",
+		"cost": 90,
+		"requiredTech": "Code of Laws",
+		"requiredNearbyImprovedResources": ["Stone"],
+		"cityStrength": 8,
+		"cityHealth": 8,
 	}
 ]
