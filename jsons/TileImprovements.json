@@ -31,6 +31,12 @@
 		"turnsToBuild": 8,
 		"uniques": ["Can only be built to improve a resource"],
 		"shortcutKey": "Q",
+	},
+	{
+		"name": "Pasture",
+		"turnsToBuild": 6,
+		"uniques": ["Can only be built to improve a resource"],
+		"shortcutKey": "P",
 	}
 		
 ]
