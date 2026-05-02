@@ -68,6 +68,7 @@
       "row": 2,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "uniques": ["Enables Open Borders agreements"],
     },
     {
       "name": "Code of Laws",
@@ -76,7 +77,9 @@
       "prerequisites": ["Ceremonial Burial"],
     },
     {
-      "name": "Mysticism",
+      "name"
+      
+      : "Mysticism",
       "row": 6,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
