@@ -594,7 +594,7 @@
   },
   {
     "columnNumber": 17,
-    "era": "Atomic era",
+    "era": "Information era",
     "buildingCost": 850,
     "wonderCost": 2000,
     "techs": [
@@ -609,6 +609,26 @@
         "row": 6,
         "cost": 2200,
         "prerequisites": ["Space Flight"],
+      },
+    ],
+  },
+  {
+    "columnNumber": 18,
+    "era": "Information era",
+    "buildingCost": 850,
+    "wonderCost": 2000,
+    "techs": [
+      {
+        "name": "Fusion Power",
+        "row": 3,
+        "cost": 2200,
+        "prerequisites": ["Superconductors"],
+      },
+      {
+        "name": "Stealth",
+        "row": 6,
+        "cost": 2200,
+        "prerequisites": ["Combined Arms","Plastics"],
       }
     ]
   }
