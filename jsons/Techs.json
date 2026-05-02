@@ -550,21 +550,25 @@
         "name": "Nuclear Power",
         "row": 4,
         "cost": 2155,
+        "prerequisites": ["Recycling","Nuclear Fission"],
       },
       {
         "name": "Rocketry",
         "row": 11,
         "cost": 2155,
+        "prerequisites": ["Labor Union","Advanced Flight"],
       },
       {
         "name": "Robotics",
         "row": 13,
         "cost": 2155,
+        "prerequisites": ["Mobile Warfare","Computers"],
       },
       {
         "name": "Combined Arms",
         "row": 14,
         "cost": 2155,
+        "prerequisites": ["Advanced Flight"],
       }
     ]
   }     
