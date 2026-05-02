@@ -54,5 +54,11 @@
 		"requiredTech": "Warrior Code",
 		"uniques": ["New [Military] units start with [5] XP [in this city]",
 			        "[+10]% Production when constructing [{Military} {Land}] units [in this city]"],
-	}
+	},
+	{
+		"name": "Market",
+		"cost": 80,
+		"Gold": 2,
+		"requiredTech": "Currency",
+	},
 ]
