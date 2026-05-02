@@ -26,5 +26,9 @@
   {
     "name": "Atomic era",
     "citySound": "cityModern",
+  },
+  {
+    "name": "Information era",
+    "citySound": "cityModern",
   }
 ]
