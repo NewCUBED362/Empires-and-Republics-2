@@ -9,5 +9,12 @@
 		"cityStrength": 2.5,
 		"cost": 0,
 		"uniques": ["Indicates the capital city"]
+	},
+	{
+		"name": "Monument",
+		"cost": 35,
+		"culture": 1,
+		"requiredTech": "Ceremonial Burial",
+
 	}
 ]
