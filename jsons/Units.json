@@ -34,5 +34,7 @@
 		"strength": 15,
 		"cost": 40,
 		"requiredTech": "Horseback Riding",
+		"attackSound": "horse",
+		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 	}
 ]
