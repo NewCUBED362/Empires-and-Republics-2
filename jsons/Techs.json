@@ -549,6 +549,23 @@
       {
         "name": "Nuclear Power",
         "row": 4,
-        "cost": 
-      
+        "cost": 2155,
+      },
+      {
+        "name": "Rocketry",
+        "row": 11,
+        "cost": 2155,
+      },
+      {
+        "name": "Robotics",
+        "row": 13,
+        "cost": 2155,
+      },
+      {
+        "name": "Combined Arms",
+        "row": 14,
+        "cost": 2155,
+      }
+    ]
+  }     
 ]
