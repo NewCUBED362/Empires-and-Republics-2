@@ -142,7 +142,7 @@
       },
       {
         "name": "Astronomy",
-        "row": 5,
+        "row": 6,
         "cost": 120,
         "prerequisites": ["Mysticism","Mathematics"],
       },
@@ -154,9 +154,9 @@
       },
       {
         "name": "Construction",
-        "row": 9,
+        "row": 5,
         "cost": 120,
-        "prerequisites": ["Masonry","Currency"],
+        "prerequisites": ["Masonry","Mathematics"],
       },
     ],
   },
