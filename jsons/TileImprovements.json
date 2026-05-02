@@ -17,5 +17,12 @@
 		"shortcutKey": "F",
 		"uniques": ["Can also be built on tiles adjacent to fresh water",
 			        "[+1 Food] from [Flood plains] tiles"],
+	},
+	{
+		"name": "Mine",
+		"terrainsCanBeBuiltOn": ["Hill"],
+		"production": 1,
+		"turnsToBuild": 6,
+		"shortcutKey": "M",
 	}
 ]
