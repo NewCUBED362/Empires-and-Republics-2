@@ -41,4 +41,16 @@
     "uniques": ["Generated on every [19] tiles <in [Grassland] tiles>",
                 "Generated on every [21] tiles <in [Plains] tiles>"],
   },
+  {
+    "name": "Iron",
+    "resourceType": "Strategic",
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Hill","Desert","Tundra"],
+    "techRequired": "Iron Working",
+    "production": 1,
+    "improvementStats": {"production": 1},
+    "improvedBy": ["Mine"],
+    "uniques": ["Guaranteed with Strategic Balance resource option",
+                "Generated with weight [26] <in [Hill] tiles>",
+  }
+    
 ]
