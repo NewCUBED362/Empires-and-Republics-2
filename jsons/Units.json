@@ -58,5 +58,15 @@
 		"cost": 60,
 		"requiredTech": "Warrior Code",
 		"attackSound": "arrow",
-	}
+	},
+	{
+		"name": "Swordsman",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 25,
+		"cost": 90,
+		"requiredTech": "Iron Working",
+		"requiredResource": "Iron",
+		"attackSound": "horse",
+	},
 ]
