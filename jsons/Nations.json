@@ -80,7 +80,7 @@
 		"outerColor": [9, 112, 84],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Art of War",
-	    "uniques": ["May buy [Worker] units with [Faith] [in all cities]","When conquering an encampment, earn [30] Gold and recruit a Barbarian unit","[Great General] is earned [50]% faster"]
+	    "uniques": ["May buy [Worker] units with [Faith] [in all cities]","When conquering an encampment, earn [60] Gold and recruit a Barbarian unit","[Great General] is earned [50]% faster"]
 		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xi'an","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
 },
@@ -284,7 +284,7 @@
 		"outerColor": [120, 0, 1],
 		"innerColor": [229, 117, 116],
 		"uniqueName": "Seven Cities of Gold",
-	    "uniques": ["[+2 Gold] from [Luxury resource] tiles [in all cities]","[+50]% Production when constructing [Settler] units [in all cities] <starting from the [Age of Discovery]>"]
+	    "uniques": ["[+2 Gold] from [Luxury resource] tiles [in all cities]","[+50]% Production when constructing [Settler] units [in all cities] <starting from the [Renaissance era]>"]
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona","Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida"],
 		"spyNames": ["Alejandro","Carlos","Hernando","Javier","Benita","Florida","Dolores"],
 },
