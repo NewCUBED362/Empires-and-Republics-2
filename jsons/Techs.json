@@ -643,6 +643,7 @@
         "row": 6,
         "cost": 3000,
         "prerequisites": ["Fusion Power","Stealth"],
+        "uniques": ["Can be continually researched"],
       }
     ]
   }
