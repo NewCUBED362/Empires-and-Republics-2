@@ -463,6 +463,31 @@
 		"cities": ["Ulundi","Bulawayo","Umgungundlovu","Nobamba","Kwadukuza","Nongoma","Ondini","Nodwengu","Ndondakusuka","Babanango","Khangela","Kwahlomendlini","Hlobane","Ethekwini","Mlambongwenya","Eziqwaqweni","Emangweni","Isiphesi","Masotsheni","Mtunzini"],
 		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
 },
+{
+		"name": "The Indonesians",
+		"leaderName": "Gitarja",
+		"startBias": ["Coast","Jungle"],
+        "favoredReligion": "Hinduism",
+
+		"declaringWar": "There is too much weakness in you. Fear not, the children of Zulu shall remove it.",
+		"attacked": "Strong words, but they quaver on your lips. Already I see you weaken in fear.",
+		"defeated": "True, you ended my reign. But I will live on in your nightmares",
+        "denounced": "Your words are foul. You have a rot at your center. The only way to cleanse that is to cut it out."
+		"introduction": "You stand before Shaka of the Zulu. Dare you turn your back to my armies? I will make no such mistake.",
+
+		"neutralHello": "Hail your Majesty!",
+		"hateHello": "You say? What are you doing here?",
+
+		"tradeRequest": "Approve the closure sell.",
+		"declaringFriendship": "The children of the Zulu will stand with you, if you stand with them. Shall we declare our friendship?",
+
+		"outerColor": [120, 61, 2],
+		"innerColor": [255, 255, 255],
+		"uniqueName": "Isibongo",
+	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
+		"cities": ["Palembang"],
+		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
+},
 	// City-States
 {
 		"name": "Thai Peoples",
