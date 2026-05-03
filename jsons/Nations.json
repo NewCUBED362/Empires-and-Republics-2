@@ -480,8 +480,8 @@
 
 		"tradeRequest": "What if we make a deal, you and me?",
 
-		"outerColor": [120, 61, 2],
-		"innerColor": [255, 255, 255],
+		"outerColor": [202, 20, 20],
+		"innerColor": [125, 236, 227],
 		"uniqueName": "Archipelago State",
 	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
 		"cities": ["Jakarta","Palembang"],
