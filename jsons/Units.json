@@ -99,7 +99,7 @@
 		"movement": 4,
 		"cost": 30,
 		"requiredTech": "Map Making",
-		"uniques": ["Cannot enter ocean tiles <before discovering [Astronomy]>", "May create improvements on water resources",
+		"uniques": ["Cannot enter ocean tiles <before discovering [Magnetism]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
 	}
 ]
