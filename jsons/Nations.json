@@ -475,16 +475,16 @@
         "denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!"
 		"introduction": "I am Gitarja, Majapahit's queen and protector. Those who thought us weak litter the ocean floor.",
 
-		"neutralHello": "Hail your Majesty!",
-		"hateHello": "You say? What are you doing here?",
+		"neutralHello": "Greetings!",
+		"hateHello": "What is it, fool?",
 
-		"tradeRequest": "Approve the closure sell.",
+		"tradeRequest": "What if we make a deal, you and me?",
 
 		"outerColor": [120, 61, 2],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Archipelago State",
 	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
-		"cities": ["Palembang"],
+		"cities": ["Jakarta","Palembang"],
 		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
 },
 	// City-States
