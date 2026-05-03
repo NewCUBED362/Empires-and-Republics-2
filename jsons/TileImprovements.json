@@ -38,5 +38,13 @@
 		"uniques": ["Can only be built to improve a resource"],
 		"shortcutKey": "P",
 	}
+	{
+		"name": "Fishing Boats",
+		"turnsToBuild": 1,  // Allows this to be constructed for city-states
+		"terrainsCanBeBuiltOn": ["Coast"],
+		"techRequired": "Map Making",
+		"uniques": ["[+1 Gold] <after discovering [Corporation]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
+		"shortcutKey": "F"
+	}
 		
 ]
