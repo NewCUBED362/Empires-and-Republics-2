@@ -94,6 +94,7 @@
       "row": 10,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "uniques": ["Enables embarkation for land units"],
     }
     {
       "name": "Polytheism",
