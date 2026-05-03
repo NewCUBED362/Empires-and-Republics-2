@@ -472,18 +472,17 @@
 		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
 		"attacked": "Truly? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
 		"defeated": "The dream of Nusantara is lost to the turning tide.",
-        "denounced": "Your words are foul. You have a rot at your center. The only way to cleanse that is to cut it out."
+        "denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!"
 		"introduction": "I am Gitarja, Majapahit's queen and protector. Those who thought us weak litter the ocean floor.",
 
 		"neutralHello": "Hail your Majesty!",
 		"hateHello": "You say? What are you doing here?",
 
 		"tradeRequest": "Approve the closure sell.",
-		"declaringFriendship": "The children of the Zulu will stand with you, if you stand with them. Shall we declare our friendship?",
 
 		"outerColor": [120, 61, 2],
 		"innerColor": [255, 255, 255],
-		"uniqueName": "Isibongo",
+		"uniqueName": "Archipelago State",
 	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
 		"cities": ["Palembang"],
 		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
