@@ -484,7 +484,8 @@
 		"innerColor": [0, 192, 154],
 		"uniqueName": "Archipelago State",
 	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
-		"cities": ["Majapahit","Jakarta","Palembang","Tuban","Jambi","Ternate","Badung","Mataram","Surabaya","Banjarmasim","Bima","Makassar"],
+		"cities": ["Majapahit","Jakarta","Palembang","Tuban","Jambi","Ternate","Badung","Mataram","Surabaya","Banjarmasim","Bima","Makassar","Lampung","Barus","Banten","Gelgel","Bogor","Pagaruyung","Gorontalo",
+		           "Pekalongan","Sukadana"],
 		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
 },
 	// City-States
