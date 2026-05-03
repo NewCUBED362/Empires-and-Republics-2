@@ -28,7 +28,7 @@
 		"outerColor": [120, 0, 1],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Sun Never Sets",
-	    "uniques": ["[+1 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>"]
+	    "uniques": ["[+2 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>"]
 		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester"],
 	    "spyNames": ["Noah","Arthur","Theodore","George","Olivia","Amelia","Freya"],
 },
@@ -459,7 +459,7 @@
 		"outerColor": [120, 61, 2],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Isibongo",
-	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
+	    "uniques": ["[+30]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
 		"cities": ["Ulundi","Bulawayo","Umgungundlovu","Nobamba","Kwadukuza","Nongoma","Ondini","Nodwengu","Ndondakusuka","Babanango","Khangela","Kwahlomendlini","Hlobane","Ethekwini","Mlambongwenya","Eziqwaqweni","Emangweni","Isiphesi","Masotsheni","Mtunzini"],
 		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
 },
@@ -483,7 +483,7 @@
 		"outerColor": [120, 0, 0],
 		"innerColor": [0, 192, 154],
 		"uniqueName": "Archipelago State",
-	    "uniques": ["[+20]% Strength <when adjacent to a [Friendly] unit>","[+20] HP when healing <for [{Wounded} {Military}] units>","[+1 Happiness] from all [Walls] buildings"]
+	    "uniques": ["[+2 Faith, +1 Science] [in all cities] <in [Coastal] tiles>","May buy [Water] units with [Faith] [in all cities]","[0] Movement point cost to disembark <for [Religious] units>","[0] Movement point cost to embark <for [Religious] units>"],
 		"cities": ["Majapahit","Jakarta","Palembang","Tuban","Jambi","Ternate","Badung","Mataram","Surabaya","Banjarmasim","Bima","Makassar","Lampung","Barus","Banten","Gelgel","Bogor","Pagaruyung","Gorontalo",
 		           "Pekalongan","Sukadana"],
 		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
