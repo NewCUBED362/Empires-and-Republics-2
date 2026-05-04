@@ -90,5 +90,12 @@
 		"happiness": 3,
 		"maintenance": 1,
 		"requiredTech": "Construction",
+	},
+	{
+		"name": "Aqueduct",
+		"cost": 120,
+		"happiness": 1,
+		"maintenance": 1,
+		"requiredTech": "Construction",
 	}
 ]
