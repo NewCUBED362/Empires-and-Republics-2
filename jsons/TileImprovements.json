@@ -37,7 +37,13 @@
 		"turnsToBuild": 6,
 		"uniques": ["Can only be built to improve a resource"],
 		"shortcutKey": "P",
-	}
+	},
+	{
+		"name": "Camp",
+		"turnsToBuild": 6,
+		"uniques": ["Can only be built to improve a resource"],
+		"shortcutKey": "C",
+	},
 	{
 		"name": "Fishing Boats",
 		"turnsToBuild": 1,  // Allows this to be constructed for city-states
