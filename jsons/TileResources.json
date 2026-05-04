@@ -39,6 +39,16 @@
     "uniques": ["Generated on every [14] tiles <in [Coast] tiles>",
                 "Generated on every [23] tiles <in [Ocean] tiles>"],
   },
+  {
+    "name": "Deer",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Tundra","Forest"],
+    "food": 1,
+    "improvementStats": {"food": 1},
+    "improvedBy": ["Camp"],
+    "uniques": ["Generated on every [16] tiles <in [Tundra] tiles>",
+                "Generated on every [20] tiles <in [Forest] tiles>"],
+  },
   // Luxury resources 
   {
     "name": "Gold Ore",
