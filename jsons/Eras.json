@@ -32,13 +32,16 @@
   {
     "name": "Atomic era",
     "citySound": "cityModern",
+    "iconRGB": [0, 150, 136],
   },
   {
     "name": "Information era",
     "citySound": "cityModern",
+    "iconRGB": [0, 150, 136],
   },
   {
     "name": "Future era",
     "citySound": "cityFuture",
+    "iconRGB": [76, 176, 81],
   }
 ]
