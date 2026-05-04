@@ -2,26 +2,32 @@
   {
     "name": "Ancient era",
     "citySound": "cityAncient",
+    "iconRGB": [255, 87, 35]
   },
   {
     "name": "Classical era",
     "citySound": "cityClassical",
+    "iconRGB": [255, 87, 35]
   },
   {
     "name": "Medieval era",
     "citySound": "cityMedieval",
+    "iconRGB": [157, 39, 176]
   },
   {
     "name": "Renaissance era",
     "citySound": "cityMedieval",
+    "iconRGB": [157, 39, 176]
   },
   {
     "name": "Industrial era",
     "citySound": "cityIndustrial",
+    "iconRGB": [63, 81, 182],
   },
   {
     "name": "Modern era",
     "citySound": "cityIndustrial",
+    "iconRGB": [63, 81, 182],
   },
   {
     "name": "Atomic era",
