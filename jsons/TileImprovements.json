@@ -46,6 +46,14 @@
 		"uniques": ["[+1 Gold] <after discovering [Corporation]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "F"
 	},
+	{
+		"name": "Lumber mill",
+		"production": 1,
+		"turnsToBuild": 8,
+		"uniques": ["Can also be built on tiles adjacent to fresh water",
+			        "[+2 Production] from [Forest] tiles"],
+		"shortcutKey": "L",
+	},
 	// Transportation
 	{
 		"name": "Road",
