@@ -72,7 +72,15 @@
 		"name": "School",
 		"cost": 90,
 		"maintenance": 1,
-		"requiredTech": "Mathematics",
+		"requiredTech": "Literacy",
 		"uniques": ["[+1 Science] per [3] population [in this city]"],
+	},
+	{
+		"name": "Water Mill",
+		"cost": 90,
+		"food": 1,
+		"production": 1,
+		"maintenance": 1,
+		"requiredTech": "Wheel",
 	}
 ]
