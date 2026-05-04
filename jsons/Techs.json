@@ -101,6 +101,7 @@
       "row": 12,
       "cost": 25,
       "prerequisites": ["Ceremonial Burial","Horseback Riding"],
+      "uniques": ["[+1 Faith] [in capital]"],
     },
     {
       "name": "Wheel",
