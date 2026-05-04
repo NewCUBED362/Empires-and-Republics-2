@@ -97,5 +97,6 @@
 		"happiness": 1,
 		"maintenance": 1,
 		"requiredTech": "Construction",
+		"uniques": ["[40]% Food is carried over after population increases [in this city]"],
 	}
 ]
