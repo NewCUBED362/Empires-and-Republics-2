@@ -85,9 +85,10 @@
 		"uniques": ["Must be on [River]"],
 	},
 	{
-		"name": "",
+		"name": "Colosseum",
 		"cost": 120,
 		"happiness": 2,
+		"maintenance": 1,
 		"requiredTech": "Construction",
 	}
 ]
