@@ -106,10 +106,10 @@
 		"name": "Battering Ram",
 		"unitType": "Sword",
 		"movement": 2,
-		"strength": 15,
+		"strength": 13,
 		"cost": 75,
 		"requiredTech": "Wheel",
 		"attackSound": "nonmetalhit",
-		"uniques": ["[+200]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+200]% Strength <vs cities>"],
 	}
 ]
