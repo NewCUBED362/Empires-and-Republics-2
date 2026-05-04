@@ -83,5 +83,11 @@
 		"maintenance": 1,
 		"requiredTech": "Wheel",
 		"uniques": ["Must be on [River]"],
+	},
+	{
+		"name": "",
+		"cost": 120,
+		"happiness": 2,
+		"requiredTech": "Construction",
 	}
 ]
