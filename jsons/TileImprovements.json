@@ -45,6 +45,32 @@
 		"techRequired": "Map Making",
 		"uniques": ["[+1 Gold] <after discovering [Corporation]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]"],
 		"shortcutKey": "F"
-	}
+	},
+	// Transportation
+	{
+		"name": "Road",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Trade",
+		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ½ if the other tile also has a Road or Railroad"},
+            {"text":"Reduces movement cost to ⅓ with Machinery", "link":"Technology/Machinery"},
+            {"text":"Requires Engineering to bridge rivers", "link":"Technology/Engineering"}
+        ]
+	},
+	{
+		"name": "Railroad",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Railroad",
+		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
+		"shortcutKey": "R",
+        "civilopediaText": [
+            {"text":"Reduces movement cost to ⅒ if the other tile also has a Railroad"},
+            {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
+        ]
+	},
 		
 ]
