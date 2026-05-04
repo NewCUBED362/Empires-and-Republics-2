@@ -101,5 +101,15 @@
 		"requiredTech": "Map Making",
 		"uniques": ["Cannot enter ocean tiles <before discovering [Magnetism]>", "May create improvements on water resources",
             "Uncapturable", "Automation is a primary action"]
+	},
+	{
+		"name": "Battering Ram",
+		"unitType": "Sword",
+		"movement": 2,
+		"strength": 15,
+		"cost": 75,
+		"requiredTech": "Wheel",
+		"attackSound": "nonmetalhit",
+		"uniques": ["[+200]% Strength <vs [Mounted] units>"],
 	}
 ]
