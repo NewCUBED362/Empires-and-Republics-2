@@ -50,8 +50,8 @@
 		"name": "Lumber mill",
 		"production": 1,
 		"turnsToBuild": 8,
-		"uniques": ["Can also be built on tiles adjacent to fresh water",
-			        "[+2 Production] from [Forest] tiles"],
+		"techRequired": "Construction",
+		"uniques": ["[+2 Production] from [Forest] tiles"],
 		"shortcutKey": "L",
 	},
 	// Transportation
