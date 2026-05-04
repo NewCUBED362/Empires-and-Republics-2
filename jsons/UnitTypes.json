@@ -30,6 +30,10 @@
         "movementType": "Land"
     },
     {
+        "name": "Heavy Mounted",
+        "movementType": "Land"
+    },
+    {
         "name": "Armored",
         "movementType": "Land"
     },
