@@ -111,5 +111,16 @@
 		"requiredTech": "Wheel",
 		"attackSound": "nonmetalhit",
 		"uniques": ["[+200]% Strength <vs cities>"],
+	},
+	{
+		"name": "Chariot",
+		"unitType": "Heavy Mounted",
+		"movement": 2,
+		"strength": 23,
+		"cost": 100,
+		"requiredTech": "Wheel",
+		"requiredResource": "Horses",
+		"attackSound": "horse",
+		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 	}
 ]
