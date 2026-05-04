@@ -78,8 +78,8 @@
 	{
 		"name": "Water Mill",
 		"cost": 90,
-		"food": 1,
-		"production": 1,
+		"food": 2,
+		"production": 2,
 		"maintenance": 1,
 		"requiredTech": "Wheel",
 		"uniques": ["Must be on [River]"],
@@ -87,7 +87,7 @@
 	{
 		"name": "Colosseum",
 		"cost": 120,
-		"happiness": 2,
+		"happiness": 3,
 		"maintenance": 1,
 		"requiredTech": "Construction",
 	}
