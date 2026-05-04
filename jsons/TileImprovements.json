@@ -48,10 +48,10 @@
 	},
 	{
 		"name": "Lumber mill",
+		"terrainsCanBeBuiltOn": ["Forest"],
 		"production": 1,
 		"turnsToBuild": 8,
 		"techRequired": "Construction",
-		"uniques": ["[+2 Production] from [Forest] tiles"],
 		"shortcutKey": "L",
 	},
 	// Transportation
