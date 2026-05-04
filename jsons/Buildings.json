@@ -82,5 +82,6 @@
 		"production": 1,
 		"maintenance": 1,
 		"requiredTech": "Wheel",
+		"uniques": ["Must be on [River]"],
 	}
 ]
