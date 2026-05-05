@@ -155,6 +155,8 @@
 
 		"tradeRequest": "My friend, are you interested in this arrangement?",
 		"declaringFriendship": "India thinks highly of your people. With your permission, I will declare our mutual friendship to all!",
+	    "neutralRejectingDemand": "Further discussion at this point would be meaningless, not to mention very annoying. Go away.",
+	    "hateRejectingDemand": "Further discussion at this point would be meaningless, not to mention very annoying. Go away.",
 
 		"outerColor": [0, 192, 155],
 		"innerColor": [55, 0, 101],
