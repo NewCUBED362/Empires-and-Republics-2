@@ -24,13 +24,11 @@
 	},
 	{
 		"name": "Granary",
-		"cost": 45,
 		"food": 2,
 		"requiredTech": "Pottery",
 	},
 	{
 		"name": "Library",
-		"cost": 50,
 		"science": 3,
 		"maintenance": 1,
 		"requiredTech": "Writing",
@@ -45,7 +43,6 @@
 	},
 	{
 		"name": "Barracks",
-		"cost": 65,
 		"production": 1,
 		"maintenance": 1,
 		"requiredTech": "Warrior Code",
@@ -54,27 +51,23 @@
 	},
 	{
 		"name": "Market",
-		"cost": 80,
 		"gold": 3,
 		"requiredTech": "Currency",
 	},
 	{
 		"name": "Shrine",
-		"cost": 65,
 		"faith": 1,
 		"requiredTech": "Mysticism",
 		"uniques": ["Only available <when religion is enabled>"],
 	},
 	{
 		"name": "School",
-		"cost": 90,
 		"maintenance": 1,
 		"requiredTech": "Literacy",
 		"uniques": ["[+2 Science] per [4] population [in this city]"],
 	},
 	{
 		"name": "Water Mill",
-		"cost": 90,
 		"food": 2,
 		"production": 2,
 		"maintenance": 1,
@@ -83,20 +76,17 @@
 	},
 	{
 		"name": "Colosseum",
-		"cost": 120,
 		"happiness": 3,
 		"maintenance": 1,
 		"requiredTech": "Construction",
 	},
 	{
 		"name": "Dock",
-		"cost": 120,
 		"gold": 2,
 		"requiredTech": "Seafaring",
 	},
 	{
 		"name": "Aqueduct",
-		"cost": 120,
 		"happiness": 2,
 		"maintenance": 1,
 		"requiredTech": "Construction",
