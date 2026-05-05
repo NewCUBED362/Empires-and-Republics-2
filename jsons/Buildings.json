@@ -84,6 +84,7 @@
 		"name": "Dock",
 		"gold": 2,
 		"requiredTech": "Seafaring",
+		"uniques": ["Can only be built <in [Coastal] tiles>"],
 	},
 	{
 		"name": "Aqueduct",
