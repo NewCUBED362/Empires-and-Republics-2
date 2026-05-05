@@ -143,6 +143,6 @@
 		"cost": 90,
 		"requiredTech": "Seafaring",
 		"attackSound": "nonmetalhit",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["Cannot enter ocean tiles"],
 	},
 ]
