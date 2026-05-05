@@ -60,7 +60,7 @@
   {
     "columnNumber": 2,
     "era": "Classical era",
-    "buildingCost": 20,
+    "buildingCost": 80,
     "wonderCost": 100,
     "techs": [
     {
@@ -127,7 +127,7 @@
   {
     "columnNumber": 3,
     "era": "Classical era",
-    "buildingCost": 40,
+    "buildingCost": 80,
     "wonderCost": 100,
     "techs": [
       {
@@ -165,7 +165,7 @@
   {
     "columnNumber": 4,
     "era": "Medieval era",
-    "buildingCost": 60,
+    "buildingCost": 120,
     "wonderCost": 100,
     "techs": [
       {
@@ -197,7 +197,7 @@
   {
     "columnNumber": 5,
     "era": "Medieval era",
-    "buildingCost": 100,
+    "buildingCost": 120,
     "wonderCost": 200,
     "techs": [
     {
