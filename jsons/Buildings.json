@@ -103,5 +103,11 @@
 		"culture": 2,
 		"maintenance": 1,
 		"requiredTech": "Philosophy",
+	},
+	{
+		"name": "Chemist",
+		"food": 3,
+		"maintenance": 1,
+		"requiredTech": "Philosophy",
 	}
 ]
