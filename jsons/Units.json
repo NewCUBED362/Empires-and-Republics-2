@@ -143,6 +143,6 @@
 		"cost": 90,
 		"requiredTech": "Seafaring",
 		"attackSound": "nonmetalhit",
-		"uniques": ["Cannot enter ocean tiles"],
+		"uniques": ["Cannot enter ocean tiles","Can only be built <in cities with a [Dock]>"],
 	},
 ]
