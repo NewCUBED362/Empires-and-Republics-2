@@ -134,5 +134,15 @@
 		"cost": 60,
 		"requiredTech": "Mathematics",
 		"attackSound": "throw",
-	}
+	},
+	{
+		"name": "Galley",
+		"unitType": "Melee Water",
+		"movement": 4,
+		"strength": 15,
+		"cost": 90,
+		"requiredTech": "Seafaring",
+		"attackSound": "nonmetalhit",
+		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+	},
 ]
