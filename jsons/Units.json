@@ -122,5 +122,16 @@
 		"requiredResource": "Horses",
 		"attackSound": "horse",
 		"uniques": ["[+50]% Strength <vs [Sword] units>"],
+	},
+	{
+		"name": "Catapult",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 7,
+		"rangedStrength": 13,
+		"range": 2,
+		"cost": 60,
+		"requiredTech": "Mathematics",
+		"attackSound": "throw",
 	}
 ]
