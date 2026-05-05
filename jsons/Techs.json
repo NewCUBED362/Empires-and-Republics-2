@@ -101,7 +101,7 @@
       "row": 12,
       "cost": 25,
       "prerequisites": ["Ceremonial Burial","Horseback Riding"],
-      "uniques": ["[+1 Faith] [in capital]"],
+      "uniques": ["[+1 Faith] [in capital]","Only available <when religion is enabled>"],
     },
     {
       "name": "Wheel",
@@ -197,7 +197,7 @@
   {
     "columnNumber": 5,
     "era": "Medieval era",
-    "buildingCost": 120,
+    "buildingCost": 195,
     "wonderCost": 200,
     "techs": [
     {
@@ -247,7 +247,7 @@
   {
     "columnNumber": 6,
     "era": "Renaissance era",
-    "buildingCost": 60,
+    "buildingCost": 195,
     "wonderCost": 100,
     "techs": [
       {
