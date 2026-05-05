@@ -4,6 +4,8 @@
             "cityStrengthBase": 10,
             "cityStrengthFromTechsMultiplier": 0,
             "cityStrengthPerPop": 0.2,
+            "baseTurnsUntilRevolt": 2,
+            "minimumWarDuration": 5,
 }
 
 }
