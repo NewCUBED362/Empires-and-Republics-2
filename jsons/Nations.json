@@ -175,13 +175,15 @@
 		"attacked": "If I must choose between righteousness and peace, I choose righteousness.",
 		"defeated": "Congratulations. Instead of the United States of America, your nation will go far...",
         "denounced": "How dare you!"
-		"introduction": "Welcome to the United States of America! If you conduct yourself well, you can consider us friends.",
+		"introduction": "Welcome! I cannot tell a lie: I'm darned glad to meet you!",
 
 		"neutralHello": "Good day.",
 		"hateHello": "Well?",
 
 		"tradeRequest": "Is the following trade of interest to you?",
 		"declaringFriendship": "You have earned my respect. Shall we declare our friendship?",
+	    "neutralRejectingDemand": "We shall not listen to your insidious lies. Begone!",
+	    "hateRejectingDemand": "America does negotiate with terrorists.",
 
 		"outerColor": [1, 42, 108],
 		"innerColor": [255, 255, 255],
