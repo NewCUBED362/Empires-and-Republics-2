@@ -179,6 +179,7 @@
         "row": 7,
         "cost": 200,
         "prerequisites": ["Astronomy","Seafaring"],
+        "uniques": ["[+1] Movement <for [Water] units>"],
       },
       {
         "name": "Engineering",
