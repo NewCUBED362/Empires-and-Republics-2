@@ -81,6 +81,11 @@
 		"requiredTech": "Construction",
 	},
 	{
+		"name": "Furnace",
+		"production": 1,
+		"requiredTech": "Bronze Working",
+	},
+	{
 		"name": "Dock",
 		"gold": 2,
 		"requiredTech": "Seafaring",
