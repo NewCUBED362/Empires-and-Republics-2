@@ -40,8 +40,8 @@
 		"cost": 90,
 		"requiredTech": "Code of Laws",
 		"requiredNearbyImprovedResources": ["Stone"],
-		"cityStrength": 4,
-		"cityHealth": 8,
+		"cityStrength": 6,
+		"cityHealth": 10,
 	},
 	{
 		"name": "Barracks",
