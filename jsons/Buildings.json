@@ -89,6 +89,12 @@
 		"requiredTech": "Construction",
 	},
 	{
+		"name": "Dock",
+		"cost": 120,
+		"gold": 2,
+		"requiredTech": "Seafaring",
+	},
+	{
 		"name": "Aqueduct",
 		"cost": 120,
 		"happiness": 2,
