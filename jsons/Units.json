@@ -22,6 +22,7 @@
 		"strength": 10,
 		"cost": 40,
 		"requiredTech": "Alphabet",
+		"upgradesTo": "Swordsman",
 		"attackSound": "nonmetalhit",
         "civilopediaText": [
 			{"text": "This is your basic, club-swinging fighter."}
