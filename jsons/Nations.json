@@ -236,6 +236,8 @@
 
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
 		"declaringFriendship": "I am honored to extend to you my friendship, and a friendship between our nations. Do you accept?",
+	    "neutralRejectingDemand": "Guards! Toss this villain out into the snow before I commit a diplomatic incident!",
+	    "hateRejectingDemand": "Guards! Toss this villain out into the snow before I commit a diplomatic incident!",
 
 		"outerColor": [247, 216, 1],
 		"innerColor": [24, 24, 24],
