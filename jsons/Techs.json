@@ -2,7 +2,7 @@
   {
     "columnNumber": 0,
     "era": "Ancient era",
-    "buildingCost": 20,
+    "buildingCost": 65,
     "wonderCost": 100,
     "techs": [
     {
@@ -16,7 +16,7 @@
   {
     "columnNumber": 1,
     "era": "Ancient era",
-    "buildingCost": 20,
+    "buildingCost": 65,
     "wonderCost": 100,
     "techs": [
     {
