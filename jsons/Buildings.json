@@ -109,5 +109,6 @@
 		"food": 3,
 		"maintenance": 1,
 		"requiredTech": "Philosophy",
+		"uniques": ["[+10]% growth [in this city]"],
 	}
 ]
