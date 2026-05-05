@@ -110,5 +110,12 @@
 		"maintenance": 1,
 		"requiredTech": "Philosophy",
 		"uniques": ["[+10]% growth [in this city]"],
+	},
+	{
+		"name": "Lighthouse",
+		"food": 2,
+		"gold": 2,
+		"requiredTech": "Navigation",
+		"uniques": ["Can only be built <in [Coastal] tiles>"],
 	}
 ]
