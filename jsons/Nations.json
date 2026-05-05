@@ -209,6 +209,8 @@
 
 		"tradeRequest": "It would be in your best interest, to carefully consider this proposal.",
 		"declaringFriendship": "Again we extend our hand, but this time in friendship. Will you accept it?",
+	    "neutralRejectingDemand": "Speak with YOU? Do not make me laugh!",
+	    "hateRejectingDemand": "Speak with YOU? Do not make me laugh!",
 
 		"outerColor": [179, 178, 184],
 		"innerColor": [37, 43, 33],
