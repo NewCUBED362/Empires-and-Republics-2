@@ -154,7 +154,7 @@
 		"strength": 14,
 		"rangedStrength": 28,
 		"range": 2,
-		"cost": 60,
+		"cost": 180,
 		"requiredTech": "Engineering",
 		"attackSound": "arrow",
 	},
