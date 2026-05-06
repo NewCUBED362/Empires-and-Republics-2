@@ -618,6 +618,18 @@
 		"cities": ["Inca city idk lol"]
 },
 {
+		"name": "Māori Peoples",
+		"adjective": ["Māori"],
+		"cityStateType": "Production",
+
+		"declaringWar": "Let there be war between us! I will wrestle your lands away, and rule your subjects with strength.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [222, 144, 18],
+		"cities": ["Te Hokianga-nui-a-Kupe"]
+},
+{
 		"name": "Tagalog Peoples",
 		"adjective": ["Tagalog"],
 		"cityStateType": "Culture",
