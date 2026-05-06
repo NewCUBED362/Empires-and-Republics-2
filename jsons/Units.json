@@ -69,6 +69,8 @@
 		"strength": 8,
 		"rangedStrength": 15,
 		"range": 2,
+		"obsoleteTech": "Engineering",
+		"upgradesTo": "Crossbowman",
 		"cost": 60,
 		"requiredTech": "Warrior Code",
 		"attackSound": "arrow",
