@@ -58,7 +58,7 @@
 		"cost": 65,
 		"requiredTech": "Horseback Riding",
 		"attackSound": "nonmetalhit",
-		"uniques": ["[+50]% Strength <vs [Mounted] units>"],
+		"uniques": ["[+50]% Strength <vs [Mounted] units>","[+50]% Strength <vs [Heavy Mounted] units>"],
 	},
 	{
 		"name": "Aga-ush",
