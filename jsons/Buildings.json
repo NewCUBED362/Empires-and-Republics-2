@@ -117,5 +117,10 @@
 		"gold": 2,
 		"requiredTech": "Navigation",
 		"uniques": ["Can only be built <in [Coastal] tiles>"],
+	},
+	{
+		"name": "Workshop",
+		"production": 3,
+		"requiredTech": "Engineering",
 	}
 ]
