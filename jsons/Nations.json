@@ -702,6 +702,18 @@
 		"cities": ["Hanseong"]
 },
 {
+		"name": "Arrernte Peoples",
+		"adjective": ["Arrernte"],
+		"cityStateType": "Culture",
+
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this won't be forgotten.",
+		"defeated": "The principles for which we have fought will survive longer than any nation you could ever build.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [158, 17, 209],
+		"cities": ["Mparntwe"]
+},
+{
 		"name": "Venetian Peoples",
 		"adjective": ["Venetian"],
 		"cityStateType": "Gold",
