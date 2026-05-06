@@ -762,6 +762,18 @@
 		"cities": ["Niani"]
 },
 {
+		"name": "Omani Peoples",
+		"adjective": ["Omani"],
+		"cityStateType": "Gold",
+
+		"declaringWar": "I promise none of us will taste peace, until you concede...",
+		"attacked": "It's shameful that we turn to violence, for it is not the behavior of kings to kill each other!",
+		"defeated": "This is not victory. 'Victory' is changing the hearts of your opponents; through gentleness, through kindness...",
+		"outerColor": [0, 0, 0],
+		"innerColor": [240, 236, 10],
+		"cities": ["Muscat"]
+},
+{
 		"name": "Israelite Peoples",
 		"adjective": ["Israelite"],
 		"cityStateType": "Religion",
