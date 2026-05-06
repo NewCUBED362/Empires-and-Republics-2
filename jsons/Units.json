@@ -145,6 +145,17 @@
 		"attackSound": "nonmetalhit",
 		"uniques": ["Cannot enter ocean tiles","Can only be built <in cities with a [Dock]>"],
 	},
+	{
+		"name": "Crossbowman",
+		"unitType": "Archery",
+		"movement": 2,
+		"strength": 14,
+		"rangedStrength": 28,
+		"range": 2,
+		"cost": 60,
+		"requiredTech": "Engineering",
+		"attackSound": "arrow",
+	},
 	// Religious units
 	{
 		"name": "Missionary",
