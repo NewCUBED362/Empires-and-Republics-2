@@ -9,6 +9,11 @@
         "uniques": ["[-50]% Strength <vs [Gunpowder] units>","[-50]% Strength <vs [Ranged Gunpowder] units>"],
     },
     {
+        "name": "Anti-Mounted",
+        "movementType": "Land"
+        "uniques": ["[-50]% Strength <vs [Gunpowder] units>","[-50]% Strength <vs [Ranged Gunpowder] units>"],
+    },
+    {
         "name": "Gunpowder",
         "movementType": "Land"
     },
