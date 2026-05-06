@@ -766,9 +766,9 @@
 		"adjective": ["Afghan"],
 		"cityStateType": "Religion",
 
-		"declaringWar": "Let there be war between us! I will wrestle your lands away, and rule your subjects with strength.",
-		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"declaringWar": "Now we will see if you are cowards or warriors!",
+		"attacked": "All empires that face us meet their end.",
+		"defeated": "You will burn for this!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Herat"]
@@ -778,9 +778,9 @@
 		"adjective": ["Olmec"],
 		"cityStateType": "Religion",
 
-		"declaringWar": "By god's grace we will not allow these atrocities to occur any longer. We declare war!",
-		"attacked": "May god have mercy on your evil soul.",
-		"defeated": "I for one welcome our new conquer overlord!",
+		"declaringWar": "Now we will see if you are cowards or warriors!",
+		"attacked": "Your soldiers will die on the battlefield or upon an altar.",
+		"defeated": "Our civilization falls to ashes...",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["La Venta"]
