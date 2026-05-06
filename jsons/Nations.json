@@ -558,6 +558,18 @@
 		"cities": ["Dublin"]
 },
 {
+		"name": "Comanche Peoples",
+		"adjective": ["Comanche"],
+		"cityStateType": "Food",
+
+		"declaringWar": "You are a plague upon Mother Earth! Prepare for battle!",
+		"attacked": "You evil creature! My braves will slaughter you!",
+		"defeated": "You have defeated us... but our spirits will never be vanquished! We shall return!",
+		"outerColor": [0, 0, 0],
+		"innerColor": [59, 237, 14],
+		"cities": ["Big Timbers"]
+},
+{
 		"name": "Armenian Peoples",
 		"adjective": ["Armenian"],
 		"cityStateType": "Production",
