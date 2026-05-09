@@ -54,6 +54,11 @@
         "type": "Pantheon",
         "uniques": ["Earn [50]% of killed [Barbarian] unit's [Strength] as [Faith]"]
   },
+  {
+        "name": "Goddess of Festivals",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from [Plantation] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
