@@ -14,6 +14,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from [Desert] tiles [in this city]"]
   },
+  {
+        "name": "Earth Goddess",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from [{unimproved} {Hill}] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
