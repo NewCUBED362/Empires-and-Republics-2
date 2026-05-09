@@ -1,8 +1,8 @@
 [
   {
-        "name": "Ancestor Worship",
+        "name": "City Patron Goddess",
         "type": "Pantheon",
-        "uniques": ["[+1 Culture] from every [Shrine]"]
+        "uniques": ["[[+15]% Production when constructing [Production] buildings [in this city]"]
   },
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
