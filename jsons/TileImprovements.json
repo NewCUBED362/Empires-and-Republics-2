@@ -60,6 +60,12 @@
 		"techRequired": "Construction",
 		"shortcutKey": "L",
 	},
+	{
+		"name": "Plantation",
+		"turnsToBuild": 6,
+		"uniques": ["Can only be built to improve a resource"],
+		"shortcutKey": "P",
+	},
 	// Transportation
 	{
 		"name": "Road",
