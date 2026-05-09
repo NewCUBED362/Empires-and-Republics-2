@@ -61,7 +61,7 @@
     "columnNumber": 2,
     "era": "Classical era",
     "buildingCost": 80,
-    "wonderCost": 100,
+    "wonderCost": 180,
     "techs": [
     {
       "name": "Writing",
@@ -128,7 +128,7 @@
     "columnNumber": 3,
     "era": "Classical era",
     "buildingCost": 80,
-    "wonderCost": 100,
+    "wonderCost": 180,
     "techs": [
       {
         "name": "Literacy",
@@ -166,7 +166,7 @@
     "columnNumber": 4,
     "era": "Medieval era",
     "buildingCost": 120,
-    "wonderCost": 100,
+    "wonderCost": 180,
     "techs": [
       {
         "name": "Philosophy",
