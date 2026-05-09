@@ -64,6 +64,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Food, +1 Production] from [Camp] tiles [in this city]"]
   },
+  {
+        "name": "Initiation Rites",
+        "type": "Pantheon",
+        "uniques": ["Receive [+50]% Gold from Barbarian encampments and pillaging Cities"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
