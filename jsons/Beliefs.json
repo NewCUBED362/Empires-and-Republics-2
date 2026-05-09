@@ -59,6 +59,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Culture] from [Plantation] tiles [in this city]"]
   },
+  {
+        "name": "Goddess of the Hunt",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Production] from [Camp] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
