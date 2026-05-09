@@ -140,5 +140,13 @@
 		"requiredTech": "Ceremonial Burial",
 		"uniques": ["Can build [all] improvements at a [+25]% rate","[1] free [Worker] units appear"],
 		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
+	},
+	{
+		"name": "Colossus",
+		"isWonder": true,
+		"gold": 3,
+		"requiredTech": "Map Making",
+		"uniques": ["Can build [all] improvements at a [+25]% rate","[1] free [Worker] units appear"],
+		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
 	}
 ]
