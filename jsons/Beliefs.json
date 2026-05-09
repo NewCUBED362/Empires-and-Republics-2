@@ -4,6 +4,12 @@
         "type": "Pantheon",
         "uniques": ["[[+15]% Production when constructing [Production] buildings [in this city]"]
   },
+  {
+        "name": "Dance of the Aurora",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] [in this city] <in [Tundra] tiles>"]
+  },
+
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
         "name": "Asceticism",
