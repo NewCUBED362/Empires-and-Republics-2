@@ -132,5 +132,13 @@
 		"requiredNearbyImprovedResources": ["Stone"],
 		"uniques": ["Free [Great Prophet] appears"],
 		"quote": "'Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that and then we can party!' - Bill Bryson",
+	},
+	{
+		"name": "The Pyramids",
+		"isWonder": true,
+		"culture": 1,
+		"requiredTech": "Ceremonial Burial",
+		"uniques": ["Can build [all] improvements at a [+25]% rate","[2] free [Worker] units appear"],
+		"quote": "'Can you imagine trying to talk six hundred people into helping you drag a fifty-ton stone eighteen miles across the countryside and muscle it into an upright position, and then saying, ‘Right, lads! Another twenty like that and then we can party!' - Bill Bryson",
 	}
 ]
