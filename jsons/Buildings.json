@@ -153,8 +153,8 @@
 		"name": "Hanging Gardens",
 		"isWonder": true,
 		"food": 1,
-		"requiredTech": "Pottery",
+		"requiredTech": "Mathematics",
 		"uniques": ["[+15]% growth [in all cities]","Can only be built <in [River] tiles>"],
-		"quote": "'At Rhodes was set up a Colossus of seventy cubits high, representing the Sun. The artist expended as much bronze on it as seemed likely to create a dearth in the mines.' - Philo of Byzantium",
+		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
 	}
 ]
