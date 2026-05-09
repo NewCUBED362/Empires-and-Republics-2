@@ -29,6 +29,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Production, +1 Faith] from [{improved} {Strategic resource}] tiles [in this city]"]
   },
+  {
+        "name": "God of Healing",
+        "type": "Pantheon",
+        "uniques": ["[+20] HP when healing <for [Friendly] units> <in this city>"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
