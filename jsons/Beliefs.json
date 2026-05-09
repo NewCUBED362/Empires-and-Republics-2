@@ -39,6 +39,11 @@
         "type": "Pantheon",
         "uniques": ["[+25]% Production when constructing [pre-[Medieval era]] units [in this city]"]
   },
+  {
+        "name": "God of the Open Sky",
+        "type": "Pantheon",
+        "uniques": ["[+1 Culture] from [Pasture] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
