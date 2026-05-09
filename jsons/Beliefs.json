@@ -24,6 +24,11 @@
         "type": "Pantheon",
         "uniques": ["[+15]% growth [in this city]"]
   },
+  {
+        "name": "God of Craftsmen",
+        "type": "Pantheon",
+        "uniques": ["[+1 Production, +1 Faith] from [{improved} {Strategic resource}] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
