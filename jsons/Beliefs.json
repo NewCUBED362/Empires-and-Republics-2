@@ -69,6 +69,11 @@
         "type": "Pantheon",
         "uniques": ["Receive [+50]% Gold from Barbarian encampments and pillaging Cities"]
   },
+  {
+        "name": "Lady of the Reeds and Marshes",
+        "type": "Pantheon",
+        "uniques": ["[+2 Production] from [Oasis] tiles [in this city]","[+2 Production] from [Flood plains] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
