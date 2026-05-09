@@ -7,7 +7,7 @@
   {
         "name": "Dance of the Aurora",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith] [in this city] <in [Tundra] tiles>"]
+        "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
   },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
