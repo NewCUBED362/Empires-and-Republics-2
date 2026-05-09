@@ -74,6 +74,11 @@
         "type": "Pantheon",
         "uniques": ["[+2 Production] from [Oasis] tiles [in this city]","[+2 Production] from [Flood plains] tiles [in this city]"]
   },
+  {
+        "name": "Monument to the Gods",
+        "type": "Pantheon",
+        "uniques": ["[+15]% Production when constructing [Wonder] buildings [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
