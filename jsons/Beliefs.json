@@ -19,6 +19,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from [{unimproved} {Hill}] tiles [in this city]"]
   },
+  {
+        "name": "Fertility Rites",
+        "type": "Pantheon",
+        "uniques": ["[+15]% growth [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
