@@ -9,6 +9,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Faith] from [Tundra] tiles without [Forest] [in this city]"]
   },
+  {
+        "name": "Desert Folklore",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from [Desert] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
