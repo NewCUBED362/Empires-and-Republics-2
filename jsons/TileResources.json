@@ -61,6 +61,15 @@
                 "Generated with weight [20] <in [{Featureless} {Grassland}] tiles>",
                 "Generated with weight [17] <in [{Featureless} {Plains}] tiles>"],
   },
+  {
+    "name": "Coffee Beans",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Forest"],
+    "food": 1,
+    "improvementStats": {"food": 1},
+    "improvedBy": ["Plantation"],
+    "uniques": ["Generated with weight [20] <in [Forest] tiles>"],
+  },
   // Strategic resources 
   {
     "name": "Horses",
