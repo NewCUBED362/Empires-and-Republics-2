@@ -146,7 +146,7 @@
 		"isWonder": true,
 		"gold": 3,
 		"requiredTech": "Map Making",
-		"uniques": ["Can build [all] improvements at a [+25]% rate","[1] free [Worker] units appear"],
-		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
+		"uniques": ["[+25]% [Gold] from Trade Routes"],
+		"quote": "'At Rhodes was set up a Colossus of seventy cubits high, representing the Sun. The artist expended as much bronze on it as seemed likely to create a dearth in the mines.' - Philo of Byzantium",
 	}
 ]
