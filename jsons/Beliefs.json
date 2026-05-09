@@ -49,6 +49,11 @@
         "type": "Pantheon",
         "uniques": ["[+1 Production] from [Fishing Boats] tiles [in this city]"]
   },
+  {
+        "name": "God of War",
+        "type": "Pantheon",
+        "uniques": ["Earn [50]% of killed [Barbarian] unit's [Strength] as [Faith]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
