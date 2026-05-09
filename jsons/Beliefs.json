@@ -79,6 +79,11 @@
         "type": "Pantheon",
         "uniques": ["[+15]% Production when constructing [Wonder] buildings [in this city]"]
   },
+  {
+        "name": "Religious Idols",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith] from [Luxury resource] tiles [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
