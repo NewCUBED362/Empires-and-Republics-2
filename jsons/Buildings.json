@@ -122,5 +122,13 @@
 		"name": "Workshop",
 		"production": 3,
 		"requiredTech": "Engineering",
+	},
+	// Wonders
+	{
+		"name": "Cool Wonder",
+		"isWonder": true,
+		"production": 99,
+		"requiredTech": "Ceremonial Burial",
+		"qoute": "W.I.P",
 	}
 ]
