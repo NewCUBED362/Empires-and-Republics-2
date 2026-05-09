@@ -34,6 +34,11 @@
         "type": "Pantheon",
         "uniques": ["[+20] HP when healing <for [Friendly] units> <in this city>"]
   },
+  {
+        "name": "God of the Forge",
+        "type": "Pantheon",
+        "uniques": ["[+25]% Production when constructing [pre-[Medieval era]] units [in this city]"]
+  },
 
   /////////////////////////////////// LOWER STUFF TO BE CHANGED!! /////////////////////////////////////////////
   {
