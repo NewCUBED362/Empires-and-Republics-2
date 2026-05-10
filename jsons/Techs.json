@@ -51,6 +51,7 @@
       "row": 9,
       "cost": 25,
       "prerequisites": ["Alphabet"],
+      "quote": "'Bronze is the mirror of the form, wine of the mind.' - Aeschylus",
     },
     {
       "name": "Warrior Code",
