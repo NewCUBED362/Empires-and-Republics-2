@@ -45,6 +45,7 @@
       "row": 7,
       "cost": 25,
       "prerequisites": ["Alphabet"],
+      "quote": "'A man on a horse is spiritually as well as physically bigger than a man on foot.' - John Steinbeck",
     },
     {
       "name": "Bronze Working",
