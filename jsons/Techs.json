@@ -57,6 +57,7 @@
       "row": 11,
       "cost": 25,
       "prerequisites": ["Alphabet"],
+      "quote": "'The truly brave never boast.' - The Mahābhāratam",
     },
     ],
   },
