@@ -38,6 +38,7 @@
       "row": 5,
       "cost": 25,
       "prerequisites": ["Alphabet"],
+      "quote": "'How happy are those whose walls already rise!' - Virgil",
     },
     {
       "name": "Horseback Riding",
