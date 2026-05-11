@@ -4,5 +4,7 @@
                 "[-50]% [Production] [in all cities] <when below [-8] [Happiness]>","Cannot build [Settler] units <when below [-10] [Happiness]>",
                 "Rebel units may spawn <when below [-10] [Happiness]>",
                 "[+20]% [Production] [in all cities] <when above [6] [Happiness]>",
-                "[+20]% growth [in all cities] <when above [6] [Happiness]>"],
+                "[+20]% growth [in all cities] <when above [6] [Happiness]>",
+        
+                "Adopt [Cultural Heritage]"],
 }
