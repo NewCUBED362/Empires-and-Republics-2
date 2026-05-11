@@ -191,7 +191,29 @@
     "name": "Cultural Heritage",
     "era": "Ancient era",
     "policies": [
-      
-    
-
+      {
+        "name": "Ancestors Knowledge",
+        "row": 1,
+        "column": 1,
+      },
+      {
+        "name": "Rain Dance",
+        "row": 1,
+        "column": 3,
+      },
+      {
+        "name": "Human Sacrifice",
+        "row": 1,
+        "column": 6,
+      },
+      {
+        "name": "Expansionist",
+        "row": 1,
+        "column": 9,
+      },
+      {
+        "name": "Cultural Heritage Complete",
+      }
+    ]
+  }
 ]
