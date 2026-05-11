@@ -6,5 +6,6 @@
                 "[+20]% [Production] [in all cities] <when above [6] [Happiness]>",
                 "[+20]% growth [in all cities] <when above [6] [Happiness]>",
         
-                "Adopt [Cultural Heritage]"],
+                "Adopt [Cultural Heritage]",
+                "Provides [1] [Cultural Advancement] <upon entering a new era>"],
 }
