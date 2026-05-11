@@ -95,6 +95,11 @@
                 "Generated with weight [23] <in [Hill] tiles>",
                 "Generated with weight [26] <in [{Featureless} {Grassland}] tiles>",
                 "Generated with weight [27] <in [{Featureless} {Plains}] tiles>"],
+  },
+  // Culture Advancement Resource
+  {
+    "name": "Cultural Advancement",
+    "resourceType": "Strategic",
+    "culture": 1,
   }
-    
 ]
