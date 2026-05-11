@@ -101,5 +101,6 @@
     "name": "Cultural Advancement",
     "resourceType": "Strategic",
     "culture": 1,
+    "uniques": ["Doesn't generate naturally"],
   }
 ]
