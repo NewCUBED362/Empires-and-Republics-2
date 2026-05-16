@@ -5,12 +5,8 @@
    "choices": [
      {
        "text": "Test",
-       "uniques": "Free Technology",
+       "uniques": ["Comment [Hello world]"],
      },
-     {
-       "text": "Test2",
-       "uniques": "Free Technology",
-     }
    ]
  }
 ]
