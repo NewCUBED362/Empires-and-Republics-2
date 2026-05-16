@@ -207,13 +207,13 @@
         "name": "Human Sacrifice",
         "row": 1,
         "column": 5,
-        "uniques": ["Unavailable"],
+        "uniques": ["Unavailable","Earn [30]% of the damage done to [Military] units as [Faith]"],
       },
       {
         "name": "Expansionist",
         "row": 1,
         "column": 7,
-        "uniques": ["Unavailable"],
+        "uniques": ["Unavailable","[+25]% Production when constructing [Settler] units [in all cities]"],
       },
       {
         "name": "Cultural Heritage Complete",
