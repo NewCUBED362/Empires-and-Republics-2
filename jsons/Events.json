@@ -4,9 +4,21 @@
    "text": "As a new era begins, our people yearn for change in our culture. What shall we do?",
    "choices": [
      {
-       "text": "Test",
+       "text": "Embrace Ancestors Knowledge",
        "uniques": ["Comment [Hello world]"],
      },
+     {
+       "text": "Embrace Rain Dance",
+       "uniques": ["Comment [Hello world]"],
+     },
+     {
+       "text": "Embrace Human Sacrifice",
+       "uniques": ["Comment [Hello world]"],
+     },
+     {
+       "text": "Embrace Expansionist",
+       "uniques": ["Comment [Hello world]"],
+     }
    ]
  }
 ]
