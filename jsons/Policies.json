@@ -206,13 +206,13 @@
       {
         "name": "Human Sacrifice",
         "row": 1,
-        "column": 6,
+        "column": 5,
         "uniques": ["Unavailable"],
       },
       {
         "name": "Expansionist",
         "row": 1,
-        "column": 9,
+        "column": 7,
         "uniques": ["Unavailable"],
       },
       {
