@@ -1,0 +1,12 @@
+[
+ {
+   "name": "Cultural Heritage Advancement",
+   "text": "As a new era begins, our people yearn for change in our culture. What shall we do?",
+   "choices": [
+     {
+       "text": "Test",
+       "uniques": "Comment [Hello world!]",
+     }
+   ]
+ }
+]
