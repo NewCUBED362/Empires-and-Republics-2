@@ -5,19 +5,19 @@
    "choices": [
      {
        "text": "Embrace Ancestors Knowledge",
-       "uniques": ["Comment [Hello world]"],
+       "uniques": ["Adopt [Ancestors Knowledge]"],
      },
      {
        "text": "Embrace Rain Dance",
-       "uniques": ["Comment [Hello world]"],
+       "uniques": ["Adopt [Rain Dance]"],
      },
      {
        "text": "Embrace Human Sacrifice",
-       "uniques": ["Comment [Hello world]"],
+       "uniques": ["Adopt [Human Sacrifice]"],
      },
      {
        "text": "Embrace Expansionist",
-       "uniques": ["Comment [Hello world]"],
+       "uniques": ["Adopt [Expansionist]"],
      }
    ]
  }
