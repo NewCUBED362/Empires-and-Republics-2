@@ -17,7 +17,8 @@
      },
      {
        "text": "Embrace Expansionist",
-       "uniques": ["Adopt [Expansionist]"],
+       "uniques": ["Adopt [Expansionist]",
+                   "Only available <when number of [Cities] is more than [2]>"],
      }
    ]
  }
