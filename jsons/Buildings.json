@@ -187,6 +187,7 @@
 		"isWonder": true,
 		"gold": 3,
 		"requiredTech": "Iron Working",
+		"uniques": ["[2] free [Spearman] units appear"],
 		"quote": "'Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory.' - Samuel Augustus Mitchell",
 	},
 ]
