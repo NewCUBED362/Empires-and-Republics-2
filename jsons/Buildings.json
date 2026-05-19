@@ -108,7 +108,7 @@
 		"name": "Chemist",
 		"food": 3,
 		"maintenance": 1,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Medicine",
 		"uniques": ["[+10]% growth [in this city]"],
 	},
 	{
