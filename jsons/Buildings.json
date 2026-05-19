@@ -135,6 +135,12 @@
 		"maintenance": 1,
 		"requiredTech": "Philosophy",
 	},
+	{
+		"name": "University",
+		"science": 2,
+		"maintenance": 1,
+		"requiredTech": "University",
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
