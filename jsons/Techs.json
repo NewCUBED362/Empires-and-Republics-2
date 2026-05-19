@@ -242,7 +242,7 @@
       "name": "Invention",
       "row": 11,
       "cost": 390,
-      "prerequisites": ["Literacy","Engineering"],
+      "prerequisites": ["Philosophy","Engineering"],
     },
     {
       "name": "Chivalry",
