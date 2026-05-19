@@ -145,14 +145,21 @@
 		"name": "Castle",
 		"requiredTech": "Feudalism",
 		"requiredNearbyImprovedResources": ["Iron"],
-		"cityStrength": 18,
-		"cityHealth": 30,
+		"cityStrength": 14,
+		"cityHealth": 20,
 	},
 	{
 		"name": "Temple",
 		"faith": 3,
 		"maintenance": 1,
 		"requiredTech": "Monotheism",
+	},
+	{
+		"name": "Watchtower",
+		"requiredTech": "Invention",
+		"uniques": ["[+1] Sight <in this city>"],
+		"cityStrength": 8,
+		"cityHealth": 5,
 	},
 	// Wonders
 	{
