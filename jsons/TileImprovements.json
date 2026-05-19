@@ -92,6 +92,15 @@
             {"text":"Provides a +25% [Production] bonus to cities connected to the capital by Railroads"}
         ]
 	},
+	// Removal
+	{
+		"name": "Remove Forest",
+		"turnsToBuild": 4,
+		"techRequired": "Iron Working",
+		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
+		"shortcutKey": "X",
+        "civilopediaText": [{"text":"Provides a one-time Production bonus depending on distance to the closest city once finished"}]
+	},
 	// MISC
 	{
 		"name": "Barbarian encampment",
