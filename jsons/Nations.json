@@ -368,7 +368,7 @@
 		"innerColor": [212, 6, 6],
 		"uniqueName": "Land of the Rising Sun",
 	    "uniques": ["[-20]% Science cost of researching new Technologies","[+3] Strength <for [Military] units> <when fighting in [Coastal] tiles>"]
-		"cities": ["Edo","Osaka","Kyoto","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama","Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo"],
+		"cities": ["Edo","Osaka","Kyoto","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama","Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
 },
 {
