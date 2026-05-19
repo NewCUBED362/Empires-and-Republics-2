@@ -123,6 +123,11 @@
 		"production": 3,
 		"requiredTech": "Engineering",
 	},
+	{
+		"name": "Bank",
+		"gold": 2,
+		"requiredTech": "Banking",
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
