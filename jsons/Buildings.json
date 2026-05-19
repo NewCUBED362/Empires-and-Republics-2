@@ -100,9 +100,9 @@
 	},
 	{
 		"name": "Amphitheater",
-		"culture": 2,
+		"culture": 1,
 		"maintenance": 1,
-		"requiredTech": "Philosophy",
+		"requiredTech": "Construction",
 	},
 	{
 		"name": "Chemist",
@@ -121,12 +121,19 @@
 	{
 		"name": "Workshop",
 		"production": 3,
+		"maintenance": 1,
 		"requiredTech": "Engineering",
 	},
 	{
 		"name": "Bank",
 		"gold": 2,
 		"requiredTech": "Banking",
+	},
+	{
+		"name": "Theater",
+		"culture": 2,
+		"maintenance": 1,
+		"requiredTech": "Philosophy",
 	},
 	// Wonders
 	{
