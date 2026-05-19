@@ -181,5 +181,12 @@
 		"requiredTech": "Mathematics",
 		"uniques": ["[+15]% growth [in all cities]","Can only be built <in [River] tiles>"],
 		"quote": "'I think that if ever a mortal heard the word of God it would be in a garden at the cool of the day.' - F. Frankfort Moore",
-	}
+	},
+	{
+		"name": "Statue of Zeus",
+		"isWonder": true,
+		"gold": 3,
+		"requiredTech": "Iron Working",
+		"quote": "'Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory.' - Samuel Augustus Mitchell",
+	},
 ]
