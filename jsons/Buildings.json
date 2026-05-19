@@ -141,6 +141,13 @@
 		"maintenance": 1,
 		"requiredTech": "University",
 	},
+	{
+		"name": "Castle",
+		"requiredTech": "Feudalism",
+		"requiredNearbyImprovedResources": ["Iron"],
+		"cityStrength": 18,
+		"cityHealth": 30,
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
