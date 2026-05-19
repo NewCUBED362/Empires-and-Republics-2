@@ -148,6 +148,12 @@
 		"cityStrength": 18,
 		"cityHealth": 30,
 	},
+	{
+		"name": "Temple",
+		"faith": 3,
+		"maintenance": 1,
+		"requiredTech": "Monotheism",
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
