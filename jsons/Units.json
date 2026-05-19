@@ -199,7 +199,7 @@
 		"movement": 2,
 		"strength": 13,
 		"cost": 200,
-		"requiredTech": "Wheel",
+		"requiredTech": "Physics",
 		"attackSound": "nonmetalhit",
 		"uniques": ["[+200]% Strength <vs cities>"],
 	},
