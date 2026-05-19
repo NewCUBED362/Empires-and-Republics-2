@@ -54,6 +54,7 @@
         "name": "Siege",
         "movementType": "Land",
         "uniques": ["[+150]% Strength <vs cities>","[-75]% Strength <vs [Non-City] units>"],
+    },
     {
         "name": "Civilian Water",
         "movementType": "Water"
