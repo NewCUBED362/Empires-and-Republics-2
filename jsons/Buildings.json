@@ -130,7 +130,7 @@
 		"requiredTech": "Banking",
 	},
 	{
-		"name": "Theater",
+		"name": "Theatre",
 		"culture": 2,
 		"maintenance": 1,
 		"requiredTech": "Philosophy",
