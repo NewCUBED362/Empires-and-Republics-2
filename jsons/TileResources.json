@@ -52,7 +52,7 @@
   {
     "name": "Rice",
     "resourceType": "Bonus",
-    "terrainsCanBeFoundOn": ["Fresh Water"],
+    "terrainsCanBeFoundOn": ["Grassland","Plains"],
     "food": 1,
     "improvementStats": {"food": 2},
     "improvedBy": ["Farm"],
