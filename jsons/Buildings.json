@@ -168,7 +168,7 @@
 		"requiredTech": "Writing",
 		"replaces": "Library",
 		"uniqueTo": "The Chinese",
-		"uniques": ["[+1 Science] <for every [Researched [Classical era] Technologies]>"],
+		"uniques": ["Provides [1] [Paper]"],
 	},
 	// Wonders
 	{
