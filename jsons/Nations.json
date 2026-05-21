@@ -162,7 +162,7 @@
 		"innerColor": [55, 0, 101],
 		"uniqueName": "Dharma",
 	    "uniques": ["[+30]% unhappiness from the number of cities","[-70]% Unhappiness from [Population] [in all cities]","[+30]% [Happiness] <in cities with a [your] religion>"]
-		"cities": ["Pataliputra","Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad","Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli"],
+		"cities": ["Pataliputra","Delhi","Mumbai","Vijayanagara","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad","Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli"],
 		"spyNames": ["Ameretat","Dhruv","Krishna","Rayansh","Aanya","Diya","Sushma"],
 },
 {
