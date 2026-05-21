@@ -108,5 +108,12 @@
                 "Generated with weight [23] <in [Hill] tiles>",
                 "Generated with weight [26] <in [{Featureless} {Grassland}] tiles>",
                 "Generated with weight [27] <in [{Featureless} {Plains}] tiles>"],
+  },
+  // Player-made resources
+  {
+    "name": "Paper",
+    "resourceType": "Luxury",
+    "science": 2,
+    "uniques": ["Doesn't generate naturally"],
   }
 ]
