@@ -161,6 +161,14 @@
 		"cityStrength": 8,
 		"cityHealth": 5,
 	},
+	// Unique Buildings
+	{
+		"name": "Paper Maker",
+		"science": 3,
+		"requiredTech": "Writing",
+		"replaces": "Library",
+		"uniqueTo": "The Chinese",
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
