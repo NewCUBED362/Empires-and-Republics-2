@@ -14,7 +14,7 @@
     "resourceType": "Bonus",
     "terrainsCanBeFoundOn": ["Grassland","Hill"],
     "food": 1,
-    "improvementStats": {"production": 1},
+    "improvementStats": {"production": 2},
     "improvedBy": ["Pasture"],
     "uniques": ["Generated on every [18] tiles <in [Grassland] tiles>",
                 "Generated on every [23] tiles <in [Hill] tiles> <in tiles without [Desert]> <in tiles without [Plains]> <in tiles without [Tundra]> <in tiles without [Snow]>"],
@@ -48,6 +48,15 @@
     "improvedBy": ["Camp"],
     "uniques": ["Generated on every [16] tiles <in [Tundra] tiles>",
                 "Generated on every [20] tiles <in [Forest] tiles>"],
+  },
+  {
+    "name": "Rice",
+    "resourceType": "Bonus",
+    "terrainsCanBeFoundOn": ["Grassland","Plains","Jungle","Forest"],
+    "food": 1,
+    "improvementStats": {"food": 2},
+    "improvedBy": ["Farm"],
+    "uniques": ["Generated on every [20] tiles <in [{Grassland} {Fresh Water}] tiles>",
   },
   // Luxury resources 
   {
