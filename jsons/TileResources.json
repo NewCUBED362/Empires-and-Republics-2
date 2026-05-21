@@ -56,7 +56,8 @@
     "food": 1,
     "improvementStats": {"food": 2},
     "improvedBy": ["Farm"],
-    "uniques": ["Generated on every [20] tiles <in [{Grassland} {Fresh Water}] tiles>"],
+    "uniques": ["Generated on every [19] tiles <in [{Grassland} {Fresh Water}] tiles>",
+                "Generated on every [25] tiles <in [{Plains} {Fresh Water}] tiles>"],
   },
   // Luxury resources 
   {
