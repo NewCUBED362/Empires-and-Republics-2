@@ -58,6 +58,7 @@
     "improvedBy": ["Farm"],
     "uniques": ["Generated on every [19] tiles <in [{Grassland} {Fresh Water}] tiles> <in tiles without [Hill]>",
                 "Generated on every [25] tiles <in [{Plains} {Fresh Water}] tiles> <in tiles without [Hill]>",
+                "Generated on every [19] tiles <in [{Jungle} {Fresh Water}] tiles> <in tiles without [Hill]>",
                 "Generated on every [19] tiles <in [Fresh Water] tiles> <in tiles without [Hill]>",
                 "Doesn't generate naturally <in tiles not adjacent to [Fresh Water] tiles>"],
   },
