@@ -494,7 +494,7 @@
 	    "uniques": ["[+2 Faith, +1 Science] [in all cities] <in [Coastal] tiles>","May buy [Water] units with [Faith] [in all cities]","[0] Movement point cost to disembark <for [Religious] units>","[0] Movement point cost to embark <for [Religious] units>"],
 		"cities": ["Majapahit","Jakarta","Palembang","Tuban","Jambi","Ternate","Badung","Mataram","Surabaya","Banjarmasim","Bima","Makassar","Lampung","Barus","Banten","Gelgel","Bogor","Pagaruyung","Gorontalo",
 		           "Pekalongan","Sukadana"],
-		"spyNames": ["Siyanda","Bhekumbuso","Kgabu","Langa","Mthunzi","Nofoto","Anele"],
+		"spyNames": ["Adhy","Bayu","Lingga","Raden","Zulfikri","Nofoto","Anele"],
 },
 	// City-States
 {
