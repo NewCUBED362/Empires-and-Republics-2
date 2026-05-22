@@ -32,11 +32,17 @@
     },
     {
         "name": "Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[+50]% Strength <vs [Sword] units>",
+                    "[+50]% Strength <vs [Archery] units>",
+                    "[-200]% Strength <vs cities>"],
     },
     {
         "name": "Heavy Mounted",
-        "movementType": "Land"
+        "movementType": "Land",
+        "uniques": ["[+50]% Strength <vs [Sword] units>",
+                    "[+50]% Strength <vs [Archery] units>",
+                    "[-200]% Strength <vs cities>"],
     },
     {
         "name": "Armored",
