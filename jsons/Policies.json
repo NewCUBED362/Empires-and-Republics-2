@@ -50,6 +50,12 @@
                     "[+1 Happiness] per [10] population [in all cities]"],
       },
       {
+        "name": "Legalism",
+        "row": 1,
+        "column": 1,
+        "uniques": ["Provides the cheapest [Culture] building in your first [4] cities for free"],
+      },
+      {
         "name": "Tradition Complete",
       }
     ]
