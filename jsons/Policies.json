@@ -52,8 +52,15 @@
       {
         "name": "Legalism",
         "row": 1,
-        "column": 1,
+        "column": 3,
         "uniques": ["Provides the cheapest [Culture] building in your first [4] cities for free"],
+      },
+      {
+        "name": "Mythology",
+        "row": 1,
+        "column": 5,
+        "uniques": ["[+10]% [Culture] from every [Faith] <hidden from users>",
+                    "Comment [+10% Culture from every Faith building]"],
       },
       {
         "name": "Tradition Complete",
