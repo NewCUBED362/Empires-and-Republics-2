@@ -6,7 +6,7 @@
     "uniques": ["[+1 Happiness]","Unavailable <starting from the [Ancient era]>","Get the leader title of [Chief [leaderName]]"]
     "policies": [
       {
-       "name": "Tradition",
+       "name": "Myths",
        "uniques": ["[+3 Culture] [in capital]"],
        "row": 1,
        "column": 1,
