@@ -6,6 +6,5 @@
                 "[+20]% [Production] [in all cities] <when above [6] [Happiness]>",
                 "[+20]% growth [in all cities] <when above [6] [Happiness]>",
         
-                "Adopt [Cultural Heritage]",
-                "Triggers a [Cultural Heritage Advancement] event <upon entering the [Classical era]>"],
+                "Triggers a [Natural Disaster] event <with [5]% chance> <every [3] turns>"],
 }
