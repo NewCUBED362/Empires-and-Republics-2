@@ -1,28 +1,12 @@
 [
  {
-   "name": "Cultural Heritage Advancement",
-   "text": "As a new era begins, our people yearn for change in our culture. What shall we do?",
+   "name": "Natural Disaster",
+   "text": "A large earthquake has hit our cities and country side, killing multiple people.",
    "choices": [
      {
-       "text": "Embrace Ancestors Knowledge",
+       "text": "How terrible...",
        "uniques": ["Adopt [Ancestors Knowledge]",
                    "Unavailable <after adopting [Ancestors Knowledge]"],
-     },
-     {
-       "text": "Embrace Rain Dance",
-       "uniques": ["Adopt [Rain Dance]",
-                   "Unavailable <after adopting [Rain Dance]>"],
-     },
-     {
-       "text": "Embrace Human Sacrifice",
-       "uniques": ["Adopt [Human Sacrifice]",
-                   "Unavailable <after adopting [Human Sacrifice]>"],
-     },
-     {
-       "text": "Embrace Expansionist",
-       "uniques": ["Adopt [Expansionist]",
-                   "Unavailable <after adopting [Expansionist]>",
-                   "Only available <when number of [Cities] is more than [2]>"],
      }
    ]
  }
