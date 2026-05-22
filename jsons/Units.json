@@ -236,6 +236,7 @@
 		"replaces": "Crossbowman",
 		"uniqueTo": "The English",
 		"attackSound": "arrow",
+		"uniques": ["Ranged attacks may be performed over obstacles"],
 	},
 	{
 		"name": "Legion",
