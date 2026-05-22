@@ -186,37 +186,19 @@
             }
     ]
   },
-  // Cultural Heritage 
+  // Policies
   {
-    "name": "Cultural Heritage",
+    "name": "Tradition",
     "era": "Ancient era",
     "policies": [
       {
         "name": "Ancestors Knowledge",
         "row": 1,
         "column": 1,
-        "uniques": ["Unavailable","[+1 Science] [in all cities]"],
+        "uniques": ["[+1 Science] [in all cities]"],
       },
       {
-        "name": "Rain Dance",
-        "row": 1,
-        "column": 3,
-        "uniques": ["Unavailable","[+1 Food] from [Desert] tiles [in all cities]"],
-      },
-      {
-        "name": "Human Sacrifice",
-        "row": 1,
-        "column": 5,
-        "uniques": ["Unavailable","Earn [30]% of the damage done to [Military] units as [Faith]"],
-      },
-      {
-        "name": "Expansionist",
-        "row": 1,
-        "column": 7,
-        "uniques": ["Unavailable","[+25]% Production when constructing [Settler] units [in all cities]"],
-      },
-      {
-        "name": "Cultural Heritage Complete",
+        "name": "Tradition Complete",
       }
     ]
   }
