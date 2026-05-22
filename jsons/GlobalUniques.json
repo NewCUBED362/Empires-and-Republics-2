@@ -9,5 +9,6 @@
                 "Adopt [Ideology]",
                 "Adopt [Chiefdom]",
         
-                "Triggers a [Natural Disaster] event <with [50]% chance> <every [3] turns>"],
+                "Triggers a [Natural Disaster] event <with [50]% chance> <every [3] turns>",
+                "Triggers a [Ideology Change Classical] event <upon entering the [Classical era]>"],
 }
