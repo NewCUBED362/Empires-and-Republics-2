@@ -5,8 +5,7 @@
    "choices": [
      {
        "text": "How terrible...",
-       "uniques": ["Adopt [Ancestors Knowledge]",
-                   "Unavailable <after adopting [Ancestors Knowledge]"],
+       "uniques": ["[-2] population in a random city"],
      }
    ]
  }
