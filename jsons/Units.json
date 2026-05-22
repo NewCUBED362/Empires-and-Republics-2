@@ -57,6 +57,8 @@
 		"unitType": "Anti-Mounted",
 		"movement": 2,
 		"strength": 15,
+		"obsoleteTech": "Feudalism",
+		"upgradesTo": "Pikeman",
 		"cost": 65,
 		"requiredTech": "Horseback Riding",
 		"attackSound": "nonmetalhit",
@@ -240,6 +242,16 @@
 		"requiredResource": "Horses",
 		"attackSound": "horse",
 		"uniques": ["[+50]% Strength <vs [Sword] units>"],
+	},
+	{
+		"name": "Pikeman",
+		"unitType": "Anti-Mounted",
+		"movement": 2,
+		"strength": 30,
+		"cost": 160,
+		"requiredTech": "Feudalism",
+		"attackSound": "nonmetalhit",
+		"uniques": ["[+60]% Strength <vs [Mounted] units>","[+60]% Strength <vs [Heavy Mounted] units>"],
 	},
 	// Religious units
 	{
