@@ -5,7 +5,7 @@
    "choices": [
      {
        "text": "How terrible...",
-       "uniques": ["[-2] population in a random city"],
+       "uniques": ["[-2] population in a random city","Gain [-20] [Food] <for [5] turns> <hidden from users>","Comment [Lose 20 food for 5 turns]"],
      }
    ]
  }
