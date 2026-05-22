@@ -29,7 +29,9 @@
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Sun Never Sets",
 	    "uniques": ["[+2 Gold, +1 Science] [in all cities connected to capital]","[+1] Movement <for [Embarked] units>"]
-		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool","Dover","Brighton",
+			       "Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester","Manchester","Bristol","Leicester",
+			       "Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton"],
 	    "spyNames": ["Noah","Arthur","Theodore","George","Olivia","Amelia","Freya"],
 },
 {
