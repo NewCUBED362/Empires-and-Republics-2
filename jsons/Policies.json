@@ -43,10 +43,11 @@
     "era": "Ancient era",
     "policies": [
       {
-        "name": "Ancestors Knowledge",
+        "name": "Aristocracy",
         "row": 1,
         "column": 1,
-        "uniques": ["[+1 Science] [in all cities]"],
+        "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]",
+                    "[+1 Happiness] per [10] population [in all cities]"],
       },
       {
         "name": "Tradition Complete",
