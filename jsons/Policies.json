@@ -67,8 +67,7 @@
         "row": 2,
         "column": 4,
         "requires": ["Mythology"],
-        "uniques": ["[+10]% [Culture] from every [Faith] <hidden from users>",
-                    "Comment [+10% Culture from every Faith building]"],
+        "uniques": ["[+1 Faith, +1 Gold] [in all cities]"],
       },
       {
         "name": "Tradition Complete",
