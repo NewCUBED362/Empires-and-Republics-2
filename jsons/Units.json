@@ -39,7 +39,6 @@
 		"requiredTech": "Horseback Riding",
 		"requiredResource": "Horses",
 		"attackSound": "horse",
-		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 	},
 	{
 		"name": "Spearman",
@@ -146,7 +145,6 @@
 		"requiredTech": "Wheel",
 		"requiredResource": "Horses",
 		"attackSound": "horse",
-		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 	},
 	{
 		"name": "Catapult",
@@ -230,7 +228,6 @@
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
 		"attackSound": "horse",
-		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 	},
 	{
 		"name": "Courser",
@@ -241,7 +238,6 @@
 		"requiredTech": "Feudalism",
 		"requiredResource": "Horses",
 		"attackSound": "horse",
-		"uniques": ["[+50]% Strength <vs [Sword] units>"],
 	},
 	{
 		"name": "Pikeman",
