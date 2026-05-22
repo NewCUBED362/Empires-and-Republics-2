@@ -6,7 +6,25 @@
      {
        "text": "How terrible...",
        "uniques": ["[-2] population in a random city","Gain [-20] [Food] <for [5] turns> <hidden from users>","Comment [Lose 20 food for 5 turns]"],
-     }
+     },
+   ],
+ },
+ {
+   "name": "Ideology Change Classical",
+   "text": "As the Classical era arrives, our people wish for a new government system. What shall we do?",
+   "choices": [
+     {
+       "text": "Adopt Autocracy",
+       "uniques": ["Adopt [Autocracy]","Remove [Chiefdom] <hidden from users>","Remove [Classical Republic] <hidden from users>"],
+     },
+     {
+       "text": "Adopt Classical Republic",
+       "uniques": ["Adopt [Classical Republic]","Remove [Chiefdom] <hidden from users>","Remove [Autocracy] <hidden from users>"],
+     },
+      {
+       "text": "Do nothing",
+       "uniques": [""],
+      }
    ]
  }
 ]
