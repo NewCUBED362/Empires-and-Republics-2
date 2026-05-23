@@ -86,24 +86,10 @@
                     "[+15]% Production when constructing [Heavy Mounted] units [in all cities]"],
       },
       {
-        "name": "Legalism",
+        "name": "Military Training",
         "row": 1,
         "column": 3,
-        "uniques": ["Provides the cheapest [Culture] building in your first [4] cities for free"],
-      },
-      {
-        "name": "Mythology",
-        "row": 1,
-        "column": 5,
-        "uniques": ["[+10]% [Culture] from every [Faith] <hidden from users>",
-                    "Comment [+10% Culture from every Faith building]"],
-      },
-      {
-        "name": "God King",
-        "row": 2,
-        "column": 4,
-        "requires": ["Mythology"],
-        "uniques": ["[+1 Faith, +1 Gold] [in all cities]"],
+        "uniques": ["[+25]% XP gained from combat"],
       },
       {
         "name": "Tradition Complete",
