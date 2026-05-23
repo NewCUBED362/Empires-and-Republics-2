@@ -79,11 +79,11 @@
     "era": "Ancient era",
     "policies": [
       {
-        "name": "Aristocracy",
+        "name": "Maneuver",
         "row": 1,
         "column": 1,
-        "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"],
+        "uniques": ["[+15]% Production when constructing [Mounted] units [in all cities]",
+                    "[+15]% Production when constructing [Heavy Mounted] units [in all cities]"],
       },
       {
         "name": "Legalism",
