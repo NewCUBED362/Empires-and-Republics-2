@@ -89,10 +89,10 @@
         "name": "Military Training",
         "row": 1,
         "column": 3,
-        "uniques": ["[+25]% XP gained from combat"],
+        "uniques": ["[+25]% XP gained from combat <for [Land] units>"],
       },
       {
-        "name": "Tradition Complete",
+        "name": "Standing Army Complete",
       }
     ]
   }
