@@ -83,6 +83,16 @@
     "improvedBy": ["Plantation"],
     "uniques": ["Generated with weight [20] <in [Forest] tiles>"],
   },
+  {
+    "name": "Ivory",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Plains","Jungle"],
+    "food": 1,
+    "improvementStats": {"gold": 2},
+    "improvedBy": ["Camp"],
+    "uniques": ["Generated with weight [20] <in [Plains] tiles>",
+                "Generated with weight [16] <in [{Plains} {Jungle}] tiles>"],
+  },
   // Strategic resources 
   {
     "name": "Horses",
