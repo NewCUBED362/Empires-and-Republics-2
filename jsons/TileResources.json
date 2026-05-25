@@ -91,7 +91,7 @@
     "improvementStats": {"gold": 2},
     "improvedBy": ["Camp"],
     "uniques": ["Generated with weight [20] <in [Plains] tiles>",
-                "Generated with weight [16] <in [{Plains} {Jungle}] tiles>"],
+                "Generated with weight [16] <in [Jungle] Regions> <in [Jungle] tiles>"],
   },
   // Strategic resources 
   {
