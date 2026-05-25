@@ -68,7 +68,7 @@
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Grassland","Desert","Plains","Hill"],
     "gold": 1,
-    "improvementStats": {"gold": 2},
+    "improvementStats": {"gold": 3},
     "improvedBy": ["Mine"],
     "uniques": ["Generated with weight [29] <in [Desert] tiles>",
                 "Generated with weight [20] <in [{Featureless} {Grassland}] tiles>",
@@ -102,6 +102,16 @@
     "improvedBy": ["Fishing Boats"],
     "uniques": ["Generated on every [19] tiles <in [Coast] tiles>",
                 "Generated on every [30] tiles <in [Ocean] tiles>"],
+  },
+  {
+    "name": "Copper",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Hill"],
+    "production": 1,
+    "improvementStats": {"gold": 1, "production": 1,},
+    "improvedBy": ["Mine"],
+    "uniques": ["Generated on every [18] tiles <in [Hill] tiles>",
+                "Doesn't generate naturally <within [6] tiles of a [Snow]>"],
   },
   // Strategic resources 
   {
