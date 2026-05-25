@@ -113,6 +113,16 @@
     "uniques": ["Generated on every [18] tiles <in [Hill] tiles>",
                 "Doesn't generate naturally <within [6] tiles of a [Snow]>"],
   },
+  {
+    "name": "Furs",
+    "resourceType": "Luxury",
+    "terrainsCanBeFoundOn": ["Tundra","Forest"],
+    "food": 1,
+    "improvementStats": {"food": 1},
+    "improvedBy": ["Camp"],
+    "uniques": ["Generated on every [18] tiles <in [Tundra] tiles>",
+                "Generated on every [23] tiles <in [Forest] tiles>"],
+  },
   // Strategic resources 
   {
     "name": "Horses",
