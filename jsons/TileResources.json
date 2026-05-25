@@ -118,7 +118,7 @@
     "resourceType": "Luxury",
     "terrainsCanBeFoundOn": ["Tundra","Forest"],
     "food": 1,
-    "improvementStats": {"food": 1},
+    "improvementStats": {"food": 1, "gold": 1},
     "improvedBy": ["Camp"],
     "uniques": ["Generated on every [18] tiles <in [Tundra] tiles>",
                 "Generated on every [23] tiles <in [Forest] tiles>"],
