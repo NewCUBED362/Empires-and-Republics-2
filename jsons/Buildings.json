@@ -161,6 +161,11 @@
 		"requiredTech": "Economics",
 	},
 	{
+		"name": "Stock Exchange",
+		"gold": 3,
+		"requiredTech": "Economics",
+	},
+	{
 		"name": "Watchtower",
 		"requiredTech": "Invention",
 		"uniques": ["[+1] Sight <in this city>"],
