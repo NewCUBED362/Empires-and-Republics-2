@@ -263,6 +263,7 @@
         "row": 1,
         "cost": 730,
         "prerequisites": ["Banking","University"],
+        "uniques": ["[+1 Gold] from [{worked} {Luxury resource}] tiles [in all cities]"],
       },
       {
         "name": "Chemistry",
