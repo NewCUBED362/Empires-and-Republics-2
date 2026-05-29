@@ -155,6 +155,12 @@
 		"requiredTech": "Monotheism",
 	},
 	{
+		"name": "Windmill",
+		"production": 2,
+		"maintenance": 1,
+		"requiredTech": "Economics",
+	},
+	{
 		"name": "Watchtower",
 		"requiredTech": "Invention",
 		"uniques": ["[+1] Sight <in this city>"],
