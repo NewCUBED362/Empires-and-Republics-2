@@ -164,6 +164,7 @@
 		"name": "Stock Exchange",
 		"gold": 3,
 		"requiredTech": "Economics",
+		"uniques": ["[+20]% [Gold] from every [Luxury resource]"],
 	},
 	{
 		"name": "Watchtower",
