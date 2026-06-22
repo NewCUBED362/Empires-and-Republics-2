@@ -170,6 +170,8 @@
 		"strength": 17,
 		"rangedStrength": 27,
 		"range": 2,
+		"obsoleteTech": "Chemistry",
+		"upgradesTo": "Cannon",
 		"cost": 210,
 		"requiredTech": "Physics",
 		"attackSound": "throw",
@@ -222,6 +224,17 @@
 		"requiredTech": "Feudalism",
 		"attackSound": "nonmetalhit",
 		"uniques": ["[+60]% Strength <vs [Mounted] units>","[+60]% Strength <vs [Heavy Mounted] units>"],
+	},
+	{
+		"name": "Cannon",
+		"unitType": "Ranged Siege",
+		"movement": 2,
+		"strength": 27,
+		"rangedStrength": 37,
+		"range": 2,
+		"cost": 210,
+		"requiredTech": "Chemistry",
+		"attackSound": "throw",
 	},
 	// Unique Units
 	{
