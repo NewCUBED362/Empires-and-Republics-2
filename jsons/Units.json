@@ -234,7 +234,7 @@
 		"range": 2,
 		"cost": 210,
 		"requiredTech": "Chemistry",
-		"attackSound": "throw",
+		"attackSound": "cannon",
 	},
 	// Unique Units
 	{
