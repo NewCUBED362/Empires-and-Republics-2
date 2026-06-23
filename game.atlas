@@ -160,42 +160,42 @@ BuildingIcons/Taxation Office
   index: -1
 BuildingIcons/Tram Station
   rotate: false
-  xy: 1364, 740
+  xy: 956, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/War Memorial
   rotate: false
-  xy: 1228, 468
+  xy: 1364, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Weaver
   rotate: false
-  xy: 1500, 740
+  xy: 1092, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Well
   rotate: false
-  xy: 1092, 196
+  xy: 1228, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Worship House
   rotate: false
-  xy: 1228, 332
+  xy: 1364, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Culture
   rotate: false
-  xy: 1364, 447
+  xy: 1500, 583
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -209,28 +209,28 @@ CityStateIcons/Food
   index: -1
 CityStateIcons/Gold
   rotate: false
-  xy: 1364, 375
+  xy: 1500, 511
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Military
   rotate: false
-  xy: 1436, 532
+  xy: 1572, 668
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Production
   rotate: false
-  xy: 1436, 460
+  xy: 1572, 596
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Religion
   rotate: false
-  xy: 1436, 388
+  xy: 1572, 524
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
@@ -326,44 +326,51 @@ NationIcons/The Mongols
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Romans
+NationIcons/The Polynesians
   rotate: false
   xy: 1092, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Russians
+NationIcons/The Romans
   rotate: false
   xy: 1228, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Spanish
+NationIcons/The Russians
   rotate: false
   xy: 820, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Sumerians
+NationIcons/The Spanish
   rotate: false
   xy: 956, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Turkish
+NationIcons/The Sumerians
   rotate: false
   xy: 1092, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
-NationIcons/The Zulu
+NationIcons/The Turkish
   rotate: false
   xy: 1228, 604
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Zulu
+  rotate: false
+  xy: 1364, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
@@ -433,49 +440,49 @@ ResourceIcons/Rice
   index: -1
 ResourceIcons/Tunics
   rotate: false
-  xy: 956, 196
+  xy: 1092, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Turtle
   rotate: false
-  xy: 1092, 332
+  xy: 1228, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Watermelon
   rotate: false
-  xy: 1364, 604
+  xy: 1500, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Age of Tomorrow
   rotate: false
-  xy: 1636, 760
+  xy: 1300, 290
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Contemporary Age
   rotate: false
-  xy: 1228, 212
+  xy: 1364, 348
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-High Middle Ages
   rotate: false
-  xy: 1300, 292
+  xy: 1436, 428
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Machine Age
   rotate: false
-  xy: 1364, 334
+  xy: 1500, 470
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
@@ -489,7 +496,7 @@ TileSets/FantasyHex/Tiles/City center-Neolithic era
   index: -1
 TileSets/FantasyHex/Units/Chariot
   rotate: false
-  xy: 1572, 704
+  xy: 1228, 222
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
@@ -517,49 +524,49 @@ TileSets/FantasyHex/Units/Halberdier
   index: -1
 TileSets/FantasyHex/Units/Line Infantry
   rotate: false
-  xy: 1500, 623
+  xy: 1636, 759
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Main Battle Tank
   rotate: false
-  xy: 1572, 668
+  xy: 1436, 392
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 1300, 256
+  xy: 640, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Age of Tomorrow
   rotate: false
-  xy: 1364, 519
+  xy: 1500, 655
   size: 64, 77
   orig: 64, 77
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Comtemporary Age
   rotate: false
-  xy: 1500, 659
+  xy: 1636, 795
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-High Middle Ages
   rotate: false
-  xy: 1636, 802
+  xy: 1228, 258
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Machine Age
   rotate: false
-  xy: 1228, 254
+  xy: 1364, 390
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
