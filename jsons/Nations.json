@@ -503,11 +503,11 @@
 		"startBias": ["Coast"],
         "favoredReligion": "Manaism",
 
-		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
-		"attacked": "Truly? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
-		"defeated": "The dream of Nusantara is lost to the turning tide.",
-        "denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!"
-		"introduction": "I am Gitarja, Majapahit's queen and protector. Those who thought us weak litter the ocean floor.",
+		"declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
+		"attacked": "It is obvious now that I misjudged you and your true intentions.",
+		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
+        "denounced": "The ocean's tide may rise and fall, but my resolve stands steady."
+		"introduction": "Aloha! Greetings and blessings upon you, friend. I am Kamehameha, Great King of this strand of islands.",
 
 		"neutralHello": "Greetings!",
 		"hateHello": "What is it, fool?",
