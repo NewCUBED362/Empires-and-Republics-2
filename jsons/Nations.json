@@ -499,7 +499,7 @@
 		"spyNames": ["Adhy","Bayu","Lingga","Raden","Zulfikri","Rafian","Anisah","Citra","Megawati","Sukarna"],
 },
 		"name": "The Polynesians",
-		"leaderName": "Kamehameha",
+		"leaderName": "Kamehameha I",
 		"startBias": ["Coast"],
         "favoredReligion": "Manaism",
 
@@ -512,11 +512,11 @@
 		"neutralHello": "Greetings!",
 		"hateHello": "What is it, fool?",
 
-		"tradeRequest": "What if we make a deal, you and me?",
+		"tradeRequest": "Come, let our people feast together!",
 
 		"outerColor": [120, 0, 0],
 		"innerColor": [0, 192, 154],
-		"uniqueName": "Archipelago State",
+		"uniqueName": "Mana",
 	    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
 		"cities": ["Honolulu"],
