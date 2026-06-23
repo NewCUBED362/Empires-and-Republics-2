@@ -182,6 +182,14 @@
 		"uniqueTo": "The Chinese",
 		"uniques": ["Provides [1] [Paper]"],
 	},
+	{
+		"name": "Amphitheatron",
+		"culture": 2,
+		"science": 1,
+		"requiredTech": "Construction",
+		"replaces": "Amphitheater",
+		"uniqueTo": "The Greeks",
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
