@@ -277,6 +277,17 @@
 		"uniques": ["[+50]% Strength <vs [Mounted] units>",
 		            "[+35]% Strength <when adjacent to a [Aga-ush] unit>"],
 	},
+	{
+		"name": "Haras",
+		"unitType": "Mounted",
+		"movement": 5,
+		"strength": 42,
+		"cost": 175,
+		"requiredTech": "Feudalism",
+		"replaces": "Courser",
+		"uniqueTo": "The Arabs",
+		"attackSound": "horse",
+	},
 	// Religious units
 	{
 		"name": "Missionary",
