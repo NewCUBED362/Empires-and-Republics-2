@@ -18,26 +18,31 @@
     "name": "Renaissance era",
     "citySound": "cityMedieval",
     "iconRGB": [157, 39, 176]
+    "uniques": ["Every major Civilization gains a spy once a civilization enters this era"],
   },
   {
     "name": "Industrial era",
     "citySound": "cityIndustrial",
     "iconRGB": [63, 81, 182],
+    "uniques": ["Every major Civilization gains a spy once a civilization enters this era"],
   },
   {
     "name": "Modern era",
     "citySound": "cityIndustrial",
     "iconRGB": [63, 81, 182],
+    "uniques": ["Every major Civilization gains a spy once a civilization enters this era"],
   },
   {
     "name": "Atomic era",
     "citySound": "cityModern",
     "iconRGB": [0, 150, 136],
+    "uniques": ["Every major Civilization gains a spy once a civilization enters this era"],
   },
   {
     "name": "Information era",
     "citySound": "cityModern",
     "iconRGB": [0, 150, 136],
+    "uniques": ["Every major Civilization gains a spy once a civilization enters this era"],
   },
   {
     "name": "Future era",
