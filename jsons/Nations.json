@@ -498,6 +498,30 @@
 		           "Pekalongan","Sukadana"],
 		"spyNames": ["Adhy","Bayu","Lingga","Raden","Zulfikri","Rafian","Anisah","Citra","Megawati","Sukarna"],
 },
+		"name": "The Polynesians",
+		"leaderName": "Kamehameha",
+		"startBias": ["Coast"],
+        "favoredReligion": "Manaism",
+
+		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
+		"attacked": "Truly? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
+		"defeated": "The dream of Nusantara is lost to the turning tide.",
+        "denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!"
+		"introduction": "I am Gitarja, Majapahit's queen and protector. Those who thought us weak litter the ocean floor.",
+
+		"neutralHello": "Greetings!",
+		"hateHello": "What is it, fool?",
+
+		"tradeRequest": "What if we make a deal, you and me?",
+
+		"outerColor": [120, 0, 0],
+		"innerColor": [0, 192, 154],
+		"uniqueName": "Archipelago State",
+	    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
+            "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
+		"cities": ["Honolulu"],
+		"spyNames": ["Adhy","Bayu","Lingga","Raden","Zulfikri","Rafian","Anisah","Citra","Megawati","Sukarna"],
+},
 	// City-States
 {
 		"name": "Thai Peoples",
