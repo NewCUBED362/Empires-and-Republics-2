@@ -514,8 +514,8 @@
 
 		"tradeRequest": "Come, let our people feast together!",
 
-		"outerColor": [120, 0, 0],
-		"innerColor": [0, 192, 154],
+		"outerColor": [255, 129, 18],
+		"innerColor": [247, 214, 1],
 		"uniqueName": "Mana",
 	    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
