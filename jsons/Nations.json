@@ -517,7 +517,7 @@
 
 		"outerColor": [255, 129, 18],
 		"innerColor": [247, 214, 1],
-		"uniqueName": "Mana",
+		"uniqueName": "Moananuiākea",
 	    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>",
 		    "[+1 Culture] from [Water] tiles [in all cities]"],
