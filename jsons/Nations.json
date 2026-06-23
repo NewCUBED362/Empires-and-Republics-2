@@ -520,8 +520,8 @@
 		"uniqueName": "Mana",
 	    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
-		"cities": ["Honolulu","Lāhainā","Nuku Hiva","Apia","Kou","Hiva Oa","Port Vila","Hilo","Yaren","Pago Pago","Wailuku","Eiao","Anibare","Lakataro","Tafuna","Lihu'e","Hatutu","Lāna'i","Motu One","Denigomodu",
-		           "Kahului","Saratamata","Kihei","Anakena"],
+		"cities": ["Honolulu","Lāhainā","Nuku Hiva","Apia","Kou","Hiva Oa","Port Vila","Hilo","Honiara","Yaren","Pago Pago","Wailuku","Tulagi","Eiao","Anibare","Lakataro","Tafuna","Lihu'e","Hatutu","Lāna'i","Motu One","Denigomodu",
+		           "Kahului","Saratamata","Kihei","Yandina","Anakena"],
 		"spyNames": ["Adhy","Bayu","Lingga","Raden","Zulfikri","Rafian","Anisah","Citra","Megawati","Sukarna"],
 },
 	// City-States
