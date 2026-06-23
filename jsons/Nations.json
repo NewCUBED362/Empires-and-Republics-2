@@ -520,7 +520,7 @@
 		"uniqueName": "Mana",
 	    "uniques": ["Enables embarkation for land units <starting from the [Ancient era]> <Suppress warning [*contains a conditional on a unit movement unique*]>",
             "Enables [All] units to enter ocean tiles <starting from the [Ancient era]>"],
-		"cities": ["Honolulu"],
+		"cities": ["Honolulu","Apia","Pago Pago","Tafuna"],
 		"spyNames": ["Adhy","Bayu","Lingga","Raden","Zulfikri","Rafian","Anisah","Citra","Megawati","Sukarna"],
 },
 	// City-States
