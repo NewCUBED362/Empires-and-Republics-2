@@ -99,6 +99,8 @@
   {
     "name": "Exercitus Romanus",
     "era": "Ancient era",
+    "uniques": ["[+1 Culture] from all [Happiness] buildings",
+                "[+2 Happiness] [in capital]"],
     "policies": [
       {
         "name": "Auxilia I",
