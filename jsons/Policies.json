@@ -117,6 +117,17 @@
         "column": 3,
       },
       {
+        "name": "Latinitas I",
+        "row": 1,
+        "column": 5,
+      },
+      {
+        "name": "Latinitas II",
+        "row": 2,
+        "column": 5,
+        "requires": ["Latinitas I"],
+      },
+      {
         "name": "Exercitus Romanus Complete",
       }
     ]
