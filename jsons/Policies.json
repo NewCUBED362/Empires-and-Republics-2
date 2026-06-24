@@ -125,12 +125,14 @@
         "name": "Latinitas I",
         "row": 1,
         "column": 5,
+        "uniques": ["[+1 Food, +1 Culture] [in all cities]"],
       },
       {
         "name": "Latinitas II",
         "row": 2,
         "column": 5,
         "requires": ["Latinitas I"],
+        "uniques": ["[+2 Food, +2 Culture] [in all cities]"],
       },
       {
         "name": "Princeps Civitatis I",
