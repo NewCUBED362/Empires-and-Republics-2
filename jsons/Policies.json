@@ -119,6 +119,7 @@
         "name": "Cursus Honorum",
         "row": 1,
         "column": 3,
+        "uniques": ["[+2 Culture] from all [{pre-[Medieval era]} {Culture}] buildings"],
       },
       {
         "name": "Latinitas I",
