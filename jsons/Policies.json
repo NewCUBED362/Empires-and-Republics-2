@@ -112,6 +112,11 @@
         "requires": ["Auxilia I"],
       },
       {
+        "name": "Cursus Honorum",
+        "row": 1,
+        "column": 3,
+      },
+      {
         "name": "Exercitus Romanus Complete",
       }
     ]
