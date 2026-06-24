@@ -128,6 +128,18 @@
         "requires": ["Latinitas I"],
       },
       {
+        "name": "Princeps Civitatis I",
+        "row": 3,
+        "column": 3,
+        "requires": ["Auxilia II","Cursus Honorum","Latinitas I"],
+      },
+      {
+        "name": "Princeps Civitatis II",
+        "row": 4,
+        "column": 4,
+        "requires": ["Princeps Civitatis I"],
+      },
+      {
         "name": "Exercitus Romanus Complete",
       }
     ]
