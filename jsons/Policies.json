@@ -106,12 +106,14 @@
         "name": "Auxilia I",
         "row": 1,
         "column": 1,
+        "uniques": ["[+5]% Production when constructing [{Military} {Land}] units [in capital]"],
       },
       {
         "name": "Auxilia II",
         "row": 2,
         "column": 2,
         "requires": ["Auxilia I"],
+        "uniques": ["[+10]% Production when constructing [{Military} {Land}] units [in capital]"],
       },
       {
         "name": "Cursus Honorum",
