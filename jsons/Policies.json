@@ -131,7 +131,7 @@
         "name": "Princeps Civitatis I",
         "row": 3,
         "column": 3,
-        "requires": ["Auxilia II","Cursus Honorum","Latinitas I"],
+        "requires": ["Auxilia II","Cursus Honorum","Latinitas II"],
       },
       {
         "name": "Princeps Civitatis II",
