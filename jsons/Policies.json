@@ -139,12 +139,14 @@
         "row": 3,
         "column": 3,
         "requires": ["Auxilia II","Cursus Honorum","Latinitas II"],
+        "uniques": ["[+1 Production] from all [{pre-[Medieval era]} {Production}] buildings"],
       },
       {
         "name": "Princeps Civitatis II",
         "row": 4,
         "column": 4,
         "requires": ["Princeps Civitatis I"],
+        "uniques": ["[+2 Production] from all [{pre-[Medieval era]} {Production}] buildings"],
       },
       {
         "name": "Exercitus Romanus Complete",
