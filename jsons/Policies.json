@@ -75,7 +75,7 @@
     ],
   },
   {
-    "name": "Exercitus Romanus",
+    "name": "Roman Culture",
     "era": "Ancient era",
     "uniques": ["[+1 Culture] from all [Happiness] buildings",
                 "[+2 Happiness] [in capital]"],
@@ -97,7 +97,7 @@
         "name": "Cursus Honorum",
         "row": 1,
         "column": 3,
-        "uniques": ["[+2 Culture] from all [{pre-[Medieval era]} {Culture}] buildings"],
+        "uniques": ["[+1 Culture] from all [Culture] buildings"],
       },
       {
         "name": "Latinitas I",
@@ -127,8 +127,20 @@
         "uniques": ["[+2 Production] from all [{pre-[Medieval era]} {Production}] buildings"],
       },
       {
-        "name": "Exercitus Romanus Complete",
-      }
+        "name": "Roman Culture Complete",
+      },
     ]
-  }
+  },
+  {
+    "name": "Han Culture",
+    "era": "Ancient era",
+    "policies": [
+      {
+        "name": "Ren",
+        "row": 1,
+        "column": 1,
+      },
+      {
+        "name": "Han Culture Complete",
+      },
 ]
