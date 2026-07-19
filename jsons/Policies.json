@@ -138,7 +138,25 @@
       {
         "name": "Xumin Zhao",
         "row": 1,
-        "column": 1,
+        "column": 5,
+      },
+      {
+        "name": "Xiu Taixue",
+        "row": 2,
+        "column": 3,
+        "requires": ["Xumin Zhao"],
+      },
+      {
+        "name": "Ju Xian",
+        "row": 2,
+        "column": 5,
+        "requires": ["Xumin Zhao"],
+      },
+      {
+        "name": "Fenghuo",
+        "row": 2,
+        "column": 7,
+        "requires": ["Xumin Zhao"],
       },
       {
         "name": "Han Culture Complete",
