@@ -13,13 +13,13 @@
 	{
 		"name": "Monument",
 		"cost": 35,
-		"culture": 1,
+		"culture": 2,
 		"requiredTech": "Ceremonial Burial",
 	},
 	{
 		"name": "Pottery Workshop",
 		"cost": 35,
-		"culture": 1,
+		"culture": 2,
 		"requiredTech": "Pottery",
 	},
 	{
@@ -100,7 +100,7 @@
 	},
 	{
 		"name": "Amphitheater",
-		"culture": 1,
+		"culture": 3,
 		"maintenance": 1,
 		"requiredTech": "Construction",
 	},
@@ -131,7 +131,7 @@
 	},
 	{
 		"name": "Theatre",
-		"culture": 2,
+		"culture": 4,
 		"maintenance": 1,
 		"requiredTech": "Philosophy",
 	},
@@ -184,7 +184,7 @@
 	},
 	{
 		"name": "Amphitheatron",
-		"culture": 2,
+		"culture": 4,
 		"science": 1,
 		"requiredTech": "Construction",
 		"replaces": "Amphitheater",
@@ -203,7 +203,7 @@
 	{
 		"name": "The Pyramids",
 		"isWonder": true,
-		"culture": 2,
+		"culture": 4,
 		"requiredTech": "Ceremonial Burial",
 		"uniques": ["Can build [all] improvements at a [+25]% rate","[1] free [Worker] units appear"],
 		"quote": "'From the heights of these pyramids, forty centuries look down on us.' - Napoleon Bonaparte",
