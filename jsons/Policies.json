@@ -183,6 +183,9 @@
         "name": "Scales of Anubis",
         "row": 1,
         "column": 3,
+        "uniques": ["[+3 Culture] [in capital]",
+                    "[+1 Gold] from [Desert] tiles [in all cities]",
+                    "[+1 Gold] from [River] tiles [in all cities]"],
       },
       {
         "name": "Akhet",
