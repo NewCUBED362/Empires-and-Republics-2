@@ -531,9 +531,9 @@
 		"adjective": ["Thai"],
 		"cityStateType": "Food",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "War, then? Fools think fortune is on their side. Who will you blame when yours runs out?",
-		"defeated": "One gains humility in defeat. I pray you are granted the most humility of all.",
+		"declaringWar": "You lowly, arrogant fool! I will make you regret your insolence.",
+		"attacked": "You scoundrel! I shall prepare to fend you off.",
+		"defeated": "Although I've lost, my honor shall forever endure. I have no other choice. I wish you good luck.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [59, 237, 14],
 		"cities": ["Bangkok"]
