@@ -39,42 +39,6 @@
   },
   // Policies
   {
-    "name": "Tradition",
-    "era": "Ancient era",
-    "policies": [
-      {
-        "name": "Aristocracy",
-        "row": 1,
-        "column": 1,
-        "uniques": ["[+15]% Production when constructing [All] wonders [in all cities]",
-                    "[+1 Happiness] per [10] population [in all cities]"],
-      },
-      {
-        "name": "Legalism",
-        "row": 1,
-        "column": 3,
-        "uniques": ["Provides the cheapest [Culture] building in your first [4] cities for free"],
-      },
-      {
-        "name": "Mythology",
-        "row": 1,
-        "column": 5,
-        "uniques": ["[+10]% [Culture] from every [Faith] <hidden from users>",
-                    "Comment [+10% Culture from every Faith building]"],
-      },
-      {
-        "name": "God King",
-        "row": 2,
-        "column": 4,
-        "requires": ["Mythology"],
-        "uniques": ["[+1 Faith, +1 Gold] [in all cities]"],
-      },
-      {
-        "name": "Tradition Complete",
-      },
-    ],
-  },
-  {
     "name": "Roman Culture",
     "era": "Ancient era",
     "uniques": ["[+1 Culture] from all [Happiness] buildings",
