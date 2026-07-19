@@ -196,6 +196,11 @@
         "requires": ["Scales of Anubis"],
       },
       {
+        "name": "Kemet",
+        "row": 3,
+        "column": 2,
+        "requires": ["Akhet","Riches of the Duat"],
+      {
         "name": "Egyptian Culture Complete",
       }
     ]
