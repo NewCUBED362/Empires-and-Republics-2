@@ -153,6 +153,7 @@
         "row": 2,
         "column": 3,
         "requires": ["Xumin Zhao"],
+        "uniques": ["[+1 Science] per [3] population [in all cities] <before the [Medieval era]>"],
       },
       {
         "name": "Fenghuo",
