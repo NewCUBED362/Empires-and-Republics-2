@@ -160,6 +160,9 @@
         "row": 2,
         "column": 5,
         "requires": ["Xumin Zhao"],
+        "uniques": ["[+1] Movement <for [Military] units> <before the [Medieval era]>",
+                    "[+3] Strength <for [Military] units> <when defending> <before the [Medieval era]>",
+                    "[+2 Gold] from all [Walls] buildings <before the [Medieval era]>"],
       },
       {
         "name": "Han Culture Complete",
