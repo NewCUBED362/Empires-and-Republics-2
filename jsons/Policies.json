@@ -139,6 +139,7 @@
         "name": "Xumin Zhao",
         "row": 1,
         "column": 3,
+        "uniques": ["[+2 Food] from all [Happiness] buildings <before the [Medieval era]>"],
       },
       {
         "name": "Xiu Taixue",
