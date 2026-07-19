@@ -177,6 +177,7 @@
         "name": "Arrival of Hapi",
         "row": 1,
         "column": 1,
+        "uniques": ["[+3 Gold] [in capital]","[+1 Happiness] in cities on [River] tiles"],
       },
       {
         "name": "Scales of Anubis",
