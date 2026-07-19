@@ -199,6 +199,7 @@
         "row": 2,
         "column": 3,
         "requires": ["Scales of Anubis"],
+        "uniques": ["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
       },
       {
         "name": "Kemet",
