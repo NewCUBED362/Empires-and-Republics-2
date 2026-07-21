@@ -21,5 +21,28 @@
       "Han Culture": 2,
       "Egyptian Culture": 4
     }
+  },
+  {
+    "name": "Victoria",
+    "production": 6,
+    "food": 5,
+    "gold": 8,
+    "science": 5,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 4,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 4,
+    "diplomacy": 7,
+    "loyal": 4,
+    "expansion": 8,
+    "denounceWillingness": 7,
+    "priorities": {
+      "Roman Culture": 9,
+      "Han Culture": 2,
+      "Egyptian Culture": 4
+    }
   }
 ]
