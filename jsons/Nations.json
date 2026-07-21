@@ -131,6 +131,9 @@
 		"startBias": ["Coast"],
         "favoredReligion": "Hellenism",
 
+	    "startIntroPart1": "Out of many sources – militaristic Sparta, erudite Athens, wealthy Corinth – comes the rich bounty of Greece. Wielding poetry sharper than a hoplite’s spear, the writers and thinkers of Greece describe the beauty and nature of the world, even as the phalanx begins its march. Guide them in their quest for glory and fame.",
+	    "startIntroPart2": "Your mastery of the spoken word is a gift of great value, silver-tongued Pericles, leader of the Greeks. Through it you can attract the devotion of a league of states, surrounding yourself with their glory. Establish cultural sites along the rocky shores of Greece to unite your people behind your strong governance. If all goes well the Sirens will sing of the Age of Pericles!",
+
 		"declaringWar": "This is for the greater good. You will understand... in time.",
 		"attacked": "Soldiers are not like trees. When they are destroyed, they are not so easily replaced.",
 		"defeated": "You may have defeated us, but what we leave behind is woven into the lives of others.",
