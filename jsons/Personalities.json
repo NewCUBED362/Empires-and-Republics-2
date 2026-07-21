@@ -25,24 +25,24 @@
   {
     "name": "Victoria",
     "production": 6,
-    "food": 5,
+    "food": 4,
     "gold": 8,
-    "science": 5,
-    "culture": 5,
-    "happiness": 6,
-    "faith": 4,
-    "military": 7,
-    "aggressive": 5,
-    "declareWar": 6,
-    "commerce": 4,
+    "science": 6,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 5,
+    "military": 5,
+    "aggressive": 4,
+    "declareWar": 4,
+    "commerce": 6,
     "diplomacy": 7,
-    "loyal": 4,
-    "expansion": 8,
-    "denounceWillingness": 7,
+    "loyal": 5,
+    "expansion": 6,
+    "denounceWillingness": 6,
     "priorities": {
       "Roman Culture": 9,
       "Han Culture": 2,
-      "Egyptian Culture": 4
+      "Egyptian Culture": 2
     }
   }
 ]
