@@ -73,6 +73,9 @@
 		"startBias": ["Grassland"],
         "favoredReligion": "Confucianism",
 
+	    "startIntroPart1": "In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.",
+	    "startIntroPart2": "'The reason why China suffered from endless wars is because of the existence of feudal lords and kings. I corrected this.' - Qin Shi Huang",
+
 		"declaringWar": "How dare you enrage Tian's might! I will send a great army, desecrate your ancestral shrines, eliminate your people. I swear I won't restrain them!",
 		"attacked": "Fight if you want to. Soon I will punish and kill you!",
 		"defeated": "I never would have thought... not like this.",
