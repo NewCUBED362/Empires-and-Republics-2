@@ -10,6 +10,7 @@
 		"leaderName": "Victoria",
 		"startBias": ["Coast"],
         "favoredReligion": "Christianity",
+	    "personality": "Victoria",
 
 	    "startIntroPart1": "Rule, Britannia! Beyond the smoky London skies, beyond the churn of Manchester’s mills, there is a greater glory - the Empire. Ever-hungry mills demand feeding, and ever-full warehouses demand markets. Heed their call, and may the sun never set upon your dominion.",
 	    "startIntroPart2": "Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe. Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.",
@@ -73,6 +74,7 @@
 		"leaderName": "Qin Shi Huang",
 		"startBias": ["Grassland"],
         "favoredReligion": "Confucianism",
+	    "personality": "Huang",
 
 	    "startIntroPart1": "In your people lies your greatest strength, Emperor Qin Shi Huang. From all over the world, others will come to gaze upon the great walls and towering wonders of your united China. May the hands of your men never blister as they work hard and fast to raise the most impressive structures that the world will ever know. Protect them well, and you will forever be immortalized.",
 	    "startIntroPart2": "'The reason why China suffered from endless wars is because of the existence of feudal lords and kings. I corrected this.' - Qin Shi Huang",
