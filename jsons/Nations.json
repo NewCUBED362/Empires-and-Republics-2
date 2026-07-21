@@ -101,6 +101,9 @@
 		"startBias": ["Desert"],
         "favoredReligion": "Sunni Islam",
 
+	    "startIntroPart1": "You have built great cities of stone and seen early empires rise and fall. Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.",
+	    "startIntroPart2": "The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life's most puzzling questions will find their way back to Arabia.",
+
 		"declaringWar": "I promise none of us will taste peace, until you concede...",
 		"attacked": "It's shameful that we turn to violence, for it is not the behavior of kings to kill each other!",
 		"defeated": "This is not victory. 'Victory' is changing the hearts of your opponents; through gentleness, through kindness...",
