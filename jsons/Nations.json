@@ -40,6 +40,9 @@
 		"startBias": ["Avoid [Desert]","Avoid [Tundra]"],
         "favoredReligion": "Nicene Christianity",
 
+	    "startIntroPart1": "Rome: a name synonymous with power. Legend has it that the first Romans were raised by wolves. Seeing the debates in the Senate, the achingly straight Roman roads, and the well-ordered legions, one might doubt this. Seeing the light of ambition in Roman eyes, one does not. Raise the eagle standard, and let the world know the glory that is Rome.",
+	    "startIntroPart2": "Hail Caesar! General, patrician, and dictator of Rome. Your people - and your ambition - call to you across the ages. The die is cast - and let none stand against your vision, whether they be your bitter foes, or your closest friends.",
+
 		"declaringWar": "The die is cast.",
 		"attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
 		"defeated": "Tu quoque? Then fall Caesar!",
