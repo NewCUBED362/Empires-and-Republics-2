@@ -44,5 +44,28 @@
       "Han Culture": 2,
       "Egyptian Culture": 2
     }
+  },
+  {
+    "name": "Huang",
+    "production": 8,
+    "food": 7,
+    "gold": 5,
+    "science": 5,
+    "culture": 6,
+    "happiness": 5,
+    "faith": 5,
+    "military": 5,
+    "aggressive": 5,
+    "declareWar": 5,
+    "commerce": 5,
+    "diplomacy": 5,
+    "loyal": 3,
+    "expansion": 6,
+    "denounceWillingness": 6,
+    "priorities": {
+      "Roman Culture": 2,
+      "Han Culture": 9,
+      "Egyptian Culture": 4
+    }
   }
 ]
