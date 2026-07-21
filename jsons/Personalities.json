@@ -1,0 +1,25 @@
+[
+  {
+    "name": "Julius",
+    "production": 6,
+    "food": 6,
+    "gold": 5,
+    "science": 5,
+    "culture": 7,
+    "happiness": 5,
+    "faith": 6,
+    "military": 5,
+    "aggressive": 3,
+    "declareWar": 5,
+    "commerce": 6,
+    "diplomacy": 6,
+    "loyal": 7,
+    "expansion": 4,
+    "denounceWillingness": 5,
+    "priorities": {
+      "Roman Culture": 9,
+      "Han Culture": 2,
+      "Egyptian Culture": 4
+    }
+  }
+]
