@@ -11,6 +11,9 @@
 		"startBias": ["Coast"],
         "favoredReligion": "Christianity",
 
+	    "startIntroPart1": "Rule, Britannia! Beyond the smoky London skies, beyond the churn of Manchester’s mills, there is a greater glory - the Empire. Ever-hungry mills demand feeding, and ever-full warehouses demand markets. Heed their call, and may the sun never set upon your dominion.",
+	    "startIntroPart2": "Your Majesty the Queen Victoria of England, extend your reach beyond your borders and across the face of the globe. Worry not over the possibility of defeat for your loyal redcoats and overwhelming navy will surely carry the day. With your calm and steady touch you can bring all lands under England's sway, establishing a true Pax Britannica.",
+
 		"declaringWar": "As our protests are in vain, we hereby declare war.",
 		"attacked": "War? We are not amused...",
 		"defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
