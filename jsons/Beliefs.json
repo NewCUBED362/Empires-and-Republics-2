@@ -169,7 +169,7 @@
 ///////////////////////////////////////// Founder beliefs //////////////////////////////////////////
 
     {
-        "name": "Ceremonial Burial",
+        "name": "God King",
         "type": "Founder",
         "uniques": ["[+1 Happiness] for each global city following this religion"]
     },
