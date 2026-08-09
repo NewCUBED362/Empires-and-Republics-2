@@ -195,6 +195,14 @@
 		"replaces": "Amphitheater",
 		"uniqueTo": "The Greeks",
 	},
+	{
+		"name": "Scriptorium",
+		"science": 5,
+		"faith": 2,
+		"requiredTech": "Invention",
+		"replaces": "Inventor's Workshop",
+		"uniqueTo": "The French",
+	},
 	// Wonders
 	{
 		"name": "Stonehenge",
