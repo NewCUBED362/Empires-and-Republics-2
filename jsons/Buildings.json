@@ -173,6 +173,11 @@
 		"cityStrength": 8,
 		"cityHealth": 5,
 	},
+	{
+		"name": "Inventor's Workshop",
+		"science": 3,
+		"requiredTech": "Invention",
+	},
 	// Unique Buildings
 	{
 		"name": "Paper Maker",
