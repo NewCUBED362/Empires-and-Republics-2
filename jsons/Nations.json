@@ -537,7 +537,9 @@
 		"declaringWar": "The ancient fire flashing across the sky is what proclaimed that this day would come, though I had foolishly hoped for a different outcome.",
 		"attacked": "It is obvious now that I misjudged you and your true intentions.",
 		"defeated": "The hard-shelled crab yields, and the lion lies down to sleep. Kanaloa comes for me now.",
-        "denounced": "The ocean's tide may rise and fall, but my resolve stands steady."
+        "denounced": "The ocean's tide may rise and fall, but my resolve stands steady.",
+	    "neutralDenouncing": "The world sees your actions, and they believe what we have known for a long time that of all leaders, you are the most evil.",
+	    "hateDenouncing": "The world sees your actions, and they believe what we have known for a long time that of all leaders, you are the most evil.",
 		"introduction": "Aloha! Greetings and blessings upon you, friend. I am Kamehameha, Great King of this strand of islands.",
 
 		"neutralHello": "Welcome, friend!",
