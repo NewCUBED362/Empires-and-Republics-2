@@ -196,6 +196,13 @@
         "uniques": ["[+25]% Production when constructing [{Military} {Land}] units [in all cities]"],
       },
       {
+        "name": "Čāpār-Kāna",
+        "row": 2,
+        "column": 3,
+        "requires": ["Spada"],
+        "uniques": ["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
+      },
+      {
         "name": "Achaemenid Persian Culture Complete",
       }
     ]
