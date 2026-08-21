@@ -185,7 +185,8 @@
         "name": "Spada",
         "row": 1,
         "column": 1,
-        "uniques": ["[+2 Happiness] [in capital]"],
+        "uniques": ["[+2 Happiness] [in capital]",
+                    "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
       },
       {
         "name": "Achaemenid Persian Culture Complete",
