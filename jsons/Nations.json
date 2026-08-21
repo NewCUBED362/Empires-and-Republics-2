@@ -19,6 +19,8 @@
 		"attacked": "War? We are not amused...",
 		"defeated": "This severe and afflicting loss will not be sustained, and England, thank providence, will ascend again.",
         "denounced": "The Queen wishes to warn those who disrespect her people and her mandate of the manifold troubles that will ensue."
+	    "neutralDenouncing": "We will have nothing to do with your administration. You are hereby denounced.",
+	    "hateDenouncing": "We will have nothing to do with your administration. You are hereby denounced.",
 		"introduction": "Greetings. We are by the Grace of God, Victoria, Queen of the United Kingdom of Great Britain and Ireland. And soon, dare I say, the empire.",
 
 		"neutralHello": "I bid you welcome...",
