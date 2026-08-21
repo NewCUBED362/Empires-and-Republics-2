@@ -177,7 +177,9 @@
 		"declaringWar": "Your territory could be much improved under Indian rule. Best I see it through!",
 		"attacked": "India does not fear war. The most you can do is slow our rightful advance.",
 		"defeated": "You learned my own lessons far too well. I instructed you in my own demise.",
-        "denounced": "All leaders incur hatred and unpopularity; if one has a great aim to pursue, this burden of envy must be accepted."
+        "denounced": "Though I ignore your cruel words, India will long remember them.",
+	    "neutralDenouncing": "You are an embarrassment to your people! You speak with two mouths, neither of them pleasant.",
+	    "hateDenouncing": "You are an embarrassment to your people! You speak with two mouths, neither of them pleasant.",
 		"introduction": "I am Chandragupta, Mauryan emperor of unified India. No, it has not gone to my head.",
 
 		"neutralHello": "I wish you peace!",
