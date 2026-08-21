@@ -67,5 +67,28 @@
       "Han Culture": 9,
       "Egyptian Culture": 4
     }
+  },
+  {
+    "name": "Cleopatra",
+    "production": 7,
+    "food": 6,
+    "gold": 6,
+    "science": 5,
+    "culture": 7,
+    "happiness": 6,
+    "faith": 7,
+    "military": 3,
+    "aggressive": 4,
+    "declareWar": 3,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 4,
+    "expansion": 5,
+    "denounceWillingness": 4,
+    "priorities": {
+      "Roman Culture": 7,
+      "Han Culture": 5,
+      "Egyptian Culture": 9
+    }
   }
 ]
