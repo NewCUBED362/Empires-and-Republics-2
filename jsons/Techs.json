@@ -97,6 +97,7 @@
       "row": 8,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial","Masonry"],
+      "quote": "'There is geometry in the humming of the strings. There is music in the spacing of the spheres.' - Pythagoras",
     }
     {
       "name": "Map Making",
