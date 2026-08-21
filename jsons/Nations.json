@@ -659,9 +659,9 @@
 		"adjective": ["Armenian"],
 		"cityStateType": "Production",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "God fights with us. You stand alone.",
-		"defeated": "The fenced walls could not save Armenia from invasion, I am powerless.",
+		"declaringWar": "The light of the Father shall shine upon your heathen lands!",
+		"attacked": "Your armies will crumble before the might of our faith!",
+		"defeated": "Though today the winds of fate have turned against us, the Father's light still lives on.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [222, 144, 18],
 		"cities": ["Yerevan"]
