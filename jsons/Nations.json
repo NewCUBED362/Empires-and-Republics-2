@@ -116,7 +116,9 @@
 		"declaringWar": "I promise none of us will taste peace, until you concede...",
 		"attacked": "It's shameful that we turn to violence, for it is not the behavior of kings to kill each other!",
 		"defeated": "This is not victory. 'Victory' is changing the hearts of your opponents; through gentleness, through kindness...",
-        "denounced": "Everyone is critical of the flaws of others, but blind to their own."
+        "denounced": "Everyone is critical of the flaws of others, but blind to their own.",
+	    "neutralDenouncing": "It is said by my people that the house of a tyrant is a ruin... and all I see is ruin around you.",
+	    "hateDenouncing": "It is said by my people that the house of a tyrant is a ruin... and all I see is ruin around you.",
 		"introduction": "By the grace of the one God, the powerful, the victorious, the everlasting of whose Kingdom there is no end, I greet you, my sincere friend.",
 
 		"neutralHello": "Peace be upon you...",
