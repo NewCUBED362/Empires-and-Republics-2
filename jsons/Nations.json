@@ -74,7 +74,7 @@
 	    "cities": ["Roma","Capua","Ostia","Ravenna","Neapolis","Mediolanum","Patavium","Aquileia","Puteoli","Pompeii","Catana","Burdigala",
                    "Narbo Martius","Gades","Lugdunum","Bononia","Corduba","Massilia","Colonia","Caesarea Maritima","Mogontiacum","Londinium",
                    "Caesaraugusta","Sarmizegetusa","Hispalis","Iader","Eboracum","Vindobona","Olisipo","Volubilis","Lutetia","Caralis"],
-		"spyNames": ["Leonardo","Lorenzo","Francesco","Riccardo","Vittoria","Matilde","Sofia"],
+		"spyNames": ["Acacius","Brutus","Flavius","Manius","Leonardo","Lorenzo","Francesco","Riccardo","Vittoria","Matilde","Sofia"],
 	    "civilopediaText": [
 			{"text": "Rome’s history spans centuries; the most generous accounts place Rome's foundations in 753 BCE. The volume of material written by, on, and about Rome is staggering. Any brief attempt to capture the complexity of Roman history, its twists and turns, and its varied forms of government will be insufficient."},
 			{"text": "According to myth, Romulus and Remus were twin brothers – the descendants of Mars and the Trojan hero Aeneas – who were abandoned in the countryside and raised by a wolf. The children played with blocks of brick and stone just as present-day children might play with blocks of wood and plastic."},
