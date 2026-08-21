@@ -324,6 +324,7 @@
 		],
 		"movement": 2
 	},
+	// Great People
 	{
 		"name": "Great Prophet",
 		"unitType": "Civilian",
@@ -338,5 +339,17 @@
 			"Takes your religion over the one in their birth city"],
 		"movement": 2,
 		"religiousStrength": 1000
-	}
+	},
+	{
+		"name": "Great General",
+		"unitType": "Civilian",
+		"uniques": [
+            "[+15]% Strength bonus for [{Military} {Land}] units within [2] tiles",
+            "Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Can be earned through combat <for [Land] units>",
+            "Is part of Great Person group [General]",
+            "[This Unit] gets a name from the [General] group",
+			"Great Person - [War]", "Unbuildable", "Uncapturable"],
+		"movement": 2
+	},
 ]
