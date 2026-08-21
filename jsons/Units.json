@@ -302,6 +302,20 @@
 		"uniques": ["[+20]% Strength <when fighting in [Friendly Land] tiles>"],
 		"attackSound": "nonmetalhit",
 	},
+	{
+		"name": "Pedanda",
+		"unitType": "Civilian",
+		"uniques": [
+			"Comment [Gain +50 Culture and Gold upon]",
+            "Can Spread Religion <for [4] movement> <[2] times> <after which this unit is consumed>",
+            "May enter foreign tiles without open borders, but loses [250] religious strength each turn it ends there",
+			"Can be purchased with [Faith] [in all cities in which the majority religion is a major religion]",
+			"[-1] Sight", "Unbuildable", "Religious Unit", "Only available <when religion is enabled>"],
+		"movement": 2,
+		"replaces": "Missionary",
+		"uniqueTo": "The Indonesians",
+		"religiousStrength": 1000
+	},
 	// Religious units
 	{
 		"name": "Missionary",
