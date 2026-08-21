@@ -408,6 +408,7 @@
 		"leaderName": "Cleopatra",
 		"startBias": ["Desert"],
         "favoredReligion": "Pesedjet Mythology",
+	    "personality": "Cleopatra",
 
 		"declaringWar": "I have had enough with you. May Amun Ra guide us!",
 		"attacked": "Hah! Osiris will be pleased to welcome my enemies.",
