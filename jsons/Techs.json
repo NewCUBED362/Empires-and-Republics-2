@@ -122,6 +122,7 @@
       "row": 14,
       "cost": 50,
       "prerequisites": ["Horseback Riding"],
+      "quote": "'Wisdom and virtue are like the two wheels of a cart.' - Japanese Proverb",
     },
     {
       "name": "Currency",
