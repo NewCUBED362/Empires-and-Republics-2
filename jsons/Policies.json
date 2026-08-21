@@ -204,6 +204,13 @@
                     "[+3 Gold] [in annexed cities]"],
       },
       {
+        "name": "Shahanshah",
+        "row": 3,
+        "column": 3,
+        "requires": ["Čāpār-Kāna"],
+        "uniques": ["[+2 Culture, +2 Gold] [in annexed cities]"],
+      },
+      {
         "name": "Achaemenid Persian Culture Complete",
       }
     ]
