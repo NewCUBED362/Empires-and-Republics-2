@@ -623,9 +623,9 @@
 		"adjective": ["Marajoara"],
 		"cityStateType": "Food",
 
-		"declaringWar": "You leave us no choice. War it must be.",
-		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"declaringWar": "YOU! The one who dare tear my people apart. The wrath of the relentless Amazonian currents and Amazonian people are coming for you! This was your own undoing! Prepare for the reckoning!",
+		"attacked": "Your presence in our territory is an insult to our sovereignty! We shall poison your waters and take your land as our own! Prepare to face the wrath of the mighty Marajoara!",
+		"defeated": "No man can tame these lands but the Marajoara! We will rise again, and when we do, your downfall will be swift and absolute.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [59, 237, 14],
 		"cities": ["Marajó Island"]
