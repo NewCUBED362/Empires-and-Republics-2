@@ -270,6 +270,8 @@
         "row": 4,
         "cost": 730,
         "prerequisites": ["Medicine","University"],
+        "uniques": ["[+1 Production] from [Mine] tiles [in all cities]",
+                    "[+1 Production] from [Quarry] tiles [in all cities]"],
       },
       {
         "name": "Theory of Gravity",
