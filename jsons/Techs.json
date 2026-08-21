@@ -74,6 +74,7 @@
       "row": 2,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "quote": "'True glory consists in doing what deserves to be written; in writing what deserves to be read.' - Pliny the Elder",
       "uniques": ["Enables Open Borders agreements"],
     },
     {
