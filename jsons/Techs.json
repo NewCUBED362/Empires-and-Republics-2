@@ -82,6 +82,7 @@
       "row": 4,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "quote": "'It is not wisdom but authority that makes a law.' - Thomas Hobbes",
       "uniques": ["[+1 Culture] [in capital]"],
     },
     {
