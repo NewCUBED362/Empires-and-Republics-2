@@ -112,6 +112,7 @@
       "row": 12,
       "cost": 25,
       "prerequisites": ["Ceremonial Burial","Horseback Riding"],
+      "quote": "'Not at all similar are the race of the immortal gods and the race of men who walk upon the Earth.' - Homer.",
       "uniques": ["[+1 Faith] [in capital]","Only available <when religion is enabled>"],
     },
     {
