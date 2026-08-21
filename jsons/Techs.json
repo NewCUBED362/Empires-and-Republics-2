@@ -104,6 +104,7 @@
       "row": 10,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "quote": "'The fair breeze blew, the white foam flew, the furrow followed free; we were the first that ever burst into that silent sea.' - Samuel Taylor Coleridge",
       "uniques": ["Enables embarkation for land units"],
     }
     {
