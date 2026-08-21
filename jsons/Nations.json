@@ -116,6 +116,11 @@
 	    "uniques": ["May buy [Worker] units with [Faith] [in all cities]","When conquering an encampment, earn [60] Gold and recruit a Barbarian unit","[Great General] is earned [50]% faster"]
 		"cities": ["Xi'an","Beijing","Shanghai","Guangzhou","Nanjing","Chengdu","Hangzhou","Tianjin","Macau","Shandong","Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
+	    "civilopediaText": [
+			{"text": "China has contributed much to civilization: paper, the bell, the fishing reel, gunpowder, the compass, the bulkhead, playing cards, the oil well, woodblock printing, silk, the list of Chinese inventions goes on endlessly."},
+			{"text": "Chinese authors such as Shi Nai’an and Wu Cheng’an, artists such as Han Gan and Ma Yuan, composers such as Wei Liangfu and Cai Yan enriched civilization beyond measure."},
+			{"text": "Moreover, China introduced the concepts of slavery, monogamy, espionage, subversion, propaganda, urbanization, lingchi, and more."},
+		],
 },
 {
 		"name": "The Arabs",
