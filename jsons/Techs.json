@@ -90,6 +90,7 @@
       "row": 6,
       "cost": 50,
       "prerequisites": ["Ceremonial Burial"],
+      "quote": "'Nature herself has imprinted on the minds of all the idea of God.' - Cicero",
     },
     {
       "name": "Mathematics",
