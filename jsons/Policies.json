@@ -200,7 +200,8 @@
         "row": 2,
         "column": 3,
         "requires": ["Spada"],
-        "uniques": ["[+15]% Production when constructing [Wonder] buildings [in all cities]"],
+        "uniques": ["[+1 Gold] [in all non-occupied cities]",
+                    "[+3 Gold] [in annexed cities]"],
       },
       {
         "name": "Achaemenid Persian Culture Complete",
