@@ -153,7 +153,9 @@
 		"outerColor": [43, 88, 46],
 		"innerColor": [146, 221, 10],
 		"uniqueName": "Righteousness of the Faith",
-	    "uniques": ["[+2 Gold] from each Trade Route","[+50]% [Faith] from every [Faith]","Empire enters a [10]-turn Golden Age <upon founding a Religion>"]
+	    "uniques": ["[+2 Gold] from each Trade Route",
+			        "[+50]% [Faith] from every [Faith]",
+			        "Empire enters a [10]-turn Golden Age <upon founding a Religion>"]
 		"cities": ["Cairo","Damascus","Mecca","Medina","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat","Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul"],
 		"spyNames": ["Solhofaat","Khenzeer","Zarafah","Temsaah","Abyadh","Mostafa","Yusuf"],
 },
@@ -185,7 +187,8 @@
 		"outerColor": [255, 255, 255],
 		"innerColor": [65, 141, 254],
 		"uniqueName": "Hellenic League",
-	    "uniques": ["Gifts of Gold to City-States generate [+30]% more Influence","[+1 Science] per [3] population [in all cities]"]
+	    "uniques": ["Gifts of Gold to City-States generate [+30]% more Influence",
+			        "[+1 Science] per [3] population [in all cities]"]
 		"cities": ["Athens","Sparta","Corinth","Argos","Knossos","Mycenae","Pharsalos","Ephesus","Halicarnassus","Rhodes","Eretria","Pergamon","Miletos","Megara","Phocaea","Sicyon","Tiryns","Samos","Mytilene","Chios"],
 		"spyNames": ["Aristides","Basil","Gregorios","Kristos","Alethea","Hera","Marina"],
 },
@@ -214,7 +217,9 @@
 		"outerColor": [0, 192, 155],
 		"innerColor": [55, 0, 101],
 		"uniqueName": "Dhamma Lipi",
-	    "uniques": ["[+30]% unhappiness from the number of cities","[-70]% Unhappiness from [Population] [in all cities]","[+30]% [Happiness] <in cities with a [your] religion>"]
+	    "uniques": ["[+30]% unhappiness from the number of cities",
+			        "[-70]% Unhappiness from [Population] [in all cities]",
+			        "[+30]% [Happiness] <in cities with a [your] religion>"]
 		"cities": ["Pataliputra","Delhi","Mumbai","Vijayanagara","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad","Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli"],
 		"spyNames": ["Ameretat","Dhruv","Krishna","Rayansh","Aanya","Diya","Sushma"],
 },
@@ -241,7 +246,9 @@
 		"outerColor": [1, 42, 108],
 		"innerColor": [255, 255, 255],
 		"uniqueName": "Founding Fathers",
-	    "uniques": ["[-15]% Culture cost of adopting new Policies","[+25]% Strength <when fighting in [your] tiles>","[-20]% unhappiness from the number of cities"]
+	    "uniques": ["[-15]% Culture cost of adopting new Policies",
+			        "[+25]% Strength <when fighting in [your] tiles>",
+			        "[-20]% unhappiness from the number of cities"]
 		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston","Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis"],
 		"spyNames": ["Benjamin","Forrest","Frank","Max","Abby","Dorothy","Nancy"],
 },
@@ -268,7 +275,8 @@
 		"outerColor": [179, 178, 184],
 		"innerColor": [37, 43, 33],
 		"uniqueName": "Free Imperial Cities",
-	    "uniques": ["[+2 Production] per [3] population [in all cities]","[+1 Production] from all [Production] buildings"]
+	    "uniques": ["[+2 Production] per [3] population [in all cities]",
+			        "[+1 Production] from all [Production] buildings"]
 		"cities": ["Aachen","Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen","Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen"],
 		"spyNames": ["Dieter","Ernst","Hanz","Klaus","Etta","Frieda","Tresa"],
 },
@@ -295,7 +303,9 @@
 		"outerColor": [247, 216, 1],
 		"innerColor": [24, 24, 24],
 		"uniqueName": "Mother Russia",
-	    "uniques": ["[-35]% Culture cost of natural border growth [in all cities]","[+15]% Strength <when fighting in [Friendly] tiles>","[+1 Faith, +1 Production] from [Tundra] tiles [in all cities]"]
+	    "uniques": ["[-35]% Culture cost of natural border growth [in all cities]",
+			        "[+15]% Strength <when fighting in [Friendly] tiles>",
+			        "[+1 Faith, +1 Production] from [Tundra] tiles [in all cities]"]
 		"cities": ["Saint Petersburg","Moscow","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg","Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara"],
 		"spyNames": ["Andrei","Gregori","Nikolai","Vladimir","Elena","Natasha","Tatiana"],
 },
@@ -320,7 +330,9 @@
 		"outerColor": [120, 0, 1],
 		"innerColor": [255, 129, 18],
 		"uniqueName": "Mongol Horde",
-	    "uniques": ["[+40]% Strength <vs [City-States]>","[+1] Movement <for [Mounted] units>","[+50]% Yield from pillaging tiles"]
+	    "uniques": ["[+40]% Strength <vs [City-States]>",
+			        "[+1] Movement <for [Mounted] units>",
+			        "[+50]% Yield from pillaging tiles"]
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan","Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg"],
 		"spyNames": ["Arban","Chuluunbold","Jochi","Tomorbaatar","Altansarnai","Erdenechimeg","Sarnai"],
 },
@@ -345,7 +357,8 @@
 		"outerColor": [120, 0, 1],
 		"innerColor": [229, 117, 116],
 		"uniqueName": "Seven Cities of Gold",
-	    "uniques": ["[+2 Gold] from [Luxury resource] tiles [in all cities]","[+50]% Production when constructing [Settler] units [in all cities] <starting from the [Renaissance era]>"]
+	    "uniques": ["[+2 Gold] from [Luxury resource] tiles [in all cities]",
+			        "[+50]% Production when constructing [Settler] units [in all cities] <starting from the [Renaissance era]>"]
 		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona","Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida"],
 		"spyNames": ["Alejandro","Carlos","Hernando","Javier","Benita","Florida","Dolores"],
 },
@@ -370,7 +383,8 @@
 		"outerColor": [1, 42, 108],
 		"innerColor": [234, 225, 157],
 		"uniqueName": "Grand Tour",
-	    "uniques": ["[+2 Culture] [in all cities]","[+20]% Strength <for [Land] units> <when at war>"]
+	    "uniques": ["[+2 Culture] [in all cities]",
+			        "[+20]% Strength <for [Land] units> <when at war>"]
 		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble","Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes"],
 	    "spyNames": ["Noah","Arthur","Theodore","George","Olivia","Amelia","Freya"],
 },
@@ -395,7 +409,8 @@
 		"outerColor": [202, 20, 21],
 		"innerColor": [249, 249, 249],
 		"uniqueName": "Atatürk's Legacy",
-	    "uniques": ["[+1 Food] per [3] population [in all cities]","[+25]% Production when constructing [Siege] units [in all cities]"]
+	    "uniques": ["[+1 Food] per [3] population [in all cities]",
+			        "[+25]% Production when constructing [Siege] units [in all cities]"]
 		"cities": ["Ankara","Istanbul","Izmir","Bursa","Adana","Konya","Gaziantep","Kayseri","Samsun","Eskişehir","Sivas","Trabzon","Diyarbakır","Malatya","Erzurum"],
 		"spyNames": ["Solhofaat","Khenzeer","Zarafah","Temsaah","Abyadh","Mostafa","Yusuf"],
 },
@@ -420,7 +435,10 @@
 		"outerColor": [249, 249, 249],
 		"innerColor": [212, 6, 6],
 		"uniqueName": "Land of the Rising Sun",
-	    "uniques": ["[-20]% Science cost of researching new Technologies","[+3] Strength <for [Military] units> <when fighting in [Coastal] tiles>"]
+	    "uniques": ["Gain [200] [Science] <upon gaining a [Great General] unit>",
+			        "Gain [200] [Culture] <upon gaining a [Great General] unit>",
+			        "[-20]% Science cost of researching new Technologies <starting from the [Atomic era]>",
+			        "[+3] Strength <for [Military] units> <when fighting in [Coastal] tiles>"]
 		"cities": ["Edo","Osaka","Kyoto","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama","Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao"],
 },
