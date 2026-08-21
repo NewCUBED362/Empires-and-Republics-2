@@ -341,7 +341,8 @@
 			        "[+1] Movement <for [Mounted] units>",
 			        "[+50]% Yield from pillaging tiles"]
 		"cities": ["Karakorum","Beshbalik","Turfan","Hsia","Old Sarai","New Sarai","Tabriz","Tiflis","Otrar","Sanchu","Kazan","Almarikh","Ulaanbaatar","Hovd","Darhan","Dalandzadgad","Mandalgovi","Choybalsan","Erdenet","Tsetserieg"],
-		"spyNames": ["Asashōryū","Tömöriin","Zevegiin","Jigjidiin","Enkhbat","Mönkhbayar","Gündegmaa","Ssima","Batachikhan","Chulunny"],
+		"spyNames": ["Asashōryū","Tömöriin","Zevegiin","Jigjidiin","Enkhbat","Mönkhbayar","Gündegmaa","Ssima","Batachikhan","Chulunny","Arslan","Khadan","Sukehbaatar","Barghujin",
+		             "Jaliqai"],
 },
 {
 		"name": "The Spanish",
