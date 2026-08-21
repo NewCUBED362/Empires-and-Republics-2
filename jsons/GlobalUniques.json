@@ -5,6 +5,7 @@
                 "Rebel units may spawn <when below [-10] [Happiness]>",
                 "[+20]% [Production] [in all cities] <when above [6] [Happiness]>",
                 "[+20]% growth [in all cities] <when above [6] [Happiness]>",
+                "[+50]% Unhappiness from [Population] [in all cities] <when at war>",
 
                 "Adopt [Ideology]",
                 "Adopt [Chiefdom]",
