@@ -119,7 +119,8 @@
 		"uniqueName": "Art of War",
 	    "uniques": ["May buy [Worker] units with [Faith] [in all cities]","When conquering an encampment, earn [60] Gold and recruit a Barbarian unit","[Great General] is earned [50]% faster"]
 		"cities": ["Xi'an","Beijing","Taiyuan","Chengdu","Jiaodong","Changsha","Longxi","Guangzhou","Handan","Shenyang","Shanghai",
-		           "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang"],
+		           "Wuhan","Yiyang","Xiurong","Chen","Xingzhou","Quxian","Nanjing","Langfang","Linzi","Jiujiang",
+		           "Kaifeng","Xuzhou","Hefei","Xinzheng","Lu’an"],
 		"spyNames": ["Li","Chen","Zhang","Liu","Yang","Huang","Zhao","Bingwen","Dingxiang","Huizhong","Shanyuan",
 		             "Zedong","Daxia","Liling","Mingxia","Qiaolian","Xingjuan","Baoyu"],
 	    "civilopediaText": [
