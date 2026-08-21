@@ -129,6 +129,7 @@
       "row": 16,
       "cost": 50,
       "prerequisites": ["Bronze Working"],
+      "quote": "'Everything is worth what its purchaser will pay for it.' - Publilius Syrus",
       "uniques": ["[+1 Gold] [in all cities]"],
     },
     {
