@@ -53,6 +53,9 @@
 		"name": "Market",
 		"gold": 3,
 		"requiredTech": "Currency",
+		"uniques": ["[+1 Happiness] from [Furs] tiles [in this city]",
+			        "[+1 Happiness] from [Ivory] tiles [in this city]",
+			        "[+1 Happiness] from [Deer] tiles [in this city]"],
 	},
 	{
 		"name": "Shrine",
