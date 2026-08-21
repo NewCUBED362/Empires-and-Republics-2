@@ -248,4 +248,12 @@
 		"uniques": ["[2] free [Spearman] units appear"],
 		"quote": "'Upon the head of the god was an olive crown; in his right hand he bore a winged figure of Victory.' - Samuel Augustus Mitchell",
 	},
+	{
+		"name": "Newton's University",
+		"isWonder": true,
+		"culture": 6,
+		"requiredTech": "Theory of Gravity",
+		"uniques": [""],
+		"quote": "'' - ",
+	}
 ]
