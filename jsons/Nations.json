@@ -53,7 +53,9 @@
 		"declaringWar": "The die is cast.",
 		"attacked": "Ambitious. You seek to conquer me before I move on you. I approve.",
 		"defeated": "Tu quoque? Then fall Caesar!",
-        "denounced": "You had better mean what you say. I, for one, do not make idle threats..!"
+        "denounced": "You had better mean what you say. I, for one, do not make idle threats..!",
+	    "neutralDenouncing": "You have a pale and hungry look. I do not much like it.",
+	    "hateDenouncing": "You have a pale and hungry look. I do not much like it.",
 		"introduction": "I am Caesar, destroyer of conspiracies in the Alpine woods and the Senate alike.",
 
 		"neutralHello": "Hail.",
