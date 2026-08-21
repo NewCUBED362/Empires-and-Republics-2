@@ -7,5 +7,6 @@
     },
     {
         "name": "Prophet",
-        "unitNames": ["Jesus Christ","John the Baptist","Mohammed"],
+        "unitNames": ["Adi Shankara","Bodhidharma","Confucius","Francis of Assisi","Haji Huud","Irenaeus","John the Baptist","Laozi","Madhva Acharya","Martin Luther","O no Yasumaro","Siddhartha Gautama",
+                      "Simon Peter","Songtsan Gampo","Thomas Aquinas","Zoroaster"],
     }
