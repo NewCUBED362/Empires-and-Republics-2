@@ -189,6 +189,13 @@
                     "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
       },
       {
+        "name": "Kara",
+        "row": 2,
+        "column": 1,
+        "requires": ["Spada"],
+        "uniques": ["[+2 Food] from [{improved} {River}] tiles [in all cities]"],
+      },
+      {
         "name": "Achaemenid Persian Culture Complete",
       }
     ]
