@@ -512,7 +512,9 @@
 		"declaringWar": "Before this war ends, you will know the fury of a thousand ships.",
 		"attacked": "Truly? Didn't you know my vengeance puts monsoons to shame? Soon you will.",
 		"defeated": "The dream of Nusantara is lost to the turning tide.",
-        "denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!"
+        "denounced": "You call that an insult? A pathetic attempt from a crusted barnacle!",
+	    "neutralDenouncing": "You are like the muck that spreads around ships in calm waters. When in your presence, it is best to sail away.",
+	    "hateDenouncing": "You are like the muck that spreads around ships in calm waters. When in your presence, it is best to sail away.",
 		"introduction": "I am Gitarja, Majapahit's queen and protector. Those who thought us weak litter the ocean floor.",
 
 		"neutralHello": "Greetings!",
