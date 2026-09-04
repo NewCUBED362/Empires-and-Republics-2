@@ -665,7 +665,8 @@
 		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongno","Bulsa",
 		           "Anya","Ballo","Mioyama","Gosunsi","Juseon","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
 		           "Yeongdeok","Cheongsong","Uiseong","Gyeongsan","Miryang"],
-		"spyNames": ["Chung-Kyo","Do-won","Dong-jun","Kwang-min","Hanuel","In-Soo","Jae-Hwan","Jung-Hwan","Ju-Hyun","Ho"],
+		"spyNames": ["Chung-Kyo","Do-won","Dong-jun","Kwang-min","Hanuel","In-Soo","Jae-Hwan","Jung-Hwan","Ju-Hyun","Ho",
+		             "Eunbyeol","Hana","Hyun-hee","Nari","Seung-yong"],
 },
 	// City-States
 {
