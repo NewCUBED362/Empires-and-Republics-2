@@ -662,7 +662,7 @@
 		"outerColor": [202, 20, 20],
 		"innerColor": [116, 163, 243],
 		"uniqueName": "Three Kingdoms",
-		"cities": ["Seoul"],
+		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongno","Bulsa"],
 		"spyNames": ["Aran","Chanarong","Kiet","Niran","Virote","Kulap","Mayuree","Phueng","Ratana","Tola",
 		             "Sombun","Klahan","Suriya","Preecha","Somchit","Somboon","Mali","Sukanya","Kaeo","Amphon"],
 },
