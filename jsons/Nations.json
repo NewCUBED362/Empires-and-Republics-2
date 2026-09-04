@@ -659,8 +659,8 @@
 		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
 	    "declaringFriendship": "I feel I must declare Korea's friendship with your people. With your agreement, of course.",
 
-		"outerColor": [245, 230, 55],
-		"innerColor": [177, 8, 3],
+		"outerColor": [202, 20, 20],
+		"innerColor": [116, 163, 243],
 		"uniqueName": "Three Kingdoms",
 		"cities": ["Seoul"],
 		"spyNames": ["Aran","Chanarong","Kiet","Niran","Virote","Kulap","Mayuree","Phueng","Ratana","Tola",
