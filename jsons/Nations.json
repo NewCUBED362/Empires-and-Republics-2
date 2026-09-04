@@ -654,14 +654,15 @@
 	    "hateDenouncing": "You are the ocean's offal, your stink clings to everything you touch.",
 		"introduction": "I, Seondeok of Korea, acknowledge you. Our meeting was foreseen.",
 
-		"neutralHello": "Welcome.",
-		"hateHello": "Greetings.",
-		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+		"neutralHello": "Hello.",
+		"hateHello": "Oh, it's you.",
+		"tradeRequest": "We have many things to discuss and have much to benefit from each other.",
 	    "declaringFriendship": "I feel I must declare Korea's friendship with your people. With your agreement, of course.",
 
 		"outerColor": [202, 20, 20],
 		"innerColor": [116, 163, 243],
 		"uniqueName": "Three Kingdoms",
+	    "uniques": [""],
 		"cities": ["Seorabeol","Daegu","Yeodam","Ulsan","Horo","Gamno","Yeomhae","Geun-gi","Dongno","Bulsa",
 		           "Anya","Ballo","Mioyama","Gosunsi","Juseon","Andong","Gijeo","Geochilsan","Jinhae","Pohang",
 		           "Yeongdeok","Cheongsong","Uiseong","Gyeongsan","Miryang"],
