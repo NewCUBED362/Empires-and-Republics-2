@@ -6,763 +6,770 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Academy
   rotate: false
-  xy: 4, 628
+  xy: 4, 612
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Amphitheatron
   rotate: false
-  xy: 276, 104
+  xy: 276, 88
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Arena
   rotate: false
-  xy: 4, 492
+  xy: 4, 476
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Bakery
   rotate: false
-  xy: 404, 892
+  xy: 404, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Campfire
   rotate: false
-  xy: 676, 892
+  xy: 676, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Cement Plant
   rotate: false
-  xy: 812, 892
+  xy: 812, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Chemist
   rotate: false
-  xy: 1084, 892
+  xy: 1084, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Conscription Center
   rotate: false
-  xy: 1356, 892
+  xy: 1356, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Docks
   rotate: false
-  xy: 1628, 892
+  xy: 1628, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Fertilizer Plant
   rotate: false
-  xy: 1764, 892
+  xy: 1764, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Furnace
   rotate: false
-  xy: 140, 492
+  xy: 140, 476
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Industrial Silos
   rotate: false
-  xy: 140, 84
+  xy: 140, 68
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Inventor's Workshop
   rotate: false
-  xy: 276, 756
+  xy: 276, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Logging Camp
   rotate: false
-  xy: 412, 756
+  xy: 412, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Mill
   rotate: false
-  xy: 548, 756
+  xy: 548, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Newton's University
   rotate: false
-  xy: 276, 348
+  xy: 276, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Playhouse
   rotate: false
-  xy: 276, 212
+  xy: 276, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Plaza
   rotate: false
-  xy: 412, 348
+  xy: 412, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Pub
   rotate: false
-  xy: 548, 484
+  xy: 548, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/School
   rotate: false
-  xy: 412, 212
+  xy: 412, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Scriptorium
   rotate: false
-  xy: 548, 348
+  xy: 548, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Shipyard
   rotate: false
-  xy: 684, 484
+  xy: 684, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Stone Circle
   rotate: false
-  xy: 956, 756
+  xy: 956, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Tailor
   rotate: false
-  xy: 548, 212
+  xy: 548, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Tannery
   rotate: false
-  xy: 684, 348
+  xy: 684, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Taxation Office
   rotate: false
-  xy: 820, 484
+  xy: 820, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Tram Station
   rotate: false
-  xy: 1364, 484
+  xy: 1500, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/War Memorial
   rotate: false
-  xy: 1228, 212
+  xy: 1364, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Watchtower
   rotate: false
-  xy: 1364, 348
+  xy: 1500, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Weaver
   rotate: false
-  xy: 1636, 620
+  xy: 1772, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Well
   rotate: false
-  xy: 1772, 756
+  xy: 1364, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 BuildingIcons/Worship House
   rotate: false
-  xy: 1364, 212
+  xy: 1500, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 CityStateIcons/Culture
   rotate: false
-  xy: 1980, 668
+  xy: 1500, 260
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Food
   rotate: false
-  xy: 1500, 304
+  xy: 1636, 424
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Gold
   rotate: false
-  xy: 1500, 232
+  xy: 1636, 352
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Military
   rotate: false
-  xy: 672, 140
+  xy: 1572, 260
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Production
   rotate: false
-  xy: 744, 140
+  xy: 1572, 188
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 CityStateIcons/Religion
   rotate: false
-  xy: 816, 140
+  xy: 600, 124
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 NationIcons/The Americans
   rotate: false
-  xy: 956, 620
+  xy: 956, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Arabs
   rotate: false
-  xy: 1092, 756
+  xy: 1092, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Brazilians
   rotate: false
-  xy: 684, 212
+  xy: 684, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Chinese
   rotate: false
-  xy: 820, 348
+  xy: 820, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Egyptians
   rotate: false
-  xy: 956, 484
+  xy: 956, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The English
   rotate: false
-  xy: 1092, 620
+  xy: 1092, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The French
   rotate: false
-  xy: 1228, 756
+  xy: 1228, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Germans
   rotate: false
-  xy: 1636, 512
+  xy: 1772, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/The Greeks
   rotate: false
-  xy: 820, 212
+  xy: 820, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Indians
   rotate: false
-  xy: 956, 348
+  xy: 956, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Indonesians
   rotate: false
-  xy: 4, 764
+  xy: 4, 748
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
 NationIcons/The Japanese
   rotate: false
-  xy: 1092, 484
+  xy: 1092, 468
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+NationIcons/The Koreans
+  rotate: false
+  xy: 1228, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Mongols
   rotate: false
-  xy: 1228, 620
+  xy: 1364, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Polynesians
   rotate: false
-  xy: 1364, 756
+  xy: 956, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Romans
   rotate: false
-  xy: 956, 212
+  xy: 1092, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Russians
   rotate: false
-  xy: 1092, 348
+  xy: 1228, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Siamese
   rotate: false
-  xy: 1228, 484
+  xy: 1364, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Spanish
   rotate: false
-  xy: 1364, 620
+  xy: 1500, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Sumerians
   rotate: false
-  xy: 1500, 756
+  xy: 1092, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Turkish
   rotate: false
-  xy: 1092, 212
+  xy: 1228, 332
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 NationIcons/The Zulu
   rotate: false
-  xy: 1228, 348
+  xy: 1364, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Basket
   rotate: false
-  xy: 4, 356
+  xy: 4, 340
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Bison
   rotate: false
-  xy: 540, 892
+  xy: 540, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Camel
   rotate: false
-  xy: 4, 220
+  xy: 4, 204
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Cement
   rotate: false
-  xy: 4, 84
+  xy: 4, 68
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Coffee Beans
   rotate: false
-  xy: 1220, 892
+  xy: 1220, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Grapes
   rotate: false
-  xy: 140, 356
+  xy: 140, 340
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Niter
   rotate: false
-  xy: 412, 484
+  xy: 412, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Paper
   rotate: false
-  xy: 548, 620
+  xy: 548, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Rice
   rotate: false
-  xy: 684, 620
+  xy: 684, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Tunics
   rotate: false
-  xy: 1500, 620
+  xy: 1636, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Turtle
   rotate: false
-  xy: 1636, 756
+  xy: 1228, 196
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 ResourceIcons/Watermelon
   rotate: false
-  xy: 1500, 484
+  xy: 1636, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Age of Tomorrow
   rotate: false
-  xy: 1772, 629
+  xy: 384, 90
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Contemporary Age
   rotate: false
-  xy: 384, 106
+  xy: 672, 154
   size: 32, 34
   orig: 32, 34
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-High Middle Ages
   rotate: false
-  xy: 220, 44
+  xy: 424, 92
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Machine Age
   rotate: false
-  xy: 888, 171
+  xy: 712, 155
   size: 32, 33
   orig: 32, 33
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Tiles/City center-Neolithic era
   rotate: false
-  xy: 220, 4
+  xy: 464, 92
   size: 32, 32
   orig: 32, 32
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Chariot
   rotate: false
-  xy: 1844, 720
+  xy: 220, 32
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Fieldgun
   rotate: false
-  xy: 1844, 684
+  xy: 752, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Footman
   rotate: false
-  xy: 928, 176
+  xy: 504, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Halberdier
   rotate: false
-  xy: 968, 176
+  xy: 792, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Line Infantry
   rotate: false
-  xy: 1008, 176
+  xy: 544, 96
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Main Battle Tank
   rotate: false
-  xy: 1048, 176
+  xy: 832, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/FantasyHex/Units/Man-at-Arms
   rotate: false
-  xy: 1088, 176
+  xy: 872, 160
   size: 32, 28
   orig: 32, 28
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Age of Tomorrow
   rotate: false
-  xy: 1772, 671
+  xy: 1908, 791
   size: 64, 77
   orig: 64, 77
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Comtemporary Age
   rotate: false
-  xy: 1908, 811
+  xy: 1980, 795
   size: 64, 73
   orig: 64, 73
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-High Middle Ages
   rotate: false
-  xy: 1980, 818
+  xy: 1980, 721
   size: 64, 66
   orig: 64, 66
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Machine Age
   rotate: false
-  xy: 1980, 740
+  xy: 1908, 713
   size: 64, 70
   orig: 64, 70
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Tiles/City center-Neolithic era
   rotate: false
-  xy: 1908, 739
+  xy: 1980, 649
   size: 64, 64
   orig: 64, 64
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Chariot
   rotate: false
-  xy: 4, 20
+  xy: 4, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Fieldgun
   rotate: false
-  xy: 384, 148
+  xy: 384, 132
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Footman
   rotate: false
-  xy: 76, 20
+  xy: 76, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Halberdier
   rotate: false
-  xy: 456, 144
+  xy: 1500, 192
   size: 64, 60
   orig: 64, 60
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Line Infantry
   rotate: false
-  xy: 148, 20
+  xy: 148, 4
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Main Battle Tank
   rotate: false
-  xy: 528, 148
+  xy: 456, 132
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 TileSets/HexaRealm/Units/Man-at-Arms
   rotate: false
-  xy: 600, 148
+  xy: 528, 132
   size: 64, 56
   orig: 64, 56
   offset: 0, 0
   index: -1
 UnitIcons/Aga-ush
   rotate: false
-  xy: 268, 892
+  xy: 268, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Chariot
   rotate: false
-  xy: 948, 892
+  xy: 948, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Courser
   rotate: false
-  xy: 1492, 892
+  xy: 1492, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Haras
   rotate: false
-  xy: 1492, 892
+  xy: 1492, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Fieldgun
   rotate: false
-  xy: 1900, 892
+  xy: 1900, 876
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Footman
   rotate: false
-  xy: 140, 628
+  xy: 140, 612
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Halberdier
   rotate: false
-  xy: 140, 220
+  xy: 140, 204
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Line Infantry
   rotate: false
-  xy: 276, 620
+  xy: 276, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Main Battle Tank
   rotate: false
-  xy: 276, 484
+  xy: 276, 468
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Man-at-Arms
   rotate: false
-  xy: 412, 620
+  xy: 412, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Medjay
   rotate: false
-  xy: 1500, 376
+  xy: 1636, 496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Pedanda
   rotate: false
-  xy: 684, 756
+  xy: 684, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Sarissaman
   rotate: false
-  xy: 820, 756
+  xy: 820, 740
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
   index: -1
 UnitIcons/Siege Tower
   rotate: false
-  xy: 820, 620
+  xy: 820, 604
   size: 128, 128
   orig: 128, 128
   offset: 0, 0
