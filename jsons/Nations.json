@@ -640,6 +640,29 @@
 		"spyNames": ["Aran","Chanarong","Kiet","Niran","Virote","Kulap","Mayuree","Phueng","Ratana","Tola",
 		             "Sombun","Klahan","Suriya","Preecha","Somchit","Somboon","Mali","Sukanya","Kaeo","Amphon"],
 },
+{
+		"name": "The Koreans",
+		"leaderName": "Seondeok",
+		"startBias": ["Grassland","Hill"],
+        "favoredReligion": "Buddhism",
+
+        "declaringWar": "You lowly, arrogant fool! I will make you regret of your insolence!",
+		"attacked": "You scoundrel! I shall prepare to fend you off!",
+		"defeated": "Although I lost, my honor shall endure. I wish you good luck.",
+		"introduction": "I, Pho Kun Ramkhamhaeng, King of Siam, consider it a great honor that you have walked to visit my country of Siam.",
+
+		"neutralHello": "Welcome.",
+		"hateHello": "Greetings.",
+
+		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
+
+		"outerColor": [245, 230, 55],
+		"innerColor": [177, 8, 3],
+		"uniqueName": "Three Kingdoms",
+		"cities": ["Seoul"],
+		"spyNames": ["Aran","Chanarong","Kiet","Niran","Virote","Kulap","Mayuree","Phueng","Ratana","Tola",
+		             "Sombun","Klahan","Suriya","Preecha","Somchit","Somboon","Mali","Sukanya","Kaeo","Amphon"],
+},
 	// City-States
 {
 		"name": "Tuʻi Tonga Peoples",
