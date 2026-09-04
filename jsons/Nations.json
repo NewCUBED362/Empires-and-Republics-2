@@ -646,10 +646,10 @@
 		"startBias": ["Grassland","Hill"],
         "favoredReligion": "Buddhism",
 
-        "declaringWar": "You lowly, arrogant fool! I will make you regret of your insolence!",
-		"attacked": "You scoundrel! I shall prepare to fend you off!",
-		"defeated": "Although I lost, my honor shall endure. I wish you good luck.",
-		"introduction": "I, Pho Kun Ramkhamhaeng, King of Siam, consider it a great honor that you have walked to visit my country of Siam.",
+        "declaringWar": "The stars foretell your defeat. The will of Heaven cannot be denied.",
+		"attacked": "I foresee that your defeat will be swift and your nation will be forgotten.",
+		"defeated": "I foresaw my death, but Korea's fate would be different.",
+		"introduction": "I, Seondeok of Korea, acknowledge you. Our meeting was foreseen.",
 
 		"neutralHello": "Welcome.",
 		"hateHello": "Greetings.",
