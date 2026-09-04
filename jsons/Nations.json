@@ -630,7 +630,7 @@
 		"outerColor": [245, 230, 55],
 		"innerColor": [177, 8, 3],
 		"uniqueName": "Itsaraphab",
-		"cities": ["Bangkok"],
+		"cities": ["Bangkok","Ayutthaya","Nonthaburi","Nakhon Si Thammarat","Nakhon Chaisi","Chiang Mai","Ratchaburi","Chachoengsao","Chanthanaburi","Chonburi"],
 		"spyNames": ["Tiki","Hotu Matua","Rongo-ma-tane","Kupe","Haloti","Degei","Babamik","Kulu Lau","Nangananga","Turua","Tama","Enele","Sione","Mele"],
 },
 	// City-States
