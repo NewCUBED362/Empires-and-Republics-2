@@ -177,6 +177,22 @@
 					"Every [22] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
+		"name": "Marsh",
+		"type": "TerrainFeature",
+		"food": 1,
+		"MovementCost": 2,
+		"overrideStaats": true,
+		"unbuildable": true,
+		"defenceBonus": -0.15,
+		"occursOn": ["Grasslands"],
+		"uniques": ["Vegetation",
+					"Has an elevation of [0] for visibility calculations",
+					"[-2] to Fertility for Map Generation",
+					"Considered [Undesirable] when determining start locations",
+					"Every [9] tiles with this terrain will recieve a major deposit of a strategic resource."]
+		
+		
+	{
 		"name": "Forest",
 		"type": "TerrainFeature",
 		"production": 1,
