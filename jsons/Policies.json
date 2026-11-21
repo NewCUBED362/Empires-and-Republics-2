@@ -243,8 +243,8 @@
         "name": "Aegean Commerce",
         "row": 2,
         "column": 6,
-        "uniques": ["[+1 Culture] [in all cities]",
-                    "[+1 Happiness] [in capital]"],
+        "uniques": ["[+1 Gold] [in all coastal cities]",
+                    "[+1 Gold] from all [Dock] buildings"],
       },
       {
         "name": "Hellenic Culture Complete",
