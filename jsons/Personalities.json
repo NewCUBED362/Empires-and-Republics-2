@@ -123,5 +123,30 @@
       "Achaemenid Persian Culture": 7,
       "Hellenic Culture": 6,
     }
+  },
+  {
+    "name": "Pericles",
+    "production": 6,
+    "food": 6,
+    "gold": 8,
+    "science": 5,
+    "culture": 6,
+    "happiness": 7,
+    "faith": 10,
+    "military": 9,
+    "aggressive": 6,
+    "declareWar": 7,
+    "commerce": 8,
+    "diplomacy": 9,
+    "loyal": 9,
+    "expansion": 8,
+    "denounceWillingness": 3,
+    "priorities": {
+      "Roman Culture": 6,
+      "Han Culture": 2,
+      "Egyptian Culture": 4,
+      "Achaemenid Persian Culture": 4,
+      "Hellenic Culture": 9,
+    }
   }
 ]
