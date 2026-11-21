@@ -137,6 +137,7 @@
 		"leaderName": "Saladin",
 		"startBias": ["Desert"],
         "favoredReligion": "Sunni Islam",
+	    "personality": "Saladin",
 
 	    "startIntroPart1": "You have built great cities of stone and seen early empires rise and fall. Soon you will stand under the towering pinnacles of castles alongside your gallant knights. That is where the story of your people will be written. Just as the young apprentice learns to carry a sword, so shall you grow to understand your place in this world.",
 	    "startIntroPart2": "The marriage of science and religion is a delicate balancing act, but one that you have mastered, Saladin. Your quest for knowledge is noble, and your people have a deep respect for you. But you need not rush into the unknown. Given time, the answers to life's most puzzling questions will find their way back to Arabia.",
