@@ -237,8 +237,7 @@
         "name": "Hoplite Tradition",
         "row": 2,
         "column": 4,
-        "uniques": ["[+1 Culture] [in all cities]",
-                    "[+1 Happiness] [in capital]"],
+        "uniques": ["[+1 Production] from all [Barracks] buildings"],
       },
       {
         "name": "Aegean Commerce",
