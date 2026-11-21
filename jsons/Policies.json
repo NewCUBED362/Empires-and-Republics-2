@@ -230,8 +230,8 @@
         "name": "Civic Assembly",
         "row": 2,
         "column": 1,
-        "uniques": ["[+1 Culture] [in all cities]",
-                    "[+1 Happiness] [in capital]"],
+        "uniques": ["[+1 Culture] from all [Amphitheater] buildings",
+                    "[+1 Culture] <in cities with at least [5] [Population]>"],
       },
       {
         "name": "Hoplite Tradition",
