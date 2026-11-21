@@ -19,8 +19,9 @@
     "priorities": {
       "Roman Culture": 9,
       "Han Culture": 2,
-      "Egyptian Culture": 5
+      "Egyptian Culture": 5,
       "Achaemenid Persian Culture": 4,
+      "Hellenic Culture": 8,
     }
   },
   {
@@ -45,6 +46,7 @@
       "Han Culture": 2,
       "Egyptian Culture": 2
       "Achaemenid Persian Culture": 2,
+      "Hellenic Culture": 4
     }
   },
   {
@@ -68,7 +70,8 @@
       "Roman Culture": 2,
       "Han Culture": 9,
       "Egyptian Culture": 2,
-      "Achaemenid Persian Culture": 2,
+      "Achaemenid Persian Culture": 3,
+      "Hellenic Culture": 2
     }
   },
   {
@@ -92,7 +95,8 @@
       "Roman Culture": 7,
       "Han Culture": 5,
       "Egyptian Culture": 9,
-      "Achaemenid Persian Culture": 7
+      "Achaemenid Persian Culture": 7,
+      "Hellenic Culture": 6,
     }
   }
 ]
