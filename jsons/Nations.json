@@ -954,7 +954,7 @@
 
 		"declaringWar": "Let there be war between us! I will wrestle your lands away, and rule your subjects with strength.",
 		"attacked": "Very well, this won't be forgotten.",
-		"defeated": "How did you darken the sun? I ruled with diligence and mercy—see that you do so as well.",
+		"defeated": "Our riches stolen, our cities lie destroyed, our traditions will soon banish to the winds... But you'll never find El Dorado!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Hunza"]
@@ -966,7 +966,7 @@
 
 		"declaringWar": "Now we will see if you are cowards or warriors!",
 		"attacked": "All empires that face us meet their end.",
-		"defeated": "You will burn for this!",
+		"defeated": "I fear for the future of my country and my people.",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["Herat"]
@@ -978,7 +978,7 @@
 
 		"declaringWar": "Now we will see if you are cowards or warriors!",
 		"attacked": "Your soldiers will die on the battlefield or upon an altar.",
-		"defeated": "Our civilization falls to ashes...",
+		"defeated": "You may have defeated my kingdom, but its mark shall never leave these lands!",
 		"outerColor": [0, 0, 0],
 		"innerColor": [255, 255, 255],
 		"cities": ["La Venta"]
