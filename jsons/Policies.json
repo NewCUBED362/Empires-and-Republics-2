@@ -261,8 +261,7 @@
         "row": 3,
         "column": 3,
         "requires": ["Civic Assembly"],
-        "uniques": ["[+1 Culture] from all [Amphitheater] buildings",
-                    "[+1 Culture] <in cities with at least [5] [Population]>"],
+        "uniques": ["[+1 Science] from all [Library] buildings"],
       },
       {
         "name": "Pan-Hellenic Games",
