@@ -268,16 +268,14 @@
         "row": 3,
         "column": 5,
         "requires": ["Hoplite Tradition"],
-        "uniques": ["[+1 Culture] from all [Amphitheater] buildings",
-                    "[+1 Culture] <in cities with at least [5] [Population]>"],
+        "uniques": ["[+2 Happiness] from all [Colosseum] buildings"],
       },
       {
         "name": "Apoikiai",
         "row": 3,
         "column": 7,
         "requires": ["Aegean Commerce"],
-        "uniques": ["[+1 Culture] from all [Amphitheater] buildings",
-                    "[+1 Culture] <in cities with at least [5] [Population]>"],
+        "uniques": ["[+15]% Production when constructing [Settler] units [in all cities]"],
       },
       {
         "name": "Hellenic Culture Complete",
