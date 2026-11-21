@@ -98,5 +98,30 @@
       "Achaemenid Persian Culture": 7,
       "Hellenic Culture": 6,
     }
+  },
+  {
+    "name": "Saladin",
+    "production": 7,
+    "food": 6,
+    "gold": 6,
+    "science": 5,
+    "culture": 7,
+    "happiness": 6,
+    "faith": 7,
+    "military": 3,
+    "aggressive": 4,
+    "declareWar": 3,
+    "commerce": 4,
+    "diplomacy": 5,
+    "loyal": 4,
+    "expansion": 5,
+    "denounceWillingness": 4,
+    "priorities": {
+      "Roman Culture": 3,
+      "Han Culture": 2,
+      "Egyptian Culture": 9,
+      "Achaemenid Persian Culture": 7,
+      "Hellenic Culture": 6,
+    }
   }
 ]
