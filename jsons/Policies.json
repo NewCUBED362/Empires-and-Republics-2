@@ -223,8 +223,8 @@
         "name": "The Polis",
         "row": 1,
         "column": 1,
-        "uniques": ["[+2 Happiness] [in capital]",
-                    "[-10]% Unhappiness from [Population] [in all cities] <when at war>"],
+        "uniques": ["[+1 Culture] [in all cities]",
+                    "[+1 Happiness] [in capital]"],
       },
       {
         "name": "Hellenic Culture Complete",
